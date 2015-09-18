@@ -1,15 +1,11 @@
 # aosn.github.io
 
-## ŠT—v
+## æ¦‚è¦
 
-[aosn.github.io](http://aosn.github.io/) ‚Ì’†g‚Å‚·B
+[aosn.github.io](http://aosn.github.io/) ã®ä¸­èº«ã§ã™ã€‚
 
-## ŠÇ—
+## ç®¡ç†
 
-### •ÒW•û–@
+### ç·¨é›†æ–¹æ³•
 
-Organization ƒƒ“ƒo[‚Í’N‚Å‚à•ÒW‰Â”\‚Å‚·B•ÒW•û–@‚Í“Á‚É–â‚¢‚Ü‚¹‚ñBGitHub.com ã‚Åƒ_ƒCƒŒƒNƒg‚É•ÒW‚·‚éŒn‚Æ‚©A
-[WebStrom](https://www.jetbrains.com/webstorm/) ‚Æ‚©g‚Á‚¿‚á‚¤Œn‚Æ‚©‰½‚Å‚àB
-
-¡‚Ì‚Æ‚±‚ëƒeƒ“ƒvƒŒ[ƒg‚Æ‚©‰½‚àl‚¦‚Ä‚¢‚Ü‚¹‚ñB[Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) ‚Æ‚©
-G‚Á‚Ä‚İ‚é‚Ì‚à—Ç‚¢‚Ì‚©‚àEEEH
+[MDwiki](http://dynalon.github.io/mdwiki/) ã‚’åˆ©ç”¨ã—ã¦ã„ã‚‹ã®ã§ã€å…¨ã¦ã®å†…å®¹ã¯ Markdown ã§ã™ã€‚ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸ã®ä¸­èº«ã¯ index.md ã§ã™ã€‚
