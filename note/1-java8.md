@@ -12,7 +12,11 @@
 * (原書正誤表) http://www.horstmann.com/java8/bugs.html
 * (訳書正誤表) http://www001.upp.so-net.ne.jp/yshibata/myhomepage/errata/js8rierrata.html
 
+(本勉強会も正誤表に貢献しています)
+
 ## ノート
+
+m: [mikan](/mikan), M: [MrBearing](/MrBearing), Y: [YuichiroSato](/YuichiroSato), n: [namichan0801](/namichan0801), L:[LagunaPresa](/LagunaPresa), i: [intptr-t](/intptr-t), s: [s-hosoai](/s-hosoai)
 
 ### 第1章
 
@@ -65,5 +69,3 @@
 * (M) 大阪締めのやり方 (参考: [Wikipedia](http://ja.wikipedia.org/wiki/%E6%89%8B%E7%B7%A0%E3%82%81#.E5.A4.A7.E9.98.AA.E7.B7.A0.E3.82.81))
 * (m) StackOverflow 日本語版 [リンク](https://ja.stackoverflow.com/)
 * (L) BDD (振る舞い駆動開発) F/W: Spock (Groovy), Specs2 (Scala)
-
-m: [mikan](/mikan), M: [MrBearing](/MrBearing), Y: [YuichiroSato](/YuichiroSato), n: [namichan0801](/namichan0801), L:[LagunaPresa](/LagunaPresa), i: [intptr-t](/intptr-t), s: [s-hosoai](/s-hosoai)
