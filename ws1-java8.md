@@ -116,9 +116,15 @@ m: [mikan](https://github.com/mikan),
 M: [MrBearing](https://github.com/MrBearing), 
 Y: [YuichiroSato](https://github.com/YuichiroSato), 
 n: [namichan0801](https://github.com/namichan0801), 
-L:[LagunaPresa](https://github.com/LagunaPresa), 
+L: [LagunaPresa](https://github.com/LagunaPresa), 
 i: [intptr-t](https://github.com/intptr-t), 
 s: [s-hosoai](https://github.com/s-hosoai)
+
+## 成果物
+
+### 読書ノート
+
+[読書ノート](note/1-java8.md)をご覧ください。
 
 ### 練習問題回答
 
