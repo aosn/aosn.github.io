@@ -35,4 +35,12 @@
 
 ### スケジュール
 
-[README.md](https://github.com/aosn/deeplearning/blob/master/README.md) をご覧ください。
+|  # |     Date & Time (JST)  | A | mMYLis |   Pages   | Other work         |
+|---:|:----------------------:|:-:|:------:|:---------:|:-------------------|
+|  1 | 2015-09-20 21:00-23:00 | 6 | oooooo |   1 -  12 | まえがき等         |
+m: [mikan](https://github.com/mikan), 
+M: [MrBearing](https://github.com/MrBearing), 
+Y: [YuichiroSato](https://github.com/YuichiroSato), 
+L: [LagunaPresa](https://github.com/LagunaPresa), 
+i: [intptr-t](https://github.com/intptr-t), 
+s: [s-hosoai](https://github.com/s-hosoai)
