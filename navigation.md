@@ -1,7 +1,5 @@
 # AOSN 読書会
 
-[Home](index.md)
-
 [実績]()
 
  * # 現行
