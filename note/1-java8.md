@@ -22,7 +22,7 @@ m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearin
 
 * **[p7]** (Y) ラムダ計算のドットと Java のドットが混ざってるのでこの例はややこしい。`λ first . λ second .` までがラムダ式 (`<expr> ::= (λ<identifier>. <expr>)`) 、その後はただの Java の式。 (参考: [Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%83%80%E8%A8%88%E7%AE%97))
 * **[p15]** (m) Thread.yield() は実装によっては全く何もしないので注意 (JPL より)。
-* **[p16]** (m) これって ConcurrentModificationException は出ないんだっけ？あとで検証してみよう。
+* **[p16]** (m) これって ConcurrentModificationException は出ないんだっけ？→出ません
 * **[p20]** (m) 多重継承になるので、両方の意味や契約に矛盾がないか、リスコフの置換原則に従えるかにも気を付けないといけないね。
 
 ### 第2章
