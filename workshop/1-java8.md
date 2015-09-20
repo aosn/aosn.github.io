@@ -131,4 +131,8 @@ m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearin
 
 ## 振り返り
 
-執筆中...
+第43回終了後 (2015/09/13) 実施
+
+### KPT (Keep Problem Try)
+
+![](/images/kpt-java8.png "KPT Java 8")
