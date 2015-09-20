@@ -10,8 +10,18 @@
 
 [MDwiki](http://dynalon.github.io/mdwiki/) を利用しているので、全ての内容は Markdown です。トップページの中身は `index.md` です。
 
-ナビゲーションは `navigation.md` です。書式は MDwiki の tutorial に解説があります。
+#### ナビゲーション
+
+ナビゲーションは `navigation.md` です。MDwiki 公式サイトの Quick Start に解説があります。
 
 > MDwiki - Quick Start
 >
 > http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
+
+#### 細かな設定
+
+設定ファイルは `config.json` です。MDwiki 公式サイトの Customizing に解説があります。
+
+> MDwiki - Customizing
+>
+> http://dynalon.github.io/mdwiki/#!customizing.md#Configuration
