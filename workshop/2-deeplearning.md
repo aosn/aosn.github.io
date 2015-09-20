@@ -18,7 +18,7 @@
 
 正誤表: [出版社正誤表](http://www.kspub.co.jp/download/) ([2015/05/28 PDF](http://www.kspub.co.jp/download/1529021a.pdf))
 
-### 参加者
+## 参加者
 
 募集中。
 
@@ -33,7 +33,7 @@
 | [intptr-t](https://github.com/intptr-t)         | 愛知県   |                |
 | [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 司会進行役     |
 
-### スケジュール
+## スケジュール
 
 |  # |     Date & Time (JST)  | A | mMYLis |   Pages   | Other work         |
 |---:|:----------------------:|:-:|:------:|:---------:|:-------------------|
@@ -44,3 +44,9 @@ Y: [YuichiroSato](https://github.com/YuichiroSato),
 L: [LagunaPresa](https://github.com/LagunaPresa), 
 i: [intptr-t](https://github.com/intptr-t), 
 s: [s-hosoai](https://github.com/s-hosoai)
+
+## 成果物
+
+### 読書ノート
+
+[読書ノート](/note/2-deeplearning.md)をご覧ください。
