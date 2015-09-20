@@ -1,5 +1,7 @@
 # 深層学習
 
+[![深層学習](/images/cover-deeplearning.jpg)](http://www.amazon.co.jp/dp/4061529021/)
+
 「深層学習」読書会の記録です。
 
 ## 概要
