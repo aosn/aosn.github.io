@@ -124,7 +124,7 @@ s: [s-hosoai](https://github.com/s-hosoai)
 
 ### 読書ノート
 
-[読書ノート](note/1-java8.md)をご覧ください。
+[読書ノート](/note/1-java8.md)をご覧ください。
 
 ### 練習問題回答
 
