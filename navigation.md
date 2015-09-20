@@ -3,10 +3,10 @@
 [実績]()
 
  * # 現行
- * [Deep Learning](ws2-deeplarning.md)
+ * [深層学習](ws2-deeplarning.md)
  - - - -
  * # 終了
- * [Java 8](ws1-java8.md)
+ * [Java SE 8 実践プログラミング](ws1-java8.md)
 
 [イベント]()
 
