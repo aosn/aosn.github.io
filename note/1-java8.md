@@ -16,7 +16,7 @@
 
 ## ノート
 
-m: [mikan](/mikan), M: [MrBearing](/MrBearing), Y: [YuichiroSato](/YuichiroSato), n: [namichan0801](/namichan0801), L:[LagunaPresa](/LagunaPresa), i: [intptr-t](/intptr-t), s: [s-hosoai](/s-hosoai)
+m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearing), Y: [YuichiroSato](https://github.com/YuichiroSato), n: [namichan0801](https://github.com/namichan0801), L:[LagunaPresa](https://github.com/LagunaPresa), i: [intptr-t](https://github.com/intptr-t), s: [s-hosoai](https://github.com/s-hosoai)
 
 ### 第1章
 
