@@ -111,7 +111,6 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 | 41 | 2015-08-30 21:00-23:00 | 5 | oox-ooo | 168 - 179 | 7-1                |
 | 42 | 2015-09-06 21:00-23:00 | 6 | ooo-ooo | 179 - 216 |                    |
 | 43 | 2015-09-12 Arima Onsen | 6 | ooo-ooo |           | 8-1,2,3            |
-|    | PROGRAMMER'S DAY       |   |         |           |                    |
 m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearing), Y: [YuichiroSato](https://github.com/YuichiroSato), n: [namichan0801](https://github.com/namichan0801), L: [LagunaPresa](https://github.com/LagunaPresa), i: [intptr-t](https://github.com/intptr-t), s: [s-hosoai](https://github.com/s-hosoai)
 
 ## 成果物
