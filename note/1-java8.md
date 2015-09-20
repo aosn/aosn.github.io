@@ -9,8 +9,8 @@
 
 討議事項が正誤表に記載されていることがあります。確認してください。
 
-* (原書正誤表) http://www.horstmann.com/java8/bugs.html
-* (訳書正誤表) http://www001.upp.so-net.ne.jp/yshibata/myhomepage/errata/js8rierrata.html
+* 原書正誤表: http://www.horstmann.com/java8/bugs.html
+* 訳書正誤表: http://www001.upp.so-net.ne.jp/yshibata/myhomepage/errata/js8rierrata.html
 
 (本勉強会も正誤表に貢献しています)
 
