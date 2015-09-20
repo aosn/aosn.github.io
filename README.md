@@ -13,4 +13,5 @@
 ナビゲーションは `navigation.md` です。書式は MDwiki の tutorial に解説があります。
 
 > MDwiki - Quick Start
+>
 > http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
