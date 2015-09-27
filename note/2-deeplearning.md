@@ -60,10 +60,9 @@ wとbを学習で割り出すのがニューラルネットの本質？
 ```
 
 #### 2.3
-```
-“x;” はパラメーターの意味を区別するために与えている模様。
-```
-→ [Wikipedia:セミコロン](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9F%E3%82%B3%E3%83%AD%E3%83%B3)
+
+記号解説
+* `x;w` セミコロン → [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9F%E3%82%B3%E3%83%AD%E3%83%B3)
 
 #### 2.4
 ```
@@ -72,7 +71,7 @@ wとbを学習で割り出すのがニューラルネットの本質？
 → E(w) = -log(L(w)
 ```
 
-各種記号解説
+記号解説
 * `||...||` ノルム (絶対値)
 * `≡` 恒等 → [Wikipedia](https://ja.wikipedia.org/wiki/%E7%AD%89%E5%8F%B7)
 * `exp(...)` 指数関数 → [Wikipedia](https://ja.wikipedia.org/wiki/%E6%8C%87%E6%95%B0%E9%96%A2%E6%95%B0)
@@ -82,7 +81,7 @@ wとbを学習で割り出すのがニューラルネットの本質？
 
 #### 3.1
 
-各種記号解説
+記号解説
 * `argmin(...)` 関数の値が最小になる引数 → [Wikipedia](https://ja.wikipedia.org/wiki/Arg_max)
 * `∇` ナブラ
 * `δ` デルタ
