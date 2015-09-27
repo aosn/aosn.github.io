@@ -43,8 +43,7 @@
 |---:|:----------------------:|:-:|:--------:|:---------:|:-------------------|
 |  1 | 2015-09-20 21:00-23:00 | 6 | oooooo-- |   1 -  12 | まえがき等         |
 |  1 | 2015-09-27 21:00-23:00 | 8 | oooooooo |  12 -  26 | 　                 |
-1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi)
-8: [marishi](https://github.com/marishi)
+1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi), 8: [marishi](https://github.com/marishi)
 
 ## 成果物
 
