@@ -86,6 +86,7 @@ wとbを学習で割り出すのがニューラルネットの本質？
 記号解説
 
 * `argmin(...)` 関数の値が最小になる引数 → [Wikipedia](https://ja.wikipedia.org/wiki/Arg_max)
+* `凸関数` もっこりしてるやつ → [Wikipedia](https://ja.wikipedia.org/wiki/%E5%87%B8%E9%96%A2%E6%95%B0)  / [グラフ例 (Google)](https://www.google.co.jp/?gws_rd=ssl#q=%3Dx%5E4-3x%5E3-4x%5E2%2B3x)
 * `∇` ナブラ
 * `δ` デルタ
 * `ε` イプシロン
