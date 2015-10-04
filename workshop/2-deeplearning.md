@@ -30,7 +30,7 @@
 |:------------------------------------------------|:---------|:---------------|
 | [mikan](https://github.com/mikan)               | 神奈川県 | 調整役         |
 | [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役         |
-| [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                |
+| [YuichiroSato](https://github.com/YuichiroSato) | 石川県   | 司会進行代行   |
 | [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   |                |
 | [intptr-t](https://github.com/intptr-t)         | 愛知県   |                |
 | [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 司会進行役     |
@@ -43,6 +43,7 @@
 |---:|:----------------------:|:-:|:--------:|:---------:|:-------------------|
 |  1 | 2015-09-20 21:00-23:00 | 6 | oooooo-- |   1 -  12 | まえがき等         |
 |  2 | 2015-09-27 21:00-23:00 | 8 | oooooooo |  12 -  26 | 　                 |
+|  3 | 2015-10-04 21:00-23:00 | 8 | ooooo-o- |  26 -  43 | 　                 |
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi), 8: [marishi](https://github.com/marishi)
 
 ## 成果物
