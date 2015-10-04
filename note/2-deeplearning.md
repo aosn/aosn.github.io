@@ -100,3 +100,6 @@ wとbを学習で割り出すのがニューラルネットの本質？
 * 先端IT活用コンソーシアム [松尾豊氏 講演資料](http://aitc.jp/events/20150618-OpenLab/20150618_IoTv2.pdf) (AITCオープンラボ [ #5](http://aitc.jp/events/20150618-OpenLab/info.html))
 * 画像解析できるマン http://usagee.co.jp/computer-vision/
 
+### #2 (2015/10/04)
+
+* [C++とJavaでつくるニューラルネットワーク](http://www.personal-media.co.jp/book/comp/247.html)
