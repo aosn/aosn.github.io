@@ -113,4 +113,4 @@ wとbを学習で割り出すのがニューラルネットの本質？
 
 ### #4 (2015/10/11)
 
-* [偏微分・全微分](http://www.iwata-system-support.com/CAE_HomePage/vector/differential7/differential7.html)
+* [全微分](http://www.iwata-system-support.com/CAE_HomePage/vector/differential7/differential7.html)
