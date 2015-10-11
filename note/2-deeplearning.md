@@ -98,6 +98,12 @@ wとbを学習で割り出すのがニューラルネットの本質？
 * `σ` シグマ
 * `μ` ミュー
 
+#### 4.2
+
+記号解説
+
+* `∘` アダマール積 → [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%80%E3%83%9E%E3%83%BC%E3%83%AB%E7%A9%8D)
+
 ## 参考資料
 
 読書会で共有した各種資料など。
@@ -114,3 +120,4 @@ wとbを学習で割り出すのがニューラルネットの本質？
 ### #4 (2015/10/11)
 
 * [全微分](http://www.iwata-system-support.com/CAE_HomePage/vector/differential7/differential7.html)
+
