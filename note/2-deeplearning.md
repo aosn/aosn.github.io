@@ -110,3 +110,7 @@ wとbを学習で割り出すのがニューラルネットの本質？
 ### #3 (2015/10/04)
 
 * [C++とJavaでつくるニューラルネットワーク](http://www.personal-media.co.jp/book/comp/247.html)
+
+### #4 (2015/10/11)
+
+* [偏微分・全微分](http://www.iwata-system-support.com/CAE_HomePage/vector/differential7/differential7.html)
