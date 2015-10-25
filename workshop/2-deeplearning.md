@@ -46,6 +46,7 @@
 |  3 | 2015-10-04 21:00-23:00 | 6 | ooooo-o- |  26 -  43 | 　                 |
 |  4 | 2015-10-11 21:00-23:00 | 6 | oooooo-- |  43 -  54 | 　                 |
 |  5 | 2015-10-18 21:00-23:00 | 6 | oooooo-- |           | コードリーディング |
+|  4 | 2015-10-25 21:00-23:00 | 6 | oooooo-- |  55 - 72  | 　                 |
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi), 8: [marishi](https://github.com/marishi)
 
 ## 成果物
