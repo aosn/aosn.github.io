@@ -129,3 +129,6 @@ wとbを学習で割り出すのがニューラルネットの本質？
 
 * [全微分](http://www.iwata-system-support.com/CAE_HomePage/vector/differential7/differential7.html)
 
+### #7 (2015/11/01)
+
+* [ディープラーニング－畳み込みニューラルネットワークとPythonによる特徴抽出](http://postd.cc/deep-learning-convolutional-neural-networks-and-feature-extraction-with-python/)
