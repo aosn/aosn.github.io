@@ -132,3 +132,4 @@ wとbを学習で割り出すのがニューラルネットの本質？
 ### #7 (2015/11/01)
 
 * [ディープラーニング－畳み込みニューラルネットワークとPythonによる特徴抽出](http://postd.cc/deep-learning-convolutional-neural-networks-and-feature-extraction-with-python/)
+* [Clarifai](http://www.clarifai.com/#demo)
