@@ -2,6 +2,9 @@
 
 [実績]()
 
+ * # 計画
+ * [Gradle 徹底入門](/workshop/3-gradle.md)
+ - - - -
  * # 現行
  * [深層学習](/workshop/2-deeplearning.md)
  - - - -
@@ -10,6 +13,9 @@
 
 [読書ノート]()
 
+ * # 計画
+ * [Gradle 徹底入門](/note/3-gradle.md)
+ - - - -
  * # 現行
  * [深層学習](/note/2-deeplearning.md)
  - - - -
