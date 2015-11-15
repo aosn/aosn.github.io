@@ -16,7 +16,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 | 1 | Java SE 8 実践プログラミング | 264 | 2014/11/23 - 2015/09/13 |  7 | 43 | [レポート](/workshop/1-java8.md)      |
 
 [![](/images/cover-java8.jpg "Java SE 8 実践プログラミング")](/workshop/1-java8.md)
-[![](/images/cover-deeplearning.jpg "深層学習")](/workshop/2-deeplarning.md)
+[![](/images/cover-deeplearning.jpg "深層学習")](/workshop/2-deeplearning.md)
 [![](/images/cover-gradle.jpg "Gradle 徹底入門")](/workshop/3-gradle.md)
 
 ## 参加方法
