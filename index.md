@@ -15,6 +15,10 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 | 2 | 深層学習                     | 176 | 2015/09/20 - (実施中)   |  8 |    | [実施中](/workshop/2-deeplearning.md) |
 | 1 | Java SE 8 実践プログラミング | 264 | 2014/11/23 - 2015/09/13 |  7 | 43 | [レポート](/workshop/1-java8.md)      |
 
+![](/images/cover-java8.jpg "Java SE 8 実践プログラミング")
+![](/images/cover-deeplearning.jpg "深層学習")
+![](/images/cover-gradle.jpg "Gradle 徹底入門")
+
 ## 参加方法
 
 調整役の [mikan](Https://github.com/mikan)、または勉強会の参加者の誰かにコンタクトしてみてください。GitHub と Skype の ID と、マイクが使える環境をご用意ください。お試し参加や、途中の回からの参加や離脱もできます。都合により自宅以外から参加したい時は ROM 参加も認めています。
