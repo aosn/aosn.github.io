@@ -36,6 +36,7 @@
 | [s-hosoai](https://github.com/s-hosoai)         | 福岡県   |                |
 | [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                |
 | [marishi](https://github.com/marishi)           | 岐阜県   |                |
+| ???                                             | 埼玉県   |                |
 
 ## スケジュール
 
