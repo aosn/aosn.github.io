@@ -6,7 +6,7 @@
 
 ## 概要
 
-* 期間: 未定
+* 期間: 2015/11/29 ～ 現在
 * 内容: 未定
 
 ### 対象書籍
@@ -42,7 +42,7 @@
 
 |  # |     Date & Time (JST)  | A | 123456789 |   Pages   | Other work         |
 |---:|:----------------------:|:-:|:---------:|:---------:|:-------------------|
-|  1 | 2015-XX-XX 21:00-23:00 |   |           |           |                    |
+|  1 | 2015-11-29 21:00-23:00 |   |           |           |                    |
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi), 8: [marishi](https://github.com/marishi) 9:[amatubu2525](https://github.com/amatubu2525)
 
 ## 成果物
