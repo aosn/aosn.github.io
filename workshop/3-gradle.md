@@ -32,8 +32,8 @@
 | [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役         |
 | [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                |
 | [intptr-t](https://github.com/intptr-t)         | 愛知県   |                |
-| [s-hosoai](https://github.com/s-hosoai)         | 福岡県   |                |
-| [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                |
+| [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版         |
+| [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 電子版         |
 | [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   |                |
 
 ## スケジュール
