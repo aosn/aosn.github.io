@@ -38,9 +38,9 @@
 
 ## スケジュール
 
-|  # |     Date & Time (JST)  | A | 1234567 |   Pages   | Other work         |
-|---:|:----------------------:|:-:|:-------:|:---------:|:-------------------|
-|  1 | 2015-11-29 21:00-23:00 |   | oooo-oo |           |                    |
+|  # |     Date & Time (JST)  | A | 1234567 |   Pages   | Other work             |
+|---:|:----------------------:|:-:|:-------:|:---------:|:-----------------------|
+|  1 | 2015-11-29 21:00-23:00 |   | oooo-oo | 1 - 24    | はじめに, 本書の読み方 |
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525)
 
 ## 成果物
