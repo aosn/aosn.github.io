@@ -26,9 +26,9 @@ task の定義がわからない。
 #### 3.4.1
 ```
 P60 buldscript は buildscript の typo っぽい。
-→ Eratta 報告するか。
+→ Eratta 報告します (mikan)
 ```
 
-### 参考仕様
+### 参考情報
 
 https://msys2.github.io/
