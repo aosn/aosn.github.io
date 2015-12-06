@@ -23,3 +23,12 @@ task の定義がわからない。
 → 演算子のオーバーロードで実現している模様
 ```
 
+#### 3.4.1
+```
+P60 buldscript は buildscript の typo っぽい。
+→ Eratta 報告するか。
+```
+
+### 参考仕様
+
+https://msys2.github.io/
