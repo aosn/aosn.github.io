@@ -31,11 +31,11 @@ m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearin
 
 ### 第7章
 
-* **[ex1]** これはシンタックスエラーですね: https://twitter.com/Sh1bumi/status/562008866322677761
+* **[Ex.7-1]** これはシンタックスエラーですね: https://twitter.com/Sh1bumi/status/562008866322677761
 
 ### 第8章
 
-* **[Ex8-3]** (m) ~~`floorMode` は `floorMod` の誤植と思われる。~~ → 訳者に報告済。正誤表参照。
+* **[Ex.8-3]** (m) ~~`floorMode` は `floorMod` の誤植と思われる。~~ → 訳者に報告済。正誤表参照。
 
 ### 第9章
 
