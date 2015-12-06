@@ -33,6 +33,10 @@ m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearin
 
 * **[ex1]** これはシンタックスエラーですね: https://twitter.com/Sh1bumi/status/562008866322677761
 
+### 第8章
+
+* **[Ex8-3]** ~~`floorMode` は `floorMod` の誤植と思われる。~~ → 訳者に報告済。正誤表参照。
+
 ### 第9章
 
 * **[p212]**
