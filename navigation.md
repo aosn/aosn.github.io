@@ -22,3 +22,4 @@
 
  * [2015/09 合宿](/event/1-0913camp.md)
 
+[gimmick:theme](simplex)
