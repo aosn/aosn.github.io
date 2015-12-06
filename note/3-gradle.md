@@ -31,4 +31,4 @@ P60 buldscript は buildscript の typo っぽい。
 
 ### 参考情報
 
-https://msys2.github.io/
+* https://msys2.github.io/ - Windows の人はこれ使うと GVM 環境構築が楽
