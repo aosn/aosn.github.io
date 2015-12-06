@@ -3,8 +3,8 @@
 [実績]()
 
  * # 現行
- * [Gradle 徹底入門](/workshop/3-gradle.md)
  * [リーダブルコード](/workshop/4-readablecode.md)
+ * [Gradle 徹底入門](/workshop/3-gradle.md)
  - - - -
  * # 終了
  * [深層学習](/workshop/2-deeplearning.md)
@@ -13,8 +13,8 @@
 [読書ノート]()
 
  * # 現行
- * [Gradle 徹底入門](/note/3-gradle.md)
  * [リーダブルコード](/note/4-readablecode.md)
+ * [Gradle 徹底入門](/note/3-gradle.md)
  - - - -
  * # 終了
  * [深層学習](/note/2-deeplearning.md)
