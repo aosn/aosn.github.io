@@ -5,7 +5,7 @@ AOSN読書会
 
 IT 分野の技術書をオンラインで輪読する読書会です。毎週日曜 21:00 〜 23:00 に実施しています。
 
-正式名称は Alice on Sunday Nights Workshop です。
+正式名称は Alice on Sunday Nights Workshop です。名前の由来は[最初に読んだ本](/workshop/1-java8.md)の原書の表紙です。
 
 ## 実績
 
