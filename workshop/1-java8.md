@@ -1,6 +1,7 @@
 # Java SE 8 実践プログラミング
 
 [![Java SE 8 実践プログラミング](/images/cover-java8.jpg)](http://www.amazon.co.jp/dp/4844336673/)
+[![Java SE 8 for the Really Impatient](/images/cover-js8ri.jpg)](http://www.amazon.co.jp/dp/0321927761/)
 
 「Java SE 8 実践プログラミング」読書会の記録です。
 
