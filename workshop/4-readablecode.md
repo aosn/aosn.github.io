@@ -35,19 +35,20 @@
 
 | ID                                              | 地域     | 備考             |
 |:------------------------------------------------|:---------|:-----------------|
-| [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                  |
-| [mikan](https://github.com/mikan)               | 神奈川県 | 調整役、司会進行 |
+| [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 司会進行         |
+| [mikan](https://github.com/mikan)               | 神奈川県 | 調整役           |
 | [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
 | [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   |                  |
 | [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
 | [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
+| [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
 
 ## スケジュール
 
 |  # |     Date & Time (JST)  | A | 123456 |   Pages   | Other work             |
 |---:|:----------------------:|:-:|:------:|:---------:|:-----------------------|
-|  1 | 2015-12-13 23:00-23:30 | - | ------ | T.B.D.    |                        |
-1: [mikan](https://github.com/mikan), 2: [akeboshi](https://github.com/akeboshi), 3: [s-hosoai](https://github.com/s-hosoai), 4: [amatubu2525](https://github.com/amatubu2525), 5: [MrBearing](https://github.com/MrBearing), 6:[YuichiroSato](https://github.com/YuichiroSato)
+|  1 | 2015-12-13 23:00-23:30 | - | ------ | oooooo |                        |
+1: [akeboshi](https://github.com/akeboshi), 2: [mikan](https://github.com/mikan), 3: [s-hosoai](https://github.com/s-hosoai), 4: [amatubu2525](https://github.com/amatubu2525), 5: [MrBearing](https://github.com/MrBearing), 6:[YuichiroSato](https://github.com/YuichiroSato), 7:[intptr-t](https://github.com/intptr-t)
 
 ## 成果物
 
