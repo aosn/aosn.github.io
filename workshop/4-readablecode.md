@@ -41,13 +41,13 @@
 | [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   |                  |
 | [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
 | [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
-| [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
+| [intptr-t](https://github.com/intptr-t)         | 愛知県   | 　               |
 
 ## スケジュール
 
-|  # |     Date & Time (JST)  | A | 123456 |   Pages   | Other work             |
-|---:|:----------------------:|:-:|:------:|:---------:|:-----------------------|
-|  1 | 2015-12-13 23:00-23:30 | - | ------ | oooooo |                        |
+|  # |     Date & Time (JST)  | A | 1234567 |   Pages   | Other work             |
+|---:|:----------------------:|:-:|:-------:|:---------:|:-----------------------|
+|  1 | 2015-12-13 23:00-23:30 | - | ooooooo |   1 -   5 |                        |
 1: [akeboshi](https://github.com/akeboshi), 2: [mikan](https://github.com/mikan), 3: [s-hosoai](https://github.com/s-hosoai), 4: [amatubu2525](https://github.com/amatubu2525), 5: [MrBearing](https://github.com/MrBearing), 6:[YuichiroSato](https://github.com/YuichiroSato), 7:[intptr-t](https://github.com/intptr-t)
 
 ## 成果物
