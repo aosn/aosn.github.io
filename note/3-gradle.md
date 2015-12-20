@@ -29,6 +29,34 @@ P60 buldscript は buildscript の typo っぽい。
 → Eratta 報告します (mikan)
 ```
 
+### 第4章
+
+#### 4.3.3
+
+```
+P91 Commit-Id がないと言われる。ここだけ消せば build は通る。
+```
+```
+$ gradle build
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'D:\Projects\Gradle\aosn\ch4-arithmetic\build.gradle' line: 30
+
+* What went wrong:
+A problem occurred evaluating root project 'ch4-arithmetic'.
+> No such property: commitId for class: org.gradle.api.internal.project.DefaultProject_Decorated
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 4.714 secs
+
+```
+
 ### 参考情報
 
 * [MSYS2](https://msys2.github.io/) - Windows の人はこれ使うと GVM 環境構築が楽
