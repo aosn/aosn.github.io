@@ -62,13 +62,13 @@ key と value を区切る ":" が "," になっているのも typo?
 Cannot cast object 'D:\Projects\Gradle\aosn\ch4-arithmetic\build/dist/javadoc' with class 'org.codehaus.groovy.runtime.GStringImpl' to class 'java.io.File'
 このため、次のように書く必要がある。
 
-```gradle
+```
 destinationDir = file("${buildDir}/dist/javadoc")
 ```
 
 公式ドキュメントでは、以下のように記述しているので、こちらのがベターだと思われる。
 
-```gradle
+```
 destinationDir = reporting.file("rest-api-docs")
 ```
 
@@ -78,7 +78,7 @@ destinationDir = reporting.file("rest-api-docs")
 
 **P92** JavaDoc で UTF-8 の日本語で書いたところが MS932 として認識される場合、以下のように options.charSet と options.encoding を指定する。
 
-```gradle
+```
 javadoc {
 	destinationDir = file("${buildDir}/dist/javadoc")
 	title = 'example library V0.1'
