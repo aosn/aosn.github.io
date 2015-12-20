@@ -62,7 +62,7 @@ key と value を区切る ":" が "," になっているのも typo?
 
 **P92** File オブジェクトの destinationDir に文字列を渡しているため、キャストエラーが出る。エラーメッセージは以下。
 ```
-Cannot cast object 'D:\Projects\Gradle\aosn\ch4-arithmetic\build/dist/javadoc' with class 'org.codehaus.groovy.runtime.GStringImpl' to class 'java.io.File'
+Cannot cast object '(省略)ch4-arithmetic\build/dist/javadoc' with class 'org.codehaus.groovy.runtime.GStringImpl' to class 'java.io.File'
 ```
 このため、次のように書く必要がある。
 
