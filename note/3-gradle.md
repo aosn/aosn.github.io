@@ -43,11 +43,13 @@ task の定義がわからない。
 －
 
 **P91** Commit-Id がないと言われる。エラーメッセージは以下。
+```
 No such property: commitId for class: org.gradle.api.internal.project.DefaultProject_Decorated
+```
 key と value を区切る ":" が "," になっているのも typo?
 以下のように、自分で定義した値を入れればとりあえず manifest には入る。
 
-```gradle
+```
 	manifest {
 		attributes(
 			'Implementation-Title': 'Arithmetic Lib',
@@ -59,7 +61,9 @@ key と value を区切る ":" が "," になっているのも typo?
 －
 
 **P92** File オブジェクトの destinationDir に文字列を渡しているため、キャストエラーが出る。エラーメッセージは以下。
+```
 Cannot cast object 'D:\Projects\Gradle\aosn\ch4-arithmetic\build/dist/javadoc' with class 'org.codehaus.groovy.runtime.GStringImpl' to class 'java.io.File'
+```
 このため、次のように書く必要がある。
 
 ```
