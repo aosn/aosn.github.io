@@ -61,8 +61,11 @@ Total time: 4.714 secs
 
 ```
 P92 File オブジェクトの destinationDir に文字列を渡しているため、キャストエラーが出る。このため、次のように書く必要がある。
+```
+```gradle
 destinationDir = file("${buildDir}/dist/javadoc")
-
+```
+```
 以下、素直にやったときのエラー画面。
 
 $ gradle build
