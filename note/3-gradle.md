@@ -36,6 +36,7 @@ P60 buldscript は buildscript の typo っぽい。
 ```
 P91 Commit-Id がないと言われる。エラーメッセージは以下。
 No such property: commitId for class: org.gradle.api.internal.project.DefaultProject_Decorated
+key と value を区切る ":" が "," になっているのは typo?
 以下のように、自分で定義した値を入れればとりあえず manifest には入る。
 ```
 ```gradle
