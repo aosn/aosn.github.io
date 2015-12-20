@@ -76,7 +76,7 @@ destinationDir = reporting.file("rest-api-docs")
 
 -----
 
-P92 JavaDoc で UTF-8 の日本語で書いたところが MS932 として認識される場合、以下のように options.charSet と options.encoding を指定する。
+**P92** JavaDoc で UTF-8 の日本語で書いたところが MS932 として認識される場合、以下のように options.charSet と options.encoding を指定する。
 
 ```gradle
 javadoc {
