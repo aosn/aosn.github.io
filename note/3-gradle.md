@@ -48,8 +48,6 @@ key と value を区切る ":" が "," になっているのも typo?
 	}
 ```
 
-#### 4.3.3
-
 ```
 P92 File オブジェクトの destinationDir に文字列を渡しているため、キャストエラーが出る。エラーメッセージは以下。
 Cannot cast object 'D:\Projects\Gradle\aosn\ch4-arithmetic\build/dist/javadoc' with class 'org.codehaus.groovy.runtime.GStringImpl' to class 'java.io.File'
@@ -57,6 +55,19 @@ Cannot cast object 'D:\Projects\Gradle\aosn\ch4-arithmetic\build/dist/javadoc' w
 ```
 ```gradle
 destinationDir = file("${buildDir}/dist/javadoc")
+```
+
+```
+P92 JavaDoc で UTF-8 の日本語で書いたところが MS932 として認識される場合、以下のように options.charSet と options.encoding を指定する。
+```
+```gradle
+javadoc {
+	destinationDir = file("${buildDir}/dist/javadoc")
+	title = 'example library V0.1'
+	options.charSet = defaultEncoding
+	options.encoding = defaultEncoding
+	options.links << 'http://docs.oracle.com/javase/jp/7/api/'
+}
 ```
 
 ### 参考情報
