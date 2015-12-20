@@ -35,8 +35,9 @@ P60 buldscript は buildscript の typo っぽい。
 
 ```
 P91 Commit-Id がないと言われる。ここだけ消せば build は通る。
-```
-```
+
+以下、素直にやったときのエラー画面。
+
 $ gradle build
 
 FAILURE: Build failed with an exception.
@@ -54,7 +55,33 @@ Run with --stacktrace option to get the stack trace. Run with --info or --debug 
 BUILD FAILED
 
 Total time: 4.714 secs
+```
 
+#### 4.3.3
+
+```
+P92 File オブジェクトの destinationDir に文字列を渡しているため、キャストエラーが出る。このため、次のように書く必要がある。
+destinationDir = file("${buildDir}/dist/javadoc")
+
+以下、素直にやったときのエラー画面。
+
+$ gradle build
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'D:\Projects\Gradle\aosn\ch4-arithmetic\build.gradle' line: 45
+
+* What went wrong:
+A problem occurred evaluating root project 'ch4-arithmetic'.
+> Cannot cast object 'D:\Projects\Gradle\aosn\ch4-arithmetic\build/dist/javadoc' with class 'org.codehaus.groovy.runtime.GStringImpl' to class 'java.io.File'
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 4.807 secs
 ```
 
 ### 参考情報
