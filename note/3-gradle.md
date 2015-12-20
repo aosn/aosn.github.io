@@ -47,6 +47,7 @@ key と value を区切る ":" が "," になっているのも typo?
 			'Commit-Id': 'foo')
 	}
 ```
+→ Eratta 報告します (mikan)
 
 - - -
 
@@ -59,6 +60,7 @@ Cannot cast object '(省略)ch4-arithmetic\build/dist/javadoc' with class 'org.c
 ```
 destinationDir = file("${buildDir}/dist/javadoc")
 ```
+→ Eratta 報告します (mikan)
 
 公式ドキュメントでは、以下のように記述しているので、こちらのがベターだと思われる。
 
