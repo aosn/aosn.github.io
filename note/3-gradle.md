@@ -66,6 +66,14 @@ Cannot cast object 'D:\Projects\Gradle\aosn\ch4-arithmetic\build/dist/javadoc' w
 destinationDir = file("${buildDir}/dist/javadoc")
 ```
 
+公式ドキュメントでは、以下のように記述しているので、こちらのがベターだと思われる。
+
+```gradle
+destinationDir = reporting.file("rest-api-docs")
+```
+
+参考: [Javadoc (Gradle API 2.9)](https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/javadoc/Javadoc.html)
+
 -----
 
 P92 JavaDoc で UTF-8 の日本語で書いたところが MS932 として認識される場合、以下のように options.charSet と options.encoding を指定する。
