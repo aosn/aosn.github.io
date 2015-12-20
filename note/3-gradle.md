@@ -15,32 +15,32 @@
 
 #### 3.1.4
 
-－
+-
 
 task の定義がわからない。
 → **P173** に解説あり。P176 に leftShift() の内容が記載されている。
 
-－
+-
 
 `<<` 記号は何なのか。
 → 演算子のオーバーロードで実現している模様
 
-－
+-
 
 #### 3.4.1
 
-－
+-
 
 **P60** buldscript は buildscript の typo っぽい。
 → Eratta 報告します (mikan)
 
-－
+-
 
 ### 第4章
 
 #### 4.3.3
 
-－
+-
 
 **P91** Commit-Id がないと言われる。エラーメッセージは以下。
 ```
@@ -58,7 +58,7 @@ key と value を区切る ":" が "," になっているのも typo?
 	}
 ```
 
-－
+-
 
 **P92** File オブジェクトの destinationDir に文字列を渡しているため、キャストエラーが出る。エラーメッセージは以下。
 ```
@@ -78,7 +78,7 @@ destinationDir = reporting.file("rest-api-docs")
 
 参考: [Javadoc (Gradle API 2.9)](https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/javadoc/Javadoc.html)
 
-－
+-
 
 **P92** JavaDoc で UTF-8 の日本語で書いたところが MS932 として認識される場合、以下のように options.charSet と options.encoding を指定する。
 
@@ -92,7 +92,7 @@ javadoc {
 }
 ```
 
-－
+-
 
 ### 参考情報
 
