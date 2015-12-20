@@ -25,7 +25,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ### 正誤表貢献実績
 
-* [Gradle 徹底入門](/workshop/3-gradle.md) 1件報告
+* [Gradle 徹底入門](/workshop/3-gradle.md) 3件報告
 * [Java SE 8 実践プログラミング](/workshop/1-java8.md) 2件報告 (掲載済)
 
 ## 参加方法
