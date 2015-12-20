@@ -28,5 +28,23 @@
 * 手本となるような美しいコードをたくさん読みたい。
 * ffmpeg のコードが美しいと言われている。
 
+### 第2章
+
+* retval ではないけど、result とか書いちゃう。意味ある変数にかえると、すごい明快になる。
+* 再帰関数とかDBの結果とか、すごい result 使っちゃう。
+
+* TextMate の ESC で保管ってどうなのよ。
+* Excel の保管はうざすぎる。
+
+* イテレーター二文字は目からうろこ。
+
+* InputStreamReader isr とか良くないと思う。
+* StringBuilder を sBuilder, strBuilder とか。
+* arg0 はやめような・・・
+
+* _ms は目からうろこ。
+
+* 本当にあった怖い話 (newNavigationControllerWrappingViewControllerForDataSourceOfClass) [GinkoTempoAppDelegate.m](http://iginkotempo.googlecode.com/svn-history/r47/trunk/GinkoTempo/Classes/GinkoTempoAppDelegate.m)
+
 ### 参考情報
 
