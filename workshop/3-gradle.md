@@ -39,7 +39,8 @@
 |  1 | 2015-11-29 21:00-23:00 | 6 | oooo-oo |   1 -  24 | はじめに, 本書の読み方 |
 |  2 | 2015-12-06 21:00-23:00 | 7 | ooooooo |  25 -  65 |                        |
 |  3 | 2015-12-13 21:00-23:00 | 7 | ooooooo |  65 -  82 |                        |
-|  3 | 2015-12-20 21:00-23:00 | 5 | ooooo-- |  82 -  99 |                        |
+|  4 | 2015-12-20 21:00-23:00 | 5 | ooooo-- |  82 -  99 |                        |
+|  5 | 2016-01-10 21:00-23:00 | - | T.B.D.  |  T.B.D.   |                        |
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525)
 
 ## 成果物
