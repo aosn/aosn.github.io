@@ -58,5 +58,33 @@
 
 * 本当にあった怖い話 (newNavigationControllerWrappingViewControllerForDataSourceOfClass) [GinkoTempoAppDelegate.m](http://iginkotempo.googlecode.com/svn-history/r47/trunk/GinkoTempo/Classes/GinkoTempoAppDelegate.m)
 
+### 第3章
+
+* filter() は現実世界でいっぱいある・・・ Java 8 の Streeam API とか、Gradle の FileCollection とか。
+
+- - -
+
+* truncate ってあまり馴染みがない: http://eow.alc.co.jp/search?q=truncate
+* SQL にはあるみたい。
+
+- - -
+
+* [Off-by-one エラー](https://ja.wikipedia.org/wiki/Off-by-one%E3%82%A8%E3%83%A9%E3%83%BC)なんて名前があったのか。
+
+- - -
+
+* start - end はよく見る。
+* head - tail
+
+- - -
+
+* bool 変数名とメソッドの関係・・・ is○○() で is○○ 返却に違和感。
+
+- - -
+
+* size と length 混ざってるのいやだ。
+* C++ で O(1) にするのは揉めたらしい。
+
+
 ### 参考情報
 
