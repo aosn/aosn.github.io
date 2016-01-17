@@ -99,3 +99,4 @@ javadoc {
 ### 参考情報
 
 * [MSYS2](https://msys2.github.io/) - Windows の人はこれ使うと GVM 環境構築が楽
+* [JavaTips ～Apache／Jakarta編：Antの活用（ファイルセットの利用） - ＠IT](http://www.atmarkit.co.jp/ait/articles/0410/27/news116.html)
