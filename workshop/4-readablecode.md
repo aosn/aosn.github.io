@@ -50,7 +50,8 @@
 |  1 | 2015-12-13 23:00-23:30 | 7 | ooooooo |   1 -   5 |                        |
 |  2 | 2015-12-20 23:00-23:30 | 7 | ooooo-- |   6 -  27 |                        |
 |  3 | 2016-01-10 23:00-23:30 | 5 | ooooo-- |  29 -  39 |                        |
-1: [akeboshi](https://github.com/akeboshi), 2: [mikan](https://github.com/mikan), 3: [s-hosoai](https://github.com/s-hosoai), 4: [amatubu2525](https://github.com/amatubu2525), 5: [MrBearing](https://github.com/MrBearing), 6:[YuichiroSato](https://github.com/YuichiroSato), 7:[intptr-t](https://github.com/intptr-t)
+|  4 | 2016-01-17 23:00-23:30 | 5 | oo-ooo- |  29 -  39 |                        |
+1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525)
 
 ## 成果物
 
