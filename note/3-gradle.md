@@ -92,7 +92,7 @@ javadoc {
 
 参考: https://docs.gradle.org/current/userguide/build_environment.html
 
-→ Eratta 報告します (mikan)
+~~→ Eratta 報告します (mikan)~~ →リファレンスが誤っていて、実装がリファレンスに合っていなかったらしい。
 
 - - -
 
