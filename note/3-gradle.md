@@ -100,6 +100,12 @@ javadoc {
 
 **P163*** `greet -Dorg.gradle....` となっているが、`gradle -Dorg.gradle...` のミスと思われる。
 
+**P163*** PowerShell だと、以下のように -D 以下をダブルクオートでエスケープする必要がある。
+
+```
+gradle -D"org.gradle.project.message=Hello" greet
+```
+
 - - -
 
 ### 参考情報
