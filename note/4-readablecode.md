@@ -95,5 +95,26 @@
 * 定義と仕様書を突き合わせるときとか
 
 
+### 第5章
+
+* 毎回 Javadoc コマンドで怒られる
+
+* TODO や XXX が残ってるとよくないよね
+* TODO つけるだけまだましだよ
+* XXX ってどういうときにつける？
+ * FIXME > TODO > XXX (mikan)
+ * FIXME > XXX > TODO (MrBearing)
+ * TODO > FIXME (XXX 使わない) (aruga, s-hosoai, intptr-t)
+ * 全部つかわない (YuichiroSato)
+ * リーダブルコード的には、XXX > FIXME > TODO > HACK か？
+ * つまり、**事前に認識合わせが必要** だよね
+
+* 基本的には Javadoc を充実させたい。
+* 行コメントがあると逆に怖い。コメントが必要なほど注意を要するってことで。
+* 例外とかちゃんと書きたい。
+
+以後、代表コードぶったたき大会
+
+
 ### 参考情報
 
