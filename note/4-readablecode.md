@@ -132,6 +132,7 @@
 
 * コミットメッセージにも言えるよね。
  * No Ticket, No Commit も大事。
+ * 1 Issue 1 Branch も。
 
 ### 参考情報
 
