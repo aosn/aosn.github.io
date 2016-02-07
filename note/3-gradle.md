@@ -106,6 +106,10 @@ javadoc {
 gradle -D"org.gradle.project.message=Hello" greet
 ```
 
+#### 6.4.1
+
+**P204*** 図6.8中の `apply(plugin:'java'` という記述、カッコ閉じ忘れを発見。 
+
 - - -
 
 ### 参考情報
