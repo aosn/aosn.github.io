@@ -110,6 +110,10 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 **P204*** 図6.8中の `apply(plugin:'java'` という記述、カッコ閉じ忘れを発見。 
 
+#### 6.5.4
+
+**P218** ソースコードの commnTask 定義内 `println project.name + 'の' name + 'タスクです。'` とあるが、"'の'" と "name" の間に "+" がない。ただし、配布されているサンプルコードは修正済。
+
 - - -
 
 ### 参考情報
