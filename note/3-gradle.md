@@ -26,7 +26,7 @@ task の定義がわからない。
 #### 3.4.1
 
 **P60** buldscript は buildscript の typo っぽい。
-→ Eratta 報告します (mikan) → 著者報告済
+→ Eratta 報告します (mikan) → 著者 (須江さん) 報告済
 
 ### 第4章
 
@@ -47,7 +47,7 @@ key と value を区切る ":" が "," になっているのも typo?
 			'Commit-Id': 'foo')
 	}
 ```
-→ Eratta 報告します (mikan) → 著者報告済
+→ Eratta 報告します (mikan) → 著者 (須江さん) 報告済
 
 - - -
 
@@ -60,7 +60,7 @@ Cannot cast object '(省略)ch4-arithmetic\build/dist/javadoc' with class 'org.c
 ```
 destinationDir = file("${buildDir}/dist/javadoc")
 ```
-→ Eratta 報告します (mikan) → 著者報告済
+→ Eratta 報告します (mikan) → 著者 (須江さん) 報告済
 
 公式ドキュメントでは、以下のように記述しているので、こちらのがベターだと思われる。
 
@@ -92,7 +92,7 @@ javadoc {
 
 参考: https://docs.gradle.org/current/userguide/build_environment.html
 
-→ Eratta 報告します (mikan) → 著者報告済 → リファレンスが誤っていて、実装がリファレンスに合っていなかったらしい (本は実装・コードに即した記述になっていて、正しい)。
+→ Eratta 報告します (mikan) → 著者 (須江さん) 報告済 → リファレンスが誤っていて、実装がリファレンスに合っていなかったらしい (本は実装・コードに即した記述になっていて、正しい)。
 
 ### 第6章
 
