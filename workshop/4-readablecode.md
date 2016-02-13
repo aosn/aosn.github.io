@@ -29,14 +29,10 @@
 
 ## 参加者
 
-募集中。
-
-以下、確定メンバー。
-
 | ID                                              | 地域     | 備考             |
 |:------------------------------------------------|:---------|:-----------------|
-| [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 司会進行         |
-| [mikan](https://github.com/mikan)               | 神奈川県 | 調整役           |
+| [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                  |
+| [mikan](https://github.com/mikan)               | 神奈川県 | 司会進行・調整役 |
 | [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
 | [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   |                  |
 | [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
