@@ -98,9 +98,9 @@ javadoc {
 
 #### 6.1.2
 
-**P163*** `greet -Dorg.gradle....` となっているが、`gradle -Dorg.gradle...` のミスと思われる。
+**P163** `greet -Dorg.gradle....` となっているが、`gradle -Dorg.gradle...` のミスと思われる。
 
-**P163*** PowerShell だと、以下のように -D 以下をダブルクオートでエスケープする必要がある。
+**P163** PowerShell だと、以下のように -D 以下をダブルクオートでエスケープする必要がある。
 
 ```
 gradle -D"org.gradle.project.message=Hello" greet
@@ -108,7 +108,7 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 #### 6.4.1
 
-**P204*** 図6.8中の `apply(plugin:'java'` という記述、カッコ閉じ忘れを発見。 
+**P204** 図6.8中の `apply(plugin:'java'` という記述、カッコ閉じ忘れを発見。 
 
 #### 6.5.4
 
