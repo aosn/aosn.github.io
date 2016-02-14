@@ -120,6 +120,12 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 → Eratta 報告します (mikan)
 
+### 第7章
+
+#### 7.2.1
+
+**P225** 脚注5の `例えば、Gra dleにJavaプラグインを…` ってところ、変なスペースあるよね。
+
 - - -
 
 ### 参考情報
