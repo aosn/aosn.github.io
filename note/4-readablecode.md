@@ -213,5 +213,27 @@ if ("hoge".equalsIgnoreCase(hoge)) {
 * オーバーラップ判定、これ参考になる
 * int だといいけど、float, double だと怖い (NaN どうするのとか)
 
+## # 第9章
+
+* (フィールドにアクセスしない)「メソッドをできるだけ static にすることだ」というけど、何でもこうするのはちょっとな (意図がわからないときがある)
+
+- - -
+
+* return 1 個主義 vs. return できると確定したとこで return
+* やっぱ後者だよね
+
+- - -
+
+* if 文の中に処理を書いてすっきりするの、いいよね。
+* 反対派もいる。if なのに条件判定以外のことをしている。
+* set(++i) とかにもいえる。return i++ (i がグローバル) とかもいやだ。
+
+- - -
+
+* JS と Python の変数のスコープが拡大されるの、すっごく気持ち悪い。
+* REPL 内ではありがたかったりする。
+
 ### 参考情報
 
+* [去る者は日日に疎し - 故事ことわざ辞典](http://kotowaza-allguide.com/sa/sarumonowahibiniutoshi.html)
+* [Out of sight, out of mindの意味 - 英和辞典 Weblio辞書](http://ejje.weblio.jp/content/Out+of+sight%2C+out+of+mind)
