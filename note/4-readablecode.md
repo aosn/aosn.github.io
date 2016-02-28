@@ -213,7 +213,7 @@ if ("hoge".equalsIgnoreCase(hoge)) {
 * オーバーラップ判定、これ参考になる
 * int だといいけど、float, double だと怖い (NaN どうするのとか)
 
-## # 第9章
+### 第9章
 
 * (フィールドにアクセスしない)「メソッドをできるだけ static にすることだ」というけど、何でもこうするのはちょっとな (意図がわからないときがある)
 
@@ -233,7 +233,30 @@ if ("hoge".equalsIgnoreCase(hoge)) {
 * JS と Python の変数のスコープが拡大されるの、すっごく気持ち悪い。
 * REPL 内ではありがたかったりする。
 
+### 第10章
+
+* SmallTalk 本読んだ人はさすがにいないかな・・・
+* [Kent Beck 先生](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%88%E3%83%BB%E3%83%99%E3%83%83%E3%82%AF)はEPやTDDで有名だよね。
+
+- - -
+
+* 「10.8 やりすぎ」は、議論が分かれそう。
+* 命令的 vs. 宣言的。好みで別れる。
+* 「リファクタリング」には、2箇所までは黙認し、3箇所からはリファクタリングとか書いてある。
+* クラスレベルで再検討したほうがいい場合も。
+* レビューが大事。
+* プルリクレビューはやりやすい。
+* レビューは責任の所在によってレビューポイントが変わるよね。
+
+- - -
+
+* ユーティリティを必要以上に作ることってあります？
+* プラットフォーム系とかライブラリアンはやるかも。
+* 俺の xorshift 実装が火を噴くぜ！
+
+
 ### 参考情報
 
 * [去る者は日日に疎し - 故事ことわざ辞典](http://kotowaza-allguide.com/sa/sarumonowahibiniutoshi.html)
 * [Out of sight, out of mindの意味 - 英和辞典 Weblio辞書](http://ejje.weblio.jp/content/Out+of+sight%2C+out+of+mind)
+* [Memoized Recursion・プログラマの区分](http://fumieval.tumblr.com/post/28324791101/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%AE%E5%8C%BA%E5%88%86)
