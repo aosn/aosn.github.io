@@ -132,7 +132,7 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 #### 8.2.1
 
-**P269** 脚注16のURL `http://groovy.codehaus.org/ConfigSlurper` はリンク切れの模様。現在は `http://docs.groovy-lang.org/latest/html/gapi/groovy/util/ConfigSlurper.html` と思われる。
+**P269** 脚注16のURL http://groovy.codehaus.org/ConfigSlurper はリンク切れの模様。現在は http://docs.groovy-lang.org/latest/html/gapi/groovy/util/ConfigSlurper.html と思われる。
 
 → Errata になるのかな？
 
