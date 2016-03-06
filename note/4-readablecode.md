@@ -254,6 +254,113 @@ if ("hoge".equalsIgnoreCase(hoge)) {
 * プラットフォーム系とかライブラリアンはやるかも。
 * 俺の xorshift 実装が火を噴くぜ！
 
+### 第11章
+
+* 代表が大学院時代に書いたコードをレビュー。
+
+```java
+  @Override
+  protected void update() {
+    ILandmarkSensor ls = getTargetRobot().getLandmarkSensor();
+    LandmarkSensorData z = (LandmarkSensorData) ls.getSensorData();
+
+    double velocity = getTargetRobot().getCruiseController().getCommandVelocity();
+    double angularVelocity = getTargetRobot().getCruiseController()
+        .getCommandAngularVelocity();
+
+    List<Particle> tempParticleList_ = Collections
+        .synchronizedList(new ArrayList<Particle>());
+    List<Particle> updateParticleList = Collections
+        .synchronizedList(new ArrayList<Particle>());
+
+    // 初回起動時 荷重移動平均初期化
+    if ((w_fast == null) || (w_slow == null)) {
+      w_fast = 1.0d;
+      w_slow = 1.0d;
+    }
+
+//    System.out.println("############# ID :"
+//        + this.getTargetRobot().getNetworkNode().getID() + "#################");
+
+    for (Particle pt_old : this.getParticleList()) {
+      // 一つ前のステップのパーティクルのクローンを作成
+      Particle pt = pt_old.clone();
+      // パーティクルを動作モデルにしたがって移動
+      pt.getPosition()
+          .move(velocity, angularVelocity, Localizationer.STEP_RATE);
+
+      // パーティクルの重み計算
+      double weight = calcWeight(z, pt);
+
+      pt.setWeight(weight);
+      // 追加
+      tempParticleList_.add(pt);
+    }
+
+    // 平均計算
+    double w_avg = Particle.getWeightAverage(tempParticleList_);
+    //System.out.println(Particle.getMeanPosition(tempParticleList_));
+    
+    Particle.nomalize(tempParticleList_);// 各パーティクルのウェイトを正規化
+
+    //平均(=mean)を計算して分布の母平均を求める。
+    this.estimatePosition = Particle.getMeanPosition(tempParticleList_);
+    
+    // 加重移動平均計算
+    w_slow = w_slow + getAlphaSlow() * (w_avg - w_slow);
+    w_fast = w_fast + getAlphaFast() * (w_avg - w_fast);
+
+    /* ランダムパーティクル注入量決定 */
+    double rand_part_rate = 1.0d - (w_fast / w_slow);
+    int num_rand_part = 0;
+
+    int particleListSize = this.getParticleList().size();
+
+    printState(w_avg, rand_part_rate);
+
+    if (0.0D < rand_part_rate) {
+      num_rand_part = (int) (rand_part_rate * particleListSize);
+
+      // System.out.println("num" + num_rand_part);
+
+      for (int i = 0; i < num_rand_part; i++) {
+
+        // NFIXME 初期ゆう度調整 →正規化されるため問題なし
+        updateParticleList.add(createRandomParticle((double) 1.0D
+            / (double) particleListSize));
+      }
+    }
+
+//    System.out.println("Number of Random particle is " + num_rand_part);
+//    System.out.println("resumple num is " + (particleListSize - num_rand_part));
+
+    // 再サンプリング
+    List<Particle> list = MCLocalizationer.lowVarianceResampling(
+        tempParticleList_, particleListSize - num_rand_part);
+
+    updateParticleList.addAll(list);
+    
+    this.particleList = updateParticleList;
+
+  }
+```
+* 入力と出力がぐちゃぐちゃ。入力いっぱいある。
+* まずは IN - BODY - OUT 構造にして、ロジックの改善はそっからかな。
+* `getParticleList()` が空のときにゼロ除算してしまうリスクがある。
+
+- - -
+
+* みかんが学部時代に書いたコードをレビュー。
+
+> https://github.com/mikan/webcam-viewer/blob/master/cgi-bin/mdevents.py
+
+* print は event list を受け取らないといけない。
+* 段落コメントをそのまま method にすれば良い。
+
+- - -
+
+* 「自分の昔のコードを見て「うわぁ」ってなったら、自分が成長している証だ」by akeboshi（名言が生まれた）
+
 
 ### 参考情報
 
