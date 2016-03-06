@@ -138,7 +138,8 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 #### 8.3.2
 
-**P300*** サンプルの chapter08/book-crud を使ったが、参加者5人中1人も動かせなかった・・・（Selenium や mybatis のエラー等）1時間無駄になったので問題解決打ち切り。
+**P300** サンプルの chapter08/book-crud を使ったが、参加者5人中誰の環境でも動かせなかった・・・（Selenium や mybatis のエラー等）勉強会の進行が1時間止まったので問題解決打ち切り。
+
 
 ### 参考情報
 
