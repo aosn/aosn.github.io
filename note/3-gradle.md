@@ -136,6 +136,10 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 → Errata になるのかな？
 
+#### 8.3.2
+
+**P300*** サンプルの chapter08/book-crud を使ったが、参加者5人中1人も動かせなかった・・・（Selenium や mybatis のエラー等）1時間無駄になったので問題解決打ち切り。
+
 ### 参考情報
 
 * [MSYS2](https://msys2.github.io/) - Windows の人はこれ使うと GVM 環境構築が楽
