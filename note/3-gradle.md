@@ -140,8 +140,6 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 **P300** サンプルの chapter08/book-crud を使ったが、参加者5人中誰の環境でも動かせなかった（各自バージョン上げやブラウザ変更などを試すも Selenium や mybatis のエラー等ではまった）。勉強会の進行が1時間止まったので問題解決打ち切り。
 
-
-
 ### 参考情報
 
 * [MSYS2](https://msys2.github.io/) - Windows の人はこれ使うと GVM 環境構築が楽
