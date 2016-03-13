@@ -20,6 +20,18 @@
 
 正誤表: (http://www.shoeisha.co.jp/book/detail/9784798136431)
 
+## 参加者
+
+| ID                                              | 地域     | 備考             |
+|:------------------------------------------------|:---------|:-----------------|
+| [mikan](https://github.com/mikan)               | 神奈川県 | 調整役、司会進行 |
+| [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
+| [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
+| [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
+| [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
+| [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 電子版           |
+| [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   | 　               |
+
 ## スケジュール
 
 |  # |     Date & Time (JST)  | A | 1234567 |   Pages   | Other work             |
@@ -39,8 +51,6 @@
 | 13 | 2016-03-06 21:00-23:00 | 5 | oo-ooo- | 294 - 311 |                        |
 
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525)
-
-[gimmick:chart ({dataColumns: ['A'], labelColumn: "#", chartType: 'Bar', width: '660px', height: '300px'})]()
 
 
 ## 成果物
