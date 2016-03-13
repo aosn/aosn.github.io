@@ -140,6 +140,44 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 **P300** サンプルの chapter08/book-crud を使ったが、参加者5人中誰の環境でも動かせなかった（各自バージョン上げやブラウザ変更などを試すも Selenium や mybatis のエラー等ではまった）。勉強会の進行が1時間止まったので問題解決打ち切り。
 
+### 第9章
+
+#### 9.3.1
+
+**P318** (参考情報) runProguard は 1.0 あたりから minifyEnabled に名称変更されている。
+
+**P319** (参考情報) 今は Checkstyle プラグインや Fundbugs プラグインと共存できる。
+
+**P320** (参考情報) testCompile は 1.1 からサポートしている (Unit Testing Support)。
+
+#### 9.3.2
+
+**P321** 脚注14の generate って何だろう？見当たらない
+http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Build-Tasks
+
+**P325** 脚注19のリンクは、ページ内リンク (#TOC-...) はもう切れていて、なおかつ今はちゃんとした説明が載っている。
+http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Product-flavors
+
+### 第10章
+
+#### 10.1.1
+
+**P331** 表10.1とあるが、表10.2の誤りと思われる。
+
+→ Errata 報告します (mikan)
+
+**P332** NetBeans も日本語版と英語版両方あるけど・・・？
+
+#### 10.1.2
+
+**P333** Gradle IDE Pack って Gradle に関係ないものも入れすぎだよね・・・
+
+#### 10.2.1
+
+**P334** 運悪く・・・とか言っているけど、Eclipse はリリースロードマップにしたがって計画的にリリースされているので・・・。
+https://wiki.eclipse.org/Simultaneous_Release
+
+
 ### 参考情報
 
 * [MSYS2](https://msys2.github.io/) - Windows の人はこれ使うと GVM 環境構築が楽
