@@ -177,6 +177,9 @@ http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Product-flavo
 **P334** 運悪く・・・とか言っているけど、Eclipse はリリースロードマップにしたがって計画的にリリースされているので・・・。
 https://wiki.eclipse.org/Simultaneous_Release
 
+### 第11章
+
+**P387** Android Studio では、途中から iml がないプロジェクトを正しく開けなくなりました・・・(モジュールの種別が認識できなくなる)
 
 ### 参考情報
 
