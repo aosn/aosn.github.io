@@ -51,7 +51,7 @@
 | 13 | 2016-03-06 21:00-23:00 | 5 | oo-ooo- | 294 - 311 |                        |
 | 14 | 2016-03-13 21:00-23:00 | 5 | oo-oo-o | 312 - 345 | Chatwork 試行          |
 | 15 | 2016-03-27 21:00-23:00 | 5 | oo-ooo- | 345 - 388 | LINE Group Chat 試行   |
-| 16 | 2016-04-03 21:00-23:00 | 4 | oo---oo | 345 - 388 | Discord 試行           |
+| 16 | 2016-04-03 21:00-23:00 | 4 | oo---oo | 389 - 408 | Discord 試行           |
 
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525)
 
