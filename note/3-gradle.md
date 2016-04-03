@@ -181,6 +181,8 @@ https://wiki.eclipse.org/Simultaneous_Release
 
 **P387** Android Studio では、途中から iml がないプロジェクトを正しく開けなくなりました・・・(モジュールの種別が認識できなくなる)
 
+**P398** 図11.9中の `「From Root Build Script Din」` の "Din" は "Dir" の typo と思われる。
+
 ### 参考情報
 
 * [MSYS2](https://msys2.github.io/) - Windows の人はこれ使うと GVM 環境構築が楽
