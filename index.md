@@ -1,3 +1,8 @@
+---
+layout: post
+title: AOSN読書会
+---
+
 AOSN読書会
 ==========
 
