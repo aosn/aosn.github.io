@@ -1,7 +1,12 @@
+---
+layout: subpage
+title: 読書ノート - 深層学習
+---
+
 読書ノート: 深層学習
 ====================
 
-[深層学習](/workshop/2-deeplearning.md)の読書ノートです。
+[深層学習](/workshop/2-deeplearning)の読書ノートです。
 
 ## 正誤表
 
@@ -117,7 +122,7 @@ wとbを学習で割り出すのがニューラルネットの本質？
 記号解説
 
 * `∝` 比例  → [Wikipedia](https://ja.wikipedia.org/wiki/%E6%AF%94%E4%BE%8B)
- 
+
 ## 参考資料
 
 読書会で共有した各種資料など。

@@ -8,20 +8,12 @@
 
 ### 編集方法
 
-[MDwiki](http://dynalon.github.io/mdwiki/) を利用しているので、全ての内容は Markdown です。トップページの中身は `index.md` です。
+Jekyll を利用しているので、全ての内容は Markdown です。トップページの中身は `index.md` です。
 
-#### ナビゲーション
+### 細かな設定
 
-ナビゲーションは `navigation.md` です。MDwiki 公式サイトの Quick Start に解説があります。
+設定ファイルは `_config.yml` です。Jekyll 公式サイトの Configuration に解説があります。
 
-> MDwiki - Quick Start
+> Configuration - Jekyll • Simple, blog-aware, static sites
 >
-> http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation
-
-#### 細かな設定
-
-設定ファイルは `config.json` です。MDwiki 公式サイトの Customizing に解説があります。
-
-> MDwiki - Customizing
->
-> http://dynalon.github.io/mdwiki/#!customizing.md#Configuration
+> https://jekyllrb.com/docs/configuration/

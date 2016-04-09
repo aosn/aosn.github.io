@@ -1,7 +1,12 @@
+---
+layout: subpage
+title: 読書ノート - Gradle 徹底入門
+---
+
 読書ノート: Gradle 徹底入門
 ===========================
 
-[Gradle 徹底入門](/workshop/3-gradle.md)の読書ノートです。
+[Gradle 徹底入門](/workshop/3-gradle)の読書ノートです。
 
 ## 正誤表
 
@@ -104,13 +109,13 @@ javadoc {
 
 **P163** PowerShell だと、以下のように -D 以下をダブルクオートでエスケープする必要がある。
 
-```
+```bash
 gradle -D"org.gradle.project.message=Hello" greet
 ```
 
 #### 6.4.1
 
-**P204** 図6.8中の `apply(plugin:'java'` という記述、カッコ閉じ忘れを発見。 
+**P204** 図6.8中の `apply(plugin:'java'` という記述、カッコ閉じ忘れを発見。
 
 → Errata 報告します (mikan)
 

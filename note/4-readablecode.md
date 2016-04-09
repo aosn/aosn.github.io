@@ -1,7 +1,12 @@
+---
+layout: subpage
+title: 読書ノート - リーダブルコード
+---
+
 読書ノート: リーダブルコード
 ============================
 
-[リーダブルコード](/workshop/4-readablecode.md)の読書ノートです。
+[リーダブルコード](/workshop/4-readablecode)の読書ノートです。
 
 ## 正誤表
 
@@ -300,12 +305,12 @@ if ("hoge".equalsIgnoreCase(hoge)) {
     // 平均計算
     double w_avg = Particle.getWeightAverage(tempParticleList_);
     //System.out.println(Particle.getMeanPosition(tempParticleList_));
-    
+
     Particle.nomalize(tempParticleList_);// 各パーティクルのウェイトを正規化
 
     //平均(=mean)を計算して分布の母平均を求める。
     this.estimatePosition = Particle.getMeanPosition(tempParticleList_);
-    
+
     // 加重移動平均計算
     w_slow = w_slow + getAlphaSlow() * (w_avg - w_slow);
     w_fast = w_fast + getAlphaFast() * (w_avg - w_fast);
@@ -339,7 +344,7 @@ if ("hoge".equalsIgnoreCase(hoge)) {
         tempParticleList_, particleListSize - num_rand_part);
 
     updateParticleList.addAll(list);
-    
+
     this.particleList = updateParticleList;
 
   }

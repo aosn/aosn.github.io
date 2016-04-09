@@ -1,3 +1,8 @@
+---
+layout: subpage
+title: Gradle 徹底入門
+---
+
 # Gradle 徹底入門
 
 [![Gradle 徹底入門](/images/cover-gradle.jpg)](http://www.amazon.co.jp/dp/4798136433/)
@@ -60,4 +65,4 @@
 
 ### 読書ノート
 
-[読書ノート](/note/3-gradle.md)をご覧ください。
+[読書ノート](/note/3-gradle)をご覧ください。

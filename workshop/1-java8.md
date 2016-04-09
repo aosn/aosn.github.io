@@ -1,3 +1,8 @@
+---
+layout: subpage
+title: Java SE 8 実践プログラミング
+---
+
 # Java SE 8 実践プログラミング
 
 [![Java SE 8 実践プログラミング](/images/cover-java8.jpg)](http://www.amazon.co.jp/dp/4844336673/)
@@ -120,7 +125,7 @@ m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearin
 
 ### 読書ノート
 
-[読書ノート](/note/1-java8.md)をご覧ください。
+[読書ノート](/note/1-java8)をご覧ください。
 
 ### 練習問題回答
 

@@ -1,3 +1,8 @@
+---
+layout: subpage
+title: 深層学習
+---
+
 # 深層学習
 
 [![深層学習](/images/cover-deeplearning.jpg)](http://www.amazon.co.jp/dp/4061529021/)
@@ -53,4 +58,4 @@
 
 ### 読書ノート
 
-[読書ノート](/note/2-deeplearning.md)をご覧ください。
+[読書ノート](/note/2-deeplearning)をご覧ください。

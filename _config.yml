@@ -1,0 +1,16 @@
+# Site settings
+title: AOSN読書会
+#email: webmaster@tasktoys.com
+description: "AOSN読書会は、IT分野の技術書をオンラインで輪読する読書会です。"
+copyright: "2014-2016 AOSN Workshop perticipants."
+baseurl: ""
+url: "http://aosn.github.io"
+#twitter_username: jekyllrb
+github_username:  aosn
+
+# Build settings
+#markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+permalink: pretty
