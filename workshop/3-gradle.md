@@ -3,8 +3,6 @@ layout: subpage
 title: Gradle 徹底入門
 ---
 
-# Gradle 徹底入門
-
 [![Gradle 徹底入門](/images/cover-gradle.jpg)](http://www.amazon.co.jp/dp/4798136433/)
 
 「Gradle 徹底入門」読書会の記録です。

@@ -3,9 +3,6 @@ layout: subpage
 title: 読書ノート - 深層学習
 ---
 
-読書ノート: 深層学習
-====================
-
 [深層学習](/workshop/2-deeplearning)の読書ノートです。
 
 ## 正誤表

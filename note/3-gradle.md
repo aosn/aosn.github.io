@@ -3,9 +3,6 @@ layout: subpage
 title: 読書ノート - Gradle 徹底入門
 ---
 
-読書ノート: Gradle 徹底入門
-===========================
-
 [Gradle 徹底入門](/workshop/3-gradle)の読書ノートです。
 
 ## 正誤表

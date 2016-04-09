@@ -3,8 +3,6 @@ layout: subpage
 title: リーダブルコード
 ---
 
-# リーダブルコード
-
 [![リーダブルコード](/images/cover-readablecode.jpg)](http://www.amazon.co.jp/dp/4873115655/)
 
 「リーダブルコード」読書会の記録です。
