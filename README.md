@@ -10,6 +10,12 @@
 
 Jekyll を利用しているので、全ての内容は Markdown です。トップページの中身は `index.md` です。
 
+使える Markdown の記法については、以下を参照してください。
+
+> Quick Reference | kramdown
+>
+> http://kramdown.gettalong.org/quickref.html
+
 ### 細かな設定
 
 設定ファイルは `_config.yml` です。Jekyll 公式サイトの Configuration に解説があります。
