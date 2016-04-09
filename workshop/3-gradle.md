@@ -21,7 +21,7 @@ title: Gradle 徹底入門
 * 頁数: 592
 * ISBN: 978-4798136431
 
-正誤表: (http://www.shoeisha.co.jp/book/detail/9784798136431)
+正誤表: http://www.shoeisha.co.jp/book/detail/9784798136431
 
 ## 参加者
 
