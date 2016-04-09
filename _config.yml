@@ -15,3 +15,6 @@ permalink: pretty
 # Plugins
 gems:
   - jemoji
+
+emoji:
+  src: "/assets/images/emoji-custom"
