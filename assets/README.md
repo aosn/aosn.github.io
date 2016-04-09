@@ -1,4 +1,4 @@
-/asserts
+/assets
 ========
 
 ### emoji
