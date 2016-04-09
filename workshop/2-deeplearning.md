@@ -42,16 +42,16 @@ title: 深層学習
 
 |  # |     Date & Time (JST)  | A | 12345678 |   Pages   | Other work         |
 |---:|:----------------------:|:-:|:--------:|:---------:|:-------------------|
-|  1 | 2015-09-20 21:00-23:00 | 6 | oooooo-- |   1 -  12 | まえがき等         |
-|  2 | 2015-09-27 21:00-23:00 | 8 | oooooooo |  12 -  26 | 　                 |
-|  3 | 2015-10-04 21:00-23:00 | 6 | ooooo-o- |  26 -  43 | 　                 |
-|  4 | 2015-10-11 21:00-23:00 | 6 | oooooo-- |  43 -  54 | 　                 |
-|  5 | 2015-10-18 21:00-23:00 | 6 | oooooo-- |           | コードリーディング |
-|  6 | 2015-10-25 21:00-23:00 | 6 | oooooo-- |  55 -  72 | 　                 |
-|  7 | 2015-11-01 21:00-23:00 | 4 | oo-o-o-- |  72 - 110 | 　                 |
-|  8 | 2015-11-08 21:00-23:00 | 6 | oooooo-- | 111 - 130 | 　                 |
-|  9 | 2015-11-15 21:00-23:00 | 5 | o-ooo-o- | 131 - 142 | [次回本投票](https://kagaorange.typeform.com/report/M29YtT/cl8B) |
-| 10 | 2015-11-22 21:00-23:00 | 6 | oooo-oo- | 143 - 156 | [TensorFlow チュートリアル](http://tensorflow.org/tutorials)     |
+|  1 | 2015-09-20 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |   1 -  12 | まえがき等         |
+|  2 | 2015-09-27 21:00-23:00 | 8 | :o::o::o::o::o::o::o::o: |  12 -  26 | 　                 |
+|  3 | 2015-10-04 21:00-23:00 | 6 | :o::o::o::o::o::x::o::x: |  26 -  43 | 　                 |
+|  4 | 2015-10-11 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |  43 -  54 | 　                 |
+|  5 | 2015-10-18 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |           | コードリーディング |
+|  6 | 2015-10-25 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |  55 -  72 | 　                 |
+|  7 | 2015-11-01 21:00-23:00 | 4 | :o::o::x::o::x::o::x::x: |  72 - 110 | 　                 |
+|  8 | 2015-11-08 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: | 111 - 130 | 　                 |
+|  9 | 2015-11-15 21:00-23:00 | 5 | :o::x::o::o::o::x::o::x: | 131 - 142 | [次回本投票](https://kagaorange.typeform.com/report/M29YtT/cl8B) |
+| 10 | 2015-11-22 21:00-23:00 | 6 | :o::o::o::o::x::o::o::x: | 143 - 156 | [TensorFlow チュートリアル](http://tensorflow.org/tutorials)     |
 
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi), 8: [marishi](https://github.com/marishi)
 
