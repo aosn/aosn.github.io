@@ -11,3 +11,7 @@ github_username:  aosn
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Plugins
+gems:
+  - jemoji
