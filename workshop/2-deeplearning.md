@@ -52,6 +52,7 @@ title: 深層学習
 |  8 | 2015-11-08 21:00-23:00 | 6 | oooooo-- | 111 - 130 | 　                 |
 |  9 | 2015-11-15 21:00-23:00 | 5 | o-ooo-o- | 131 - 142 | [次回本投票](https://kagaorange.typeform.com/report/M29YtT/cl8B) |
 | 10 | 2015-11-22 21:00-23:00 | 6 | oooo-oo- | 143 - 156 | [TensorFlow チュートリアル](http://tensorflow.org/tutorials)     |
+
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi), 8: [marishi](https://github.com/marishi)
 
 ## 成果物

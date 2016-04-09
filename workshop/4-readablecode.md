@@ -30,7 +30,7 @@ title: リーダブルコード
 
 本件は技術書選択方針の「息抜きにピックアップする軽い本」として開催するものです。本流である[Gradle 徹底入門](3-gradle)に付随して実施します。実施時間は、Gradle 終了後の 30 分間です。
 
-本件は他の読書会と異なり、**予習を必須**としています。各回参加前に1章分に予め目を通しておいてください。しかし、各章のボリュームは小さいので、時間はかからないはずです（全15章）。各回 30 分の範囲で、気づいたことや疑問点の共有などを行います。
+本件は他の読書会と異なり、**予習を必須** としています。各回参加前に1章分に予め目を通しておいてください。しかし、各章のボリュームは小さいので、時間はかからないはずです（全15章）。各回 30 分の範囲で、気づいたことや疑問点の共有などを行います。
 
 ## 参加者
 
@@ -63,6 +63,7 @@ title: リーダブルコード
 | 12 | 2016-03-13 21:00-23:00 | 6 | oo-oo-oo | 157 - 165 |                        |
 | 13 | 2016-03-27 21:00-23:00 | 5 | oo-ooo-- | 167 - 175 |                        |
 | 14 | 2016-04-03 21:00-23:00 | 5 | oo---ooo | 179 - 196 | Discord 試行           |
+
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525), 8:[LagunaPresa](https://github.com/LagunaPresa)
 
 ## 成果物

@@ -9,4 +9,5 @@ title: 実績
 | 3 | [Gradle 徹底入門](/workshop/3-gradle)             | 592 | 2015/11/29 - (実施中)   |    |  7 | mikan    |
 | 2 | [深層学習](/workshop/2-deeplearning)              | 176 | 2015/09/20 - 2015/11/22 | 1o |  8 | s-hosoai |
 | 1 | [Java SE 8 実践プログラミング](/workshop/1-java8) | 264 | 2014/11/23 - 2015/09/13 | 43 |  7 | mikan    |
+
 ※  息抜きパート (技術書選択方針参照)
