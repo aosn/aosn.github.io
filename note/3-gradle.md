@@ -9,7 +9,7 @@ title: 読書ノート - Gradle 徹底入門
 
 討議事項が正誤表に記載されていることがあります。確認してください。
 
-* 入手元: http://www.shoeisha.co.jp/book/detail/9784798136431
+* 入手元: [http://www.shoeisha.co.jp/book/detail/9784798136431](http://www.shoeisha.co.jp/book/detail/9784798136431)
 
 ## ノート
 
