@@ -185,6 +185,14 @@ https://wiki.eclipse.org/Simultaneous_Release
 
 **P398** 図11.9中の `「From Root Build Script Din」` の "Din" は "Dir" の typo と思われる。
 
+→ Errata 報告します (mikan)
+
+### 第12章
+
+**P451** リスト12.8の説明が、Ivy Plugin の説明なのに `(Maven Plugin プラグインの場合)` となっている。
+
+→ Errata 報告します (mikan)
+
 ### 参考情報
 
 * [MSYS2](https://msys2.github.io/) - Windows の人はこれ使うと GVM 環境構築が楽
