@@ -60,7 +60,8 @@ title: リーダブルコード
 | 11 | 2016-03-06 21:00-23:00 | 5 | :o::o::x::o::o::o::x::x: | 143 - 155 |                        |
 | 12 | 2016-03-13 21:00-23:00 | 6 | :o::o::x::o::o::x::o::o: | 157 - 165 |                        |
 | 13 | 2016-03-27 21:00-23:00 | 5 | :o::o::x::o::o::o::x::x: | 167 - 175 |                        |
-| 14 | 2016-04-03 21:00-23:00 | 5 | :o::o::x::x::x::o::o::o: | 179 - 196 | Discord 試行           |
+| 14 | 2016-04-03 21:00-23:00 | 5 | :o::o::x::x::x::o::o::o: | 179 - 196 |                        |
+| 15 | 2016-04-10 21:00-23:00 | 5 | :o::o::x::o::x::o::o::x: | 197 - 215 |                        |
 
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525), 8:[LagunaPresa](https://github.com/LagunaPresa)
 
