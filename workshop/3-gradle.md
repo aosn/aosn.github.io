@@ -55,6 +55,7 @@ title: Gradle 徹底入門
 | 14 | 2016-03-13 21:00-23:00 | 5 | :o::o::x::o::o::x::o: | 312 - 345 | Chatwork 試行          |
 | 15 | 2016-03-27 21:00-23:00 | 5 | :o::o::x::o::o::o::x: | 345 - 388 | LINE Group Chat 試行   |
 | 16 | 2016-04-03 21:00-23:00 | 4 | :o::o::x::x::x::o::o: | 389 - 408 | Discord 試行           |
+| 17 | 2016-04-10 21:00-23:00 | 5 | :o::o::x::o::x::o::o: | 409 - 461 |                        |
 
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525)
 
