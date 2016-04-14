@@ -167,8 +167,7 @@ http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Product-flavo
 
 #### 10.2.1
 
-**P334** 運悪く・・・とか言っているけど、Eclipse はリリースロードマップにしたがって計画的にリリースされているので・・・。
-https://wiki.eclipse.org/Simultaneous_Release
+**P334** (参考情報) 運悪く・・・とあるので Eclipse のリリースロードマップを共有 https://wiki.eclipse.org/Simultaneous_Release
 
 ### 第11章
 
