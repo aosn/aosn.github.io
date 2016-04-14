@@ -15,20 +15,11 @@ title: 読書ノート - Gradle 徹底入門
 
 ### 第3章
 
-#### 3.1.4
-
-task の定義がわからない。
-→ **P173** に解説あり。P176 に leftShift() の内容が記載されている。
-
-- - -
-
-`<<` 記号は何なのか。
-→ 演算子のオーバーロードで実現している模様
-
 #### 3.4.1
 
 **P60** buldscript は buildscript の typo っぽい。
-→ Errata 報告します (mikan) → 著者 (須江さん) 報告済
+
+*→ Errata 報告します (mikan) → 著者 (須江さん) 報告済*
 
 ### 第4章
 
@@ -49,7 +40,7 @@ key と value を区切る ":" が "," になっているのも typo?
 			'Commit-Id': 'foo')
 	}
 ```
-→ Errata 報告します (mikan) → 著者 (須江さん) 報告済
+*→ Errata 報告します (mikan) → 著者 (須江さん) 報告済*
 
 - - -
 
@@ -62,7 +53,7 @@ Cannot cast object '(省略)ch4-arithmetic\build/dist/javadoc' with class 'org.c
 ```
 destinationDir = file("${buildDir}/dist/javadoc")
 ```
-→ Errata 報告します (mikan) → 著者 (須江さん) 報告済
+*→ Errata 報告します (mikan) → 著者 (須江さん) 報告済*
 
 公式ドキュメントでは、以下のように記述しているので、こちらのがベターだと思われる。
 
@@ -94,7 +85,7 @@ javadoc {
 
 参考: https://docs.gradle.org/current/userguide/build_environment.html
 
-→ Errata 報告します (mikan) → 著者 (須江さん) 報告済 → リファレンスが誤っていて、実装がリファレンスに合っていなかったらしい (本は実装・コードに即した記述になっていて、正しい)。
+*→ Errata 報告します (mikan) → 著者 (須江さん) 報告済 → リファレンスが誤っていて、実装がリファレンスに合っていなかったらしい (本は実装・コードに即した記述になっていて、正しい)。*
 
 ### 第6章
 
@@ -102,7 +93,7 @@ javadoc {
 
 **P163** `greet -Dorg.gradle....` となっているが、`gradle -Dorg.gradle...` のミスと思われる。
 
-→ Errata 報告します (mikan)
+*→ Errata 報告します (mikan)*
 
 **P163** PowerShell だと、以下のように -D 以下をダブルクオートでエスケープする必要がある。
 
@@ -114,13 +105,13 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 **P204** 図6.8中の `apply(plugin:'java'` という記述、カッコ閉じ忘れを発見。
 
-→ Errata 報告します (mikan)
+*→ Errata 報告します (mikan)*
 
 #### 6.5.4
 
 **P218** ソースコードの commnTask 定義内 `println project.name + 'の' name + 'タスクです。'` とあるが、"'の'" と "name" の間に "+" がない。ただし、配布されているサンプルコードは修正済。
 
-→ Errata 報告します (mikan)
+*→ Errata 報告します (mikan)*
 
 ### 第7章
 
@@ -136,7 +127,7 @@ gradle -D"org.gradle.project.message=Hello" greet
 
 **P269** 脚注16のURL http://groovy.codehaus.org/ConfigSlurper はリンク切れの模様。現在は http://docs.groovy-lang.org/latest/html/gapi/groovy/util/ConfigSlurper.html と思われる。あと、`ConflugSlurper` は索引に載せて欲しいところ・・・。
 
-→ Errata になるのかな？
+*→ 著者に報告します。(mikan)*
 
 #### 8.3.2
 
@@ -166,7 +157,7 @@ http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Product-flavo
 
 **P331** 表10.1とあるが、表10.2の誤りと思われる。
 
-→ Errata 報告します (mikan)
+*→ Errata 報告します (mikan)*
 
 **P332** NetBeans も日本語版と英語版両方あるけど・・・？
 
@@ -185,13 +176,13 @@ https://wiki.eclipse.org/Simultaneous_Release
 
 **P398** 図11.9中の `「From Root Build Script Din」` の "Din" は "Dir" の typo と思われる。
 
-→ Errata 報告します (mikan)
+*→ Errata 報告します (mikan)*
 
 ### 第12章
 
 **P451** リスト12.8の説明が、Ivy Plugin の説明なのに `(Maven Plugin プラグインの場合)` となっている。
 
-→ Errata 報告します (mikan)
+*→ Errata 報告します (mikan)*
 
 ### 参考情報
 
