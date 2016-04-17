@@ -9,7 +9,7 @@ title: リーダブルコード
 
 ## 概要
 
-* 期間: 2015/12/13 ～ 現在
+* 期間: 2015/12/13 ～ 2016/04/17
 * 内容: 毎回各1章分予習、感想交換
 
 ### 対象書籍
@@ -62,6 +62,7 @@ title: リーダブルコード
 | 13 | 2016-03-27 21:00-23:00 | 5 | :o::o::x::o::o::o::x::x: | 167 - 175 |                        |
 | 14 | 2016-04-03 21:00-23:00 | 5 | :o::o::x::x::x::o::o::o: | 179 - 196 |                        |
 | 15 | 2016-04-10 21:00-23:00 | 5 | :o::o::x::o::x::o::o::x: | 197 - 215 |                        |
+| 16 | 2016-04-17 21:00-23:00 | 3 | :o::o::x::x::x::x::x::o: | 217 - 231 | 付録・解説             |
 
 1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [intptr-t](https://github.com/intptr-t), 5: [s-hosoai](https://github.com/s-hosoai), 6: [akeboshi](https://github.com/akeboshi),  7:[amatubu2525](https://github.com/amatubu2525), 8:[LagunaPresa](https://github.com/LagunaPresa)
 
