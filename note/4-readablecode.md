@@ -424,6 +424,31 @@ if ("hoge".equalsIgnoreCase(hoge)) {
 * プルリクレビューとかでやってみたい。
 * オンラインでペアプロできる仕組みとかあればやりやすそう。
 
+### 付録
+
+* このなかでどれぐらい読んだことあるか？
+ * mikan 3冊
+ * MrBearing 0冊
+ * LagunaPresa 5冊
+
+* Code Complete 読んでみたい (高い…)
+
+* 柴田芳樹さんが[ソフトウェア開発の名著を読む](http://gihyo.jp/book/2009/978-4-7741-4017-9)という本が執筆していて、これらの書評がある。
+
+### 解説
+
+* Diff のメールは、今ならチャットが主流だね。
+
+- - -
+
+* Diff に加えてまでスタイル揃えるかの話も。
+* GitHub の Diff は末尾に `?w=` を入れると空白だけの表示をスキップしてくれる。ただしこのモードのときは行にコメントを入れられなくなる。
+ * 例: https://github.com/aosn/aosn.github.io/commit/471d00c94205202c8ad5d52890877ef4f0353ce7?w= (有効時)
+ * https://github.com/aosn/aosn.github.io/commit/471d00c94205202c8ad5d52890877ef4f0353ce7 (デフォルト)
+
+### 解説
+
+
 
 ### 参考情報
 
