@@ -34,18 +34,18 @@ title: リーダブルコード
 
 | ID                                              | 地域     | 備考             |
 |:------------------------------------------------|:---------|:-----------------|
-| ![](/images/users/akeboshi_24.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                  |
-| ![](/images/users/mikan_24.png) [mikan](https://github.com/mikan)               | 神奈川県 | 司会進行・調整役 |
-| ![](/images/users/s-hosoai_24.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
-| ![](/images/users/amatubu2525_24.png) [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   |                  |
-| ![](/images/users/MrBearing_24.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
-| ![](/images/users/YuichiroSato_24.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
-| ![](/images/users/intptr-t_24.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   | 　               |
-| ![](/images/users/LagunaPresa_24.png) [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   | 　               |
+| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                  |
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)               | 神奈川県 | 司会進行・調整役 |
+| ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
+| ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   |                  |
+| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
+| ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
+| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   | 　               |
+| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   | 　               |
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_24.png)![](/images/users/MrBearing_24.png)![](/images/users/YuichiroSato_24.png)![](/images/users/intptr-t_24.png)![](/images/users/s-hosoai_24.png)![](/images/users/akeboshi_24.png)![](/images/users/amatubu2525_24.png)![](/images/users/LagunaPresa_24.png) | Pages | Other work |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png)![](/images/users/MrBearing_16.png)![](/images/users/YuichiroSato_16.png)![](/images/users/intptr-t_16.png)![](/images/users/s-hosoai_16.png)![](/images/users/akeboshi_16.png)![](/images/users/amatubu2525_16.png)![](/images/users/LagunaPresa_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:------------------------:|:---------:|:-----------------------|
 |  1 | 2015-12-13 23:00-23:30 | 7 | :o::o::o::o::o::o::o::x: |   1 -   5 |                        |
 |  2 | 2015-12-20 23:00-23:30 | 5 | :o::o::o::o::o::x::x::x: |   6 -  27 |                        |
