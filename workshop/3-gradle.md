@@ -37,7 +37,7 @@ title: Gradle 徹底入門
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png)![](/images/users/MrBearing_16.png)![](/images/users/YuichiroSato_16.png)![](/images/users/intptr-t_16.png)![](/images/users/s-hosoai_16.png)![](/images/users/akeboshi_16.png)![](/images/users/amatubu2525_16.png) | Pages | Other work |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/amatubu2525_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:---------------------:|:---------:|:-----------------------|
 |  1 | 2015-11-29 21:00-23:00 | 6 | :o::o::o::o::x::o::o: |   1 -  24 | はじめに, 本書の読み方 |
 |  2 | 2015-12-06 21:00-23:00 | 7 | :o::o::o::o::o::o::o: |  25 -  65 |                        |

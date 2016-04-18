@@ -38,7 +38,7 @@ title: 深層学習
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png)![](/images/users/MrBearing_16.png)![](/images/users/YuichiroSato_16.png)![](/images/users/LagunaPresa_16.png)![](/images/users/intptr-t_16.png)![](/images/users/s-hosoai_16.png)![](/images/users/akeboshi_16.png)![](/images/users/marishi_16.png) | Pages | Other work |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/marishi_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:------------------------:|:---------:|:-------------------|
 |  1 | 2015-09-20 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |   1 -  12 | まえがき等         |
 |  2 | 2015-09-27 21:00-23:00 | 8 | :o::o::o::o::o::o::o::o: |  12 -  26 | 　                 |

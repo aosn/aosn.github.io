@@ -72,7 +72,7 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_24.jpg)![](/images/users/MrBearing_16.png)![](/images/users/YuichiroSato_16.png)![](/images/users/namichan0801_16.png)![](/images/users/LagunaPresa_24.jpg)![](/images/users/intptr-t_16.png)![](/images/users/s-hosoai_24.jpg) | Pages | Ex. Review |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png)  ![](/images/users/namichan0801_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) | Pages | Ex. Review |
 |---:|:----------------------:|:-:|:---------------------:|:---------:|:-------------------|
 |  1 | 2014-11-23 21:00-23:00 | 5 | :o::x::o::o::o::o::x: | 211 - 214 |                    |
 |  2 | 2014-11-30 21:00-23:00 | 4 | :o::o::x::x::o::o::x: |           | 9-1,2              |

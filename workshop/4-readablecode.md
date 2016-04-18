@@ -45,7 +45,7 @@ title: リーダブルコード
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png)![](/images/users/MrBearing_16.png)![](/images/users/YuichiroSato_16.png)![](/images/users/intptr-t_16.png)![](/images/users/s-hosoai_16.png)![](/images/users/akeboshi_16.png)![](/images/users/amatubu2525_16.png)![](/images/users/LagunaPresa_16.png) | Pages | Other work |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:------------------------:|:---------:|:-----------------------|
 |  1 | 2015-12-13 23:00-23:30 | 7 | :o::o::o::o::o::o::o::x: |   1 -   5 |                        |
 |  2 | 2015-12-20 23:00-23:30 | 5 | :o::o::o::o::o::x::x::x: |   6 -  27 |                        |
