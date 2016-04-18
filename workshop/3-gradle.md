@@ -27,17 +27,17 @@ title: Gradle 徹底入門
 
 | ID                                              | 地域     | 備考             |
 |:------------------------------------------------|:---------|:-----------------|
-| [mikan](https://github.com/mikan)               | 神奈川県 | 調整役、司会進行 |
-| [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
-| [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
-| [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
-| [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
-| [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 電子版           |
-| [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   | 　               |
+| ![](/images/users/mikan_24.png) [mikan](https://github.com/mikan)               | 神奈川県 | 調整役、司会進行 |
+| ![](/images/users/MrBearing_24.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
+| ![](/images/users/YuichiroSato_24.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
+| ![](/images/users/intptr-t_24.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
+| ![](/images/users/s-hosoai_24.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
+| ![](/images/users/akeboshi_24.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 電子版           |
+| ![](/images/users/amatubu2525_24.png) [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   | 　               |
 
 ## スケジュール
 
-|  # |     Date & Time (JST)  | A |   1  2  3  4  5  6  7 |   Pages   | Other work             |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_24.png)![](/images/users/MrBearing_24.png)![](/images/users/YuichiroSato_24.png)![](/images/users/intptr-t_24.png)![](/images/users/s-hosoai_24.png)![](/images/users/akeboshi_24.png)![](/images/users/amatubu2525_24.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:---------------------:|:---------:|:-----------------------|
 |  1 | 2015-11-29 21:00-23:00 | 6 | :o::o::o::o::x::o::o: |   1 -  24 | はじめに, 本書の読み方 |
 |  2 | 2015-12-06 21:00-23:00 | 7 | :o::o::o::o::o::o::o: |  25 -  65 |                        |

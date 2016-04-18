@@ -31,9 +31,22 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 * [Gradle 徹底入門](/workshop/3-gradle) 3件報告
 * [Java SE 8 実践プログラミング](/workshop/1-java8) 2件報告 (掲載済)
 
+## 参加者実績
+
+[![](/images/users/amatubu2525_64.png "amatubu2525")](https://github.com/amatubu2525)
+[![](/images/users/marishi_64.png "marishi")](https://github.com/marishi)
+[![](/images/users/akeboshi_64.png "akeboshi")](https://github.com/akeboshi)
+[![](/images/users/s-hosoai_64.png "s-hosoai")](https://github.com/s-hosoai)
+[![](/images/users/intptr-t_64.png "intptr-t")](https://github.com/intptr-t)
+[![](/images/users/LagunaPresa_64.png "LagunaPresa")](https://github.com/LagunaPresa)
+[![](/images/users/namichan0801_64.png "namichan0801")](https://github.com/namichan0801)
+[![](/images/users/YuichiroSato_64.png "YuichiroSato")](https://github.com/YuichiroSato)
+[![](/images/users/MrBearing_64.png "MrBearing")](https://github.com/MrBearing)
+[![](/images/users/mikan_64.png "mikan")](https://github.com/mikan)
+
 ## 参加方法
 
-調整役の [mikan](Https://github.com/mikan)、または勉強会の参加者の誰かにコンタクトしてみてください。お試し参加や、途中の回からの参加や離脱もできます。都合により自宅以外から参加したい時は ROM 参加も認めています。
+調整役の [![](/images/users/mikan_24.png "mikan")](https://github.com/mikan) [mikan](Https://github.com/mikan)、または現行読書会の参加者の誰かにコンタクトしてみてください。お試し参加や、途中の回からの参加や離脱もできます。都合により自宅以外から参加したい時は ROM 参加も認めています。
 
 技術書はペーパーブックでも電子書籍でも構いません。対象書籍が訳書で、英語等の原著を所持している場合は、そちらでの参加も可能です。ただし輪読は日本語 (訳書) で行いますので、原著のみ所有する参加者は音読をスキップします。
 

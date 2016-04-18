@@ -62,17 +62,17 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 
 | ID                                              | 地域     | 備考           |
 |:------------------------------------------------|:---------|:---------------|
-| [mikan](https://github.com/mikan)               | 神奈川県 | 司会進行・調整 |
-| [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役         |
-| [YuichiroSato](https://github.com/YuichiroSato) | オランダ | 原著で参加     |
-| [namichan0801](https://github.com/namichan0801) | 東京都   | 第10回まで参加 |
-| [LagunaPresa](https://github.com/LagunaPresa)   | 山形県   |                |
-| [intptr-t](https://github.com/intptr-t)         | 愛知県   |                |
-| [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 第11回から参加 |
+| ![](/images/users/mikan_24.png) [mikan](https://github.com/mikan)               | 神奈川県 | 司会進行・調整 |
+| ![](/images/users/MrBearing_24.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役         |
+| ![](/images/users/YuichiroSato_24.png) [YuichiroSato](https://github.com/YuichiroSato) | オランダ | 原著で参加     |
+| ![](/images/users/namichan0801_24.png) [namichan0801](https://github.com/namichan0801) | 東京都   | 第10回まで参加 |
+| ![](/images/users/LagunaPresa_24.png) [LagunaPresa](https://github.com/LagunaPresa)   | 山形県   |                |
+| ![](/images/users/intptr-t_24.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   |                |
+| ![](/images/users/s-hosoai_24.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 第11回から参加 |
 
 ## スケジュール
 
-|  # |     Date & Time (JST)  | A |  mi Mr Yu na La in s- |   Pages   | Ex. Review         |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_24.jpg)![](/images/users/MrBearing_24.png)![](/images/users/YuichiroSato_24.png)![](/images/users/namichan0801_24.png)![](/images/users/LagunaPresa_24.jpg)![](/images/users/intptr-t_24.png)![](/images/users/s-hosoai_24.jpg) | Pages | Ex. Review |
 |---:|:----------------------:|:-:|:---------------------:|:---------:|:-------------------|
 |  1 | 2014-11-23 21:00-23:00 | 5 | :o::x::o::o::o::o::x: | 211 - 214 |                    |
 |  2 | 2014-11-30 21:00-23:00 | 4 | :o::o::x::x::o::o::x: |           | 9-1,2              |
@@ -117,8 +117,6 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 | 41 | 2015-08-30 21:00-23:00 | 5 | :o::o::x::x::o::o::o: | 168 - 179 | 7-1                |
 | 42 | 2015-09-06 21:00-23:00 | 6 | :o::o::o::x::o::o::o: | 179 - 216 |                    |
 | 43 | 2015-09-12 Arima Onsen | 6 | :o::o::o::x::o::o::o: |           | 8-1,2,3            |
-
-m: [mikan](https://github.com/mikan), M: [MrBearing](https://github.com/MrBearing), Y: [YuichiroSato](https://github.com/YuichiroSato), n: [namichan0801](https://github.com/namichan0801), L: [LagunaPresa](https://github.com/LagunaPresa), i: [intptr-t](https://github.com/intptr-t), s: [s-hosoai](https://github.com/s-hosoai)
 
 ## 成果物
 

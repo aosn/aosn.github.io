@@ -27,18 +27,18 @@ title: 深層学習
 
 | ID                                              | 地域     | 備考           |
 |:------------------------------------------------|:---------|:---------------|
-| [mikan](https://github.com/mikan)               | 神奈川県 | 調整役         |
-| [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役         |
-| [YuichiroSato](https://github.com/YuichiroSato) | 石川県   | 司会進行代行   |
-| [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   |                |
-| [intptr-t](https://github.com/intptr-t)         | 愛知県   |                |
-| [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 司会進行役     |
-| [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 第2回から参加  |
-| [marishi](https://github.com/marishi)           | 岐阜県   | 第2回から参加  |
+| ![](/images/users/mikan_24.png) [mikan](https://github.com/mikan)               | 神奈川県 | 調整役         |
+| ![](/images/users/MrBearing_24.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役         |
+| ![](/images/users/YuichiroSato_24.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   | 司会進行代行   |
+| ![](/images/users/LagunaPresa_24.png) [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   |                |
+| ![](/images/users/intptr-t_24.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   |                |
+| ![](/images/users/s-hosoai_24.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 司会進行役     |
+| ![](/images/users/akeboshi_24.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 第2回から参加  |
+| ![](/images/users/marishi_24.png) [marishi](https://github.com/marishi)           | 岐阜県   | 第2回から参加  |
 
 ## スケジュール
 
-|  # |     Date & Time (JST)  | A |   1  2  3  4  5  6  7  8 |   Pages   | Other work         |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_24.png)![](/images/users/MrBearing_24.png)![](/images/users/YuichiroSato_24.png)![](/images/users/LagunaPresa_24.png)![](/images/users/intptr-t_24.png)![](/images/users/s-hosoai_24.png)![](/images/users/akeboshi_24.png)![](/images/users/marishi_24.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:------------------------:|:---------:|:-------------------|
 |  1 | 2015-09-20 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |   1 -  12 | まえがき等         |
 |  2 | 2015-09-27 21:00-23:00 | 8 | :o::o::o::o::o::o::o::o: |  12 -  26 | 　                 |
@@ -50,8 +50,6 @@ title: 深層学習
 |  8 | 2015-11-08 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: | 111 - 130 | 　                 |
 |  9 | 2015-11-15 21:00-23:00 | 5 | :o::x::o::o::o::x::o::x: | 131 - 142 | [次回本投票](https://kagaorange.typeform.com/report/M29YtT/cl8B) |
 | 10 | 2015-11-22 21:00-23:00 | 6 | :o::o::o::o::x::o::o::x: | 143 - 156 | [TensorFlow チュートリアル](http://tensorflow.org/tutorials)     |
-
-1: [mikan](https://github.com/mikan), 2: [MrBearing](https://github.com/MrBearing), 3: [YuichiroSato](https://github.com/YuichiroSato), 4: [LagunaPresa](https://github.com/LagunaPresa), 5: [intptr-t](https://github.com/intptr-t), 6: [s-hosoai](https://github.com/s-hosoai), 7: [akeboshi](https://github.com/akeboshi), 8: [marishi](https://github.com/marishi)
 
 ## 成果物
 
