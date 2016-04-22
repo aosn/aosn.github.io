@@ -55,7 +55,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ## 実施環境
 
-コードの共有などは [GitHub](https://github.com) を、コミュニケーションには [Discord](https://discordapp.com/) を使用しています。それぞれ ID をご用意ください。また、参加の際はマイクが使える環境をご用意ください。
+読書会の実施には [Discord](https://discordapp.com/) を、Wiki やコードの共有などには [GitHub](https://github.com) を使用しています。それぞれ ID をご用意ください。また、参加の際はマイクが使える環境をご用意ください。なお、日常のコミュニケーションには [Slack](https://aosn.slack.com) を使用しています。
 
 ## 技術書選択方針
 
