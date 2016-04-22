@@ -32,7 +32,7 @@ title: 入門 React
 |:------------------------------------------------|:---------|:-----------------|
 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)               | 神奈川県 | 調整役, 電子版         |
 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
-| ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
+| ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 東京都   |                  |
 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   |                 |
 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                  |
