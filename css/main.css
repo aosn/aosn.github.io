@@ -167,6 +167,7 @@ th, td {
 .page-content h5 { font-size: 110%; }
 .page-content p { padding-top: 5px; }
 .page-content ul { margin-left: 15px; padding: 5px; }
+.page-content ol { margin-left: 15px; padding: 5px; }
 
 /* Home styles */
 /* ----------------------------------------------------------*/
