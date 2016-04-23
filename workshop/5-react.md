@@ -35,7 +35,7 @@ title: 入門 React
 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 東京都   |                  |
 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   |                 |
-| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                  |
+| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 |  電子版             |
 | ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   | 　               |
 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   | 司会進行          |
 
