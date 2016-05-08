@@ -66,3 +66,12 @@ title: Gradle 徹底入門
 ### 読書ノート
 
 [読書ノート](/note/3-gradle)をご覧ください。
+
+
+## 振り返り
+
+第20回実施
+
+### KPT (Keep Problem Try)
+
+![](/images/kpt-gradle.png "KPT for Gradle workshop")
