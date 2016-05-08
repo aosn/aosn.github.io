@@ -69,3 +69,12 @@ title: リーダブルコード
 ### 読書ノート
 
 [読書ノート](/note/4-readablecode)をご覧ください。
+
+
+## 振り返り
+
+Gradle 読書会の第20回実施
+
+### KPT (Keep Problem Try)
+
+![](/images/kpt-readablecode.png "KPT for Readable Code workshop")
