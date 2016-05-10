@@ -21,7 +21,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ※  息抜きパート (技術書選択方針参照)
 
-[![](/images/cover-unix.png "Unix考古学")](/workshop/6-unix)
+[![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
 [![](/images/cover-react.png "入門 React")](/workshop/5-react)
 [![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
 [![](/images/cover-gradle.jpg "Gradle 徹底入門")](/workshop/3-gradle)

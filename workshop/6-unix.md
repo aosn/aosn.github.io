@@ -31,22 +31,22 @@ title: Unix考古学
 
 ## 参加者
 
-| ID                                              | 地域     | 備考             |
-|:------------------------------------------------|:---------|:-----------------|
-| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 |                  |
-| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)               | 神奈川県 | 司会進行・調整役 |
-| ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
-| ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   |                  |
-| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
+| ID                                                                                     | 地域     | 備考             |
+|:---------------------------------------------------------------------------------------|:--------|:-----------------|
+| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)             | 神奈川県 |                  |
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                      | 神奈川県 | 司会進行・調整役   |
+| ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)             | 福岡県   |                  |
+| ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)    | 埼玉県   |                  |
+| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)          | 大阪府   | 締め役           |
 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
-| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   | 　               |
-| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   | 　               |
+| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)             | 愛知県   | 　               |
+| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)    | 東京都   | 　               |
 
 ## スケジュール
 
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:------------------------:|:---------:|:-----------------------|
-|  1 | 2016-05-15 23:00-23:30 | 7 |  |  11 -  22 |                        |
+|  1 | 2016-05-15 23:00-23:30 | ? |  |  11 -  22 |                        |
 
 ## 成果物
 
