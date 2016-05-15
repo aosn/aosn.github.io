@@ -35,6 +35,13 @@ title: 読書ノート - 入門 React
 
 → 事前コンパイルで JavaScript にする方法と、解釈できるライブラリを入れることでコンパイルなしで読ませる方法がある。
 
+**P15** `React.createClass()` に渡すオブジェクトの仕様は？
+
+→ P233、より詳しくは公式サイト: https://facebook.github.io/react/docs/component-specs.html
+
+**P16** `JSXは意図しない結果となります` 実際例えばどうなるのか？
+
+→ トランスパイラにひっかかるか、ひっかからなくても eturn がないので undefined になる気がする。
 
 
 
