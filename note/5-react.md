@@ -39,7 +39,7 @@ title: 読書ノート - 入門 React
 
 → P233、より詳しくは公式サイト: https://facebook.github.io/react/docs/component-specs.html
 
-**P16** `JSXは意図しない結果となります` 実際例えばどうなるのか？
+**P16** `JSXは意図しない結果となります` 実際どうなるのか？
 
 → トランスパイラにひっかかるか、ひっかからなくても eturn がないので undefined になる気がする。
 
