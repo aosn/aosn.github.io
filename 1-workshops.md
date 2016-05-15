@@ -15,7 +15,7 @@ title: 実績
 * 回数: (実施中)
 * 人数: T.B.D.
 
-[読書ノート](/note/6-unix) 
+[読書ノート](/note/6-unix) (正誤表貢献: 4件報告)
 
 ## #5 入門 React
 
@@ -68,7 +68,7 @@ title: 実績
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
   * ![](/images/users/marishi_16.png) [marishi](https://github.com/marishi)
 
-[読書ノート](/note/3-gradle) (正誤表貢献: 3件報告済・5件報告予定)
+[読書ノート](/note/3-gradle) (正誤表貢献: 10件報告)
 
 ## #2 深層学習
 
