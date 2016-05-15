@@ -37,7 +37,7 @@ title: 読書ノート - 入門 React
 
 **P15** `React.createClass()` に渡すオブジェクトの仕様は？
 
-→ P233、より詳しくは公式サイト: https://facebook.github.io/react/docs/component-specs.html
+→ P233、より詳しくは公式サイト: [https://facebook.github.io/react/docs/component-specs.html](https://facebook.github.io/react/docs/component-specs.html)
 
 **P16** `JSXは意図しない結果となります` とあるが、実際どうなるのか？
 
