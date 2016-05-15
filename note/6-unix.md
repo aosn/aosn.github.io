@@ -21,13 +21,17 @@ title: 読書ノート - Unix考古学
 
 **P4** 第5段落 4行目と5行目の間に `も` が抜けている。
 
+→ Errata 報告します (mikan)
+
 ### 第1章
 
 **P12** 第2段落 `対話型コンピューティングを実現を狙った` とあるが、`対話型コンピューティングの実現を狙った` の誤りと思われる。
 
+→ Errata 報告します (mikan)
+
 **P12** Whirlwind ってなんて読むんだろう？
 
-→ [Whirlwind - Wikipedia](https://ja.wikipedia.org/wiki/Whirlwind)
+→ ホワールウィンド [Whirlwind - Wikipedia](https://ja.wikipedia.org/wiki/Whirlwind)
 
 **P32** 脚注14 `dc` 実行結果 3 行目 `3    ← 計算結果「5」が表示される` とあるが、計算結果は 3 なので見間違いと思われる。
 
