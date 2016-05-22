@@ -27,7 +27,7 @@ title: 読書ノート - 入門 React
 
 **P11** `セマンティックで意味のあるマークアップ言語` とは・・・ (訳ミス？)
 
-**P12** ページJSXでセミコロンは書かないといけないの？
+**P12** JSXでセミコロンは書かないといけないの？
 
 → 書かなくても良いが、書いたほうが文法的に安全。この本ではセミコロンを積極的につけるほうで統一している感じがする。
 
@@ -43,9 +43,28 @@ title: 読書ノート - 入門 React
 
 → トランスパイラにひっかかるか、ひっかからなくても return がないので undefined になる気がする。
 
+**P19** `dangerouslySetInnerHTML` について。
 
+→ 特に XSS を許しやすい。
+
+**P21** コメントはトランスパイラ通したあとも残るのだろうか。
+
+→ JSX トランスパイラがどう扱うかは分からない。
+
+→ TypeScript はオプションで選べる。
+
+**P21** 紛らわしいが、ここでいう `for` は label のターゲット ID 指定、`class` は主に CSS 等で使うクラス。
+
+**P21** `displayName` ってなんだろう。
+
+→ デバッグ用。P248 に解説あり。
+
+**P28** サンプルコード 6 行目 `return \<input ... /\>;` 不自然なバックスラッシュが 2 つある。
+
+→ Errata？
 
 
 ### 参考情報
 
-T.B.D.
+* React JSFiddle [https://jsfiddle.net/reactjs/69z2wepo/](https://jsfiddle.net/reactjs/69z2wepo/)
+* jQuery UI の autocomplete: [https://jqueryui.com/autocomplete/](https://jqueryui.com/autocomplete/)
