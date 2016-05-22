@@ -31,7 +31,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ### 正誤表貢献実績
 
-* [Unix考古学 Truth of the Legend](/workshop/6-unix) 4件報告
+* [Unix考古学 Truth of the Legend](/workshop/6-unix) 4件報告 (掲載済)
 * [Gradle 徹底入門](/workshop/3-gradle) 10件報告
 * [Java SE 8 実践プログラミング](/workshop/1-java8) 2件報告 (掲載済)
 
