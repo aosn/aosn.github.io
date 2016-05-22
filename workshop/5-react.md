@@ -10,7 +10,7 @@ title: 入門 React
 
 ## 概要
 
-* 期間: (参加者募集中)
+* 期間: 2016/05/15 ～ (実施中)
 * 内容: 本文通読
 
 ### 対象書籍
@@ -21,7 +21,7 @@ title: 入門 React
 * 訳者: 宮崎 空
 * 出版: オライリー・ジャパン
 * 発売: 2015/04/03
-* 頁数: 280
+* 頁数: 280 (本文は 222 まで)
 * ISBN: 978-4-87311-719-5
 
 正誤表: [訳書正誤表](http://public-errata.appspot.com/errata/book/9784873117195/) (非公式)
@@ -44,6 +44,7 @@ title: 入門 React
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:---------------------:|:---------:|:-----------------------|
 |  1 | 2016-05-15 21:00-23:00 | 6 | :o::o::o::x::o::o::x::o: |   3 -  18 | まえがき            |
+|  2 | 2016-05-22 21:00-23:00 | 7 | :o::o::o::o::o::o::x::o: |  18 -  32 |                     |
 
 
 ## 成果物
