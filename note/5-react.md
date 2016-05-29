@@ -59,9 +59,22 @@ title: 読書ノート - 入門 React
 
 → デバッグ用。P248 に解説あり。
 
+### 第3章
+
 **P28** サンプルコード 6 行目 `return \<input ... /\>;` 不自然なバックスラッシュが 2 つある。
 
 → Errata？
+
+### 第4章
+
+**P34** React 0.14 で `React.render` は `ReactDOM.render` ([リファレンス](http://facebook.github.io/react/docs/top-level-api.html#reactdom)) に変更された。
+
+**P35** `propTypesで「任意」と指定したプロパティに対してのみ` とあるが、4.1.1 で `isRequired`  を用いて必須は指定する方法があるが、任意を明示的に指定する方法の説明はない。方法がある？あるいは誤訳？
+
+### 第5章
+
+**P43** aside タグは HTML5 で追加された新要素。
+
 
 
 ### 参考情報
