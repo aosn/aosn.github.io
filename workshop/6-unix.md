@@ -47,7 +47,8 @@ title: Unix考古学
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:------------------------:|:---------:|:-----------------------|
 |  1 | 2016-05-15 21:00-23:00 | 6 | :o::o::o::x::o::o::x::o: |   3 -  14 | まえがき               |
-|  2 | 2016-05-15 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |  14 -  18 |                        |
+|  2 | 2016-05-22 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |  14 -  18 |                        |
+|  3 | 2016-05-29 21:00-23:00 | 6 | :o::o::x::o::o::o::x::x: |  2章      |                        |
 
 ## 成果物
 
