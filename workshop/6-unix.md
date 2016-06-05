@@ -23,6 +23,14 @@ title: Unix考古学
 
 正誤表: [http://asciidwango.jp/support/TruthOfTheLegend](http://asciidwango.jp/support/TruthOfTheLegend)
 
+### 投票結果
+
+| 書籍                                                     | 提案者                                        | 得票数      | 決戦投票 |
+|:---------------------------------------------------------|:----------------------------------------------|:------------|:---------|
+| **Unix考古学 Truth of the Legend**                       | ![](/images/users/mikan_16.png) mikan         |:+1::+1::+1: | :+1::+1: |
+| 人月の神話                                               | ![](/images/users/MrBearing_16.png) MrBearing |:+1::+1::+1: |          |
+| あなたの知らないところでソフトウェアは何をしているのか？ | ![](/images/users/mikan_16.png) mikan         |:+1::+1:     | X        |
+
 ### 進め方
 
 本件は技術書選択方針の「息抜きにピックアップする軽い本」として開催するものです。本流である[入門 React](../5-react)に付随して実施します。実施時間は、本流終了後の 30 分間です。
@@ -32,23 +40,23 @@ title: Unix考古学
 ## 参加者
 
 | ID                                                                                     | 地域     | 備考             |
-|:---------------------------------------------------------------------------------------|:--------|:-----------------|
-| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                      | 神奈川県 | 司会進行・調整役   |
+|:---------------------------------------------------------------------------------------|:---------|:-----------------|
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                      | 神奈川県 | 司会進行・調整役 |
 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)          | 大阪府   | 締め役           |
 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)             | 愛知県   | 　               |
 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)             | 福岡県   |                  |
 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)             | 神奈川県 |                  |
-| ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)    | 埼玉県   |                  |
 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)    | 東京都   | 　               |
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
-|---:|:----------------------:|:-:|:------------------------:|:---------:|:-----------------------|
-|  1 | 2016-05-15 21:00-23:00 | 6 | :o::o::o::x::o::o::x::o: |   3 -  14 | まえがき               |
-|  2 | 2016-05-22 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: |  14 -  18 |                        |
-|  3 | 2016-05-29 21:00-23:00 | 5 | :o::o::x::o::o::o::x::x: |  2章      |                        |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
+|---:|:----------------------:|:-:|:---------------------:|:---------:|:-----------------------|
+|  1 | 2016-05-15 21:00-23:00 | 6 | :o::o::o::x::o::o::o: |  まえがき |                        |
+|  2 | 2016-05-22 21:00-23:00 | 6 | :o::o::o::o::o::o::x: |  1章      |                        |
+|  3 | 2016-05-29 21:00-23:00 | 5 | :o::o::x::o::o::o::x: |  2章      |                        |
+|  4 | 2016-06-05 21:00-23:00 | 5 | :o::o::x::o::o::o::x: |  3章      |                        |
 
 ## 成果物
 
