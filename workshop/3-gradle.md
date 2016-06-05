@@ -23,17 +23,31 @@ title: Gradle 徹底入門
 
 正誤表: http://www.shoeisha.co.jp/book/detail/9784798136431
 
+### 投票結果
+
+| 書籍                                                  | 提案者                                            | 得票数             |
+|:------------------------------------------------------|:--------------------------------------------------|:-------------------|
+| **Gradle 徹底入門**                                   | ![](/images/users/mikan_16.png) mikan             |:+1::+1::+1::+1::+1:|
+| Scala関数型デザイン&プログラミング                    | ![](/images/users/LagunaPresa_16.png) LagunaPresa |:+1::+1::+1::+1:    |
+| Caffeをはじめよう - 深層学習による画像解析の実践      | ![](/images/users/MrBearing_16.png) MrBearing     |:+1::+1::+1:        |
+| サイバーセキュリティプログラミング                    | ![](/images/users/mikan_16.png) mikan             |:+1::+1::+1:        |
+| RaspberryPiで学ぶ ARMデバイスドライバープログラミング | ![](/images/users/MrBearing_16.png) MrBearing     |:+1::+1::+1:        |
+| すごいHaskellたのしく学ぼう                           | ![](/images/users/LagunaPresa_16.png) LagunaPresa |:+1::+1::+1:        |
+| 関数型オブジェクト指向AI プログラミング               | ![](/images/users/s-hosoai_16.png) s-hosoai       |                    |
+
+注: 1人3票
+
 ## 参加者
 
-| ID                                              | 地域     | 備考             |
-|:------------------------------------------------|:---------|:-----------------|
-| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)               | 神奈川県 | 調整役、司会進行 |
-| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
+| ID                                                                                     | 地域     | 備考             |
+|:---------------------------------------------------------------------------------------|:---------|:-----------------|
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                      | 神奈川県 | 調整役、司会進行 |
+| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)          | 大阪府   | 締め役           |
 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 石川県   |                  |
-| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
-| ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   | 電子版           |
-| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 | 電子版           |
-| ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   | 　               |
+| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)             | 愛知県   |                  |
+| ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)             | 福岡県   | 電子版           |
+| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)             | 神奈川県 | 電子版           |
+| ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)    | 埼玉県   | 　               |
 
 ## スケジュール
 
