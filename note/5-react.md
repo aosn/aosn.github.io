@@ -75,7 +75,17 @@ title: 読書ノート - 入門 React
 
 **P43** aside タグは HTML5 で追加された新要素。
 
+### 第6章
 
+**P51** `AnswerRadioInput` の要素 `<label htlmFor={this.state.id}>` とあるが、属性 `htlmFor` は `htmlFor` のタイプミス。
+
+→ 要 Errata 報告
+
+### 第8章
+
+**P63** canvas タグは HTML5 で追加された新要素。
+
+**P64** `React.findDOMNode` は React 0.14 で `ReactDOM.findDOMNode` ([リファレンス](http://facebook.github.io/react/docs/top-level-api.html#reactdom.finddomnode)) に変更された。
 
 ### 参考情報
 
