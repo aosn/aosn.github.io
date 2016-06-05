@@ -61,3 +61,13 @@ title: 読書ノート - Unix考古学
 
 → C で `//` コメント使えるようになったのはだいぶ後になってから (C99 から)。
 
+### 第3章
+
+**P40** ed 使い方わっかんねー(笑
+
+**P42** CTSS → Mutics の文脈で、セカンドシステム症候群が引用されている。人月の神話の第5章参照。
+
+**P43** roff って Linux に入ってる groff (使ったことない) の元か～
+
+**P44** jfo = Joseph F. Ossanna, dmr = Dennis MacAlistair Ritchie, ken = Ken Tompson
+
