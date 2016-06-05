@@ -26,26 +26,35 @@ title: 入門 React
 
 正誤表: [訳書正誤表](http://public-errata.appspot.com/errata/book/9784873117195/) (非公式)
 
+### 投票結果
+
+| 書籍                                 | 提案者                                            | 得票数         |
+|:-------------------------------------|:--------------------------------------------------|:---------------|
+| **入門 React**                       | ![](/images/users/LagunaPresa_16.png) LagunaPresa |:+1::+1::+1::+1:|
+| マイクロサービスアーキテクチャ       | ![](/images/users/mikan_16.png) mikan             |:+1::+1::+1:    |
+| Docker 実践ガイド                    | ![](/images/users/mikan_16.png) mikan             |:+1:            |
+| ビヨンドソフトウェアアーキテクチャ   | ![](/images/users/mikan_16.png) mikan             |                |
+
 ## 参加者
 
-| ID                                              | 地域     | 備考             |
-|:------------------------------------------------|:---------|:-----------------|
-| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)               | 神奈川県 | 調整役, 電子版         |
-| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)       | 大阪府   | 締め役           |
+| ID                                                                                     | 地域     | 備考             |
+|:---------------------------------------------------------------------------------------|:---------|:-----------------|
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                      | 神奈川県 | 調整役, 電子版   |
+| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)          | 大阪府   | 締め役           |
 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 東京都   |                  |
-| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)         | 愛知県   |                  |
-| ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)         | 福岡県   |                 |
-| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)         | 神奈川県 |  電子版             |
-| ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)   | 埼玉県   | 　               |
-| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)   | 東京都   | 司会進行          |
+| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)             | 愛知県   |                  |
+| ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)             | 福岡県   |                  |
+| ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)             | 神奈川県 |  電子版          |
+| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)    | 東京都   | 司会進行         |
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
-|---:|:----------------------:|:-:|:---------------------:|:---------:|:-----------------------|
-|  1 | 2016-05-15 21:00-23:00 | 6 | :o::o::o::x::o::o::x::o: |   3 -  18 | まえがき            |
-|  2 | 2016-05-22 21:00-23:00 | 7 | :o::o::o::o::o::o::x::o: |  18 -  32 |                     |
-|  3 | 2016-05-29 21:00-23:00 | 6 | :o::o::x::o::o::o::x::o: |  33 -  46 |                     |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) | Pages | Other work |
+|---:|:----------------------:|:-:|:---------------------:|:---------:|:--------------------|
+|  1 | 2016-05-15 21:00-23:00 | 6 | :o::o::o::x::o::o::o: |   3 -  18 | まえがき            |
+|  2 | 2016-05-22 21:00-23:00 | 7 | :o::o::o::o::o::o::o: |  18 -  32 |                     |
+|  3 | 2016-05-29 21:00-23:00 | 6 | :o::o::x::o::o::o::o: |  33 -  46 |                     |
+|  4 | 2016-06-05 21:00-23:00 | 5 | :o::o::x::o::x::o::o: |  47 -  78 |                     |
 
 
 ## 成果物
