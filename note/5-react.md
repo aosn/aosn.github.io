@@ -87,6 +87,19 @@ title: 読書ノート - 入門 React
 
 **P64** `React.findDOMNode` は React 0.14 で `ReactDOM.findDOMNode` ([リファレンス](http://facebook.github.io/react/docs/top-level-api.html#reactdom.finddomnode)) に変更された。
 
+### 第9章
+
+**P83** `React.addons.LinkedStateMixin` とは一体・・・
+
+→ React アドオンで提供されているヘルパー関数: [Two-Way Binding Helpers | React](https://facebook.github.io/react/docs/two-way-binding-helpers.html) ([npm package](https://www.npmjs.com/package/react-addons-linked-state-mixin))
+
+
+**P89** 9.11.4 第一段落に句点が抜けている。
+
+→ Errata？
+
+
+
 ### 参考情報
 
 * React JSFiddle [https://jsfiddle.net/reactjs/69z2wepo/](https://jsfiddle.net/reactjs/69z2wepo/)
