@@ -71,3 +71,13 @@ title: 読書ノート - Unix考古学
 
 **P44** jfo = Joseph F. Ossanna, dmr = Dennis MacAlistair Ritchie, ken = Ken Tompson
 
+### 第4章
+
+**P47** Unix の精神、よく vi 陣営が Emacs 陣営を批判する根拠になってるよね [エディタ戦争 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E6%88%A6%E4%BA%89), Emacs 叩きのネタとしてはこんなものもあったね [Emacsは忘れた方がいい（Gosling）：2008年の名言 - builder by ZDNet Japan](http://builder.japan.zdnet.com/tool/20370436/)
+
+**P48** パイプは大発明だよね。grep とか find とかで日頃当たり前のように使っているけれど、こんな熱い背景があるとは。
+
+**P56** B言語を型付きにしたのがC言語だったという。生きてる言語で型なしはあるんだろうか・・・古い BASIC 系？
+
+
+
