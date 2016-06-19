@@ -91,13 +91,22 @@ title: 読書ノート - 入門 React
 
 **P83** `React.addons.LinkedStateMixin` とは一体・・・
 
-→ React アドオンで提供されているヘルパー関数: [Two-Way Binding Helpers | React](https://facebook.github.io/react/docs/two-way-binding-helpers.html) ([npm package](https://www.npmjs.com/package/react-addons-linked-state-mixin))
+→ React アドオンで提供されているヘルパー関数: [Two-Way Binding Helpers - React](https://facebook.github.io/react/docs/two-way-binding-helpers.html) ([npm package](https://www.npmjs.com/package/react-addons-linked-state-mixin))
 
 
 **P89** 9.11.4 第一段落に句点が抜けている。
 
 → Errata？
 
+### 第12章
+
+**P110** `React.renderToString` は React 0.14 で `ReactDOMServer.renderToString` ([リファレンス](https://facebook.github.io/react/docs/top-level-api.html#reactdomserver)) に変更された。`renderToStaticMarkup` も同様。
+
+**P112** ところで Node.js で SSR できるのはわかったけど Java どうするの？
+
+→ 公式ドキュメントには Nashorn が挙げられている [Server-side Environments](https://facebook.github.io/react/docs/environments.html)
+
+**P112** SSR だと didMount と willMount が呼ばれない件、ライフサイクルの図を見るとなぜかわかりやすい: [An Introduction to Life Cycle Events in React.js | Tyler McGinnis](http://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/)
 
 
 ### 参考情報
