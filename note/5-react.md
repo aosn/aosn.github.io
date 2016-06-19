@@ -96,7 +96,7 @@ title: 読書ノート - 入門 React
 
 **P89** 9.11.4 第一段落に句点が抜けている。
 
-→ Errata？
+→ 要 Errata 報告
 
 ### 第12章
 
@@ -107,6 +107,11 @@ title: 読書ノート - 入門 React
 → 公式ドキュメントには Nashorn が挙げられている [Server-side Environments](https://facebook.github.io/react/docs/environments.html)
 
 **P112** SSR だと didMount と willMount が呼ばれない件、ライフサイクルの図を見るとなぜかわかりやすい: [An Introduction to Life Cycle Events in React.js - Tyler McGinnis](http://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/)
+
+**P115** 英語コメント `//get async state if not in props` は原文消し忘れと思われる。
+
+→ 要 Errata 報告
+
 
 
 ### 参考情報
