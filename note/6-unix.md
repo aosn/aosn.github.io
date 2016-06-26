@@ -89,3 +89,16 @@ title: 読書ノート - Unix考古学
 
 **P67** 仮想メモリ、今は逆にメモリをディスクとして使う技術(RAM ディスク) とかあるよね。
 
+### 第6章
+
+**P75** V5 でなくなった speak コマンドってなんだ！？
+
+→ 英語の文字列を音素に分けるコマンドらしい。参考: [speak (Unix) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Speak_(Unix))
+
+**P75** clri は clear i-node。参考: [ファイルシステム管理コマンド (Solaris のシステム管理 (第 1 巻))](https://docs.oracle.com/cd/E19455-01/806-2717/6jbtqlegm/index.html)
+
+**P75** quiz ってなんだ・・・
+
+→ [Man page of QUIZ](https://linuxjm.osdn.jp/html/bsd-games/man6/quiz.6.html)
+
+**P81** みんな bash が多い。
