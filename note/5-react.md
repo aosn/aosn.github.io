@@ -112,7 +112,25 @@ title: 読書ノート - 入門 React
 
 → 要 Errata 報告
 
+### 第14章
 
+**P130** --save-dev をつけると、devDependencies に依存性を書いてくれる。
+
+**P130** バージョン指定の `^` は、メジャーバージョンは固定で、それ以外は最新の意味。参考: https://docs.npmjs.com/misc/semver
+
+**P130** package.json ってコメント書けなくてつらいよね。
+
+→ 説明は README に書くしかない
+
+**P131** このコードは React 0.14 の仕様変更 (React.render → ReactDOM.render) に対応していない。React 15.1.0 で動くように修正したコード:
+
+```js
+var React = require('react');
+var ReactDOM = require('react-dom');
+ReactDOM.render(<h1>Hello World</h1>, document.body);
+```
+
+なお、1行目は JSX トランスパイル後のコードを動かすために必要。
 
 ### 参考情報
 
