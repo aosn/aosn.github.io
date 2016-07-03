@@ -102,3 +102,11 @@ title: 読書ノート - Unix考古学
 → [Man page of QUIZ](https://linuxjm.osdn.jp/html/bsd-games/man6/quiz.6.html)
 
 **P81** みんな bash が多い。
+
+### 第7章
+
+**P88** lint の語源 (糸くず取り) にびっくり。ていうかリントストラップじゃなくてリントトラップ (lint trap) では？
+
+
+
+
