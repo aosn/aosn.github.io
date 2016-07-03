@@ -142,6 +142,10 @@ ReactDOM.render(<h1>Hello World</h1>, document.body);
 
 → 要 Errata 報告
 
+**P162** `これでテストはテストはパスするようになりました。` とあるが、「テストは」が2回登場している。
+
+→ 要 Errata 報告
+
 
 
 ### 参考情報
