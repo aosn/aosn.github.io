@@ -132,6 +132,14 @@ ReactDOM.render(<h1>Hello World</h1>, document.body);
 
 なお、1行目は JSX トランスパイル後のコードを動かすために必要。
 
+### 第15章
+
+**P146** `スベックファイル` とあるが、スペックファイルの誤りと思われる。
+
+→ 要 Errata 報告
+
+
+
 ### 参考情報
 
 * React JSFiddle [https://jsfiddle.net/reactjs/69z2wepo/](https://jsfiddle.net/reactjs/69z2wepo/)
