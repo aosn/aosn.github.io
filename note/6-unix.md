@@ -119,6 +119,12 @@ title: 読書ノート - Unix考古学
 
 → B言語の関数と区別するとか？
 
+### 第9章
 
+**P120** vi が VIsual mode の略だったとは・・・。
 
+**P112** 今生き残っている Pascal 系言語は Delphi ぐらいか。
 
+**P114** [本物のプログラマ](http://www.genpaku.org/realprogrammerj.html)大爆笑。
+
+**P114** disk と disc の違い [https://support.apple.com/ja-jp/HT201697](https://support.apple.com/ja-jp/HT201697)
