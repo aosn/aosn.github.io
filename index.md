@@ -12,8 +12,9 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 | # | 書籍                                                 |頁数 | 日程                    |回数|人数| 司会進行 |
 |--:|:-----------------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
+| 7 | [詳解 Apache Spark](/workshop/7-spark)               | 352 | 2016/07/24 - (実施中)   |    |    | ![](/images/users/mikan_16.png) mikan |
 | 6 | [Unix考古学 Truth of the Legend](/workshop/6-unix) ※ | 269 | 2016/05/15 - (実施中)   |    |    | ![](/images/users/mikan_16.png) mikan |
-| 5 | [入門 React](/workshop/5-react)                      | 280 | 2016/05/15 - (実施中)   |    |    | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
+| 5 | [入門 React](/workshop/5-react)                      | 280 | 2016/05/15  2016/07/17 | 10 | 7 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 4 | [リーダブルコード](/workshop/4-readablecode) ※         | 260 | 2015/12/13 - 2016/04/17 | 16 |  8 | ![](/images/users/mikan_16.png) mikan    |
 | 3 | [Gradle 徹底入門](/workshop/3-gradle)                | 592 | 2015/11/29 - 2016/05/08 | 20 |  7 | ![](/images/users/mikan_16.png) mikan    |
 | 2 | [深層学習](/workshop/2-deeplearning)                 | 176 | 2015/09/20 - 2015/11/22 | 1o |  8 | ![](/images/users/s-hosoai_16.png) s-hosoai |
@@ -21,6 +22,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ※  息抜きパート (技術書選択方針参照)
 
+[![](/images/cover-spark.jpg "詳解 Apache Spark")](/workshop/7-spark)
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
 [![](/images/cover-react.png "入門 React")](/workshop/5-react)
 [![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
