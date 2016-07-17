@@ -3,7 +3,7 @@ layout: subpage
 title: 詳解 Apache Spark
 ---
 
-[![詳解 Apache Spark](/images/cover-react.png)](http://gihyo.jp/book/2016/978-4-7741-8124-0)
+[![詳解 Apache Spark](/images/cover-spark.jpg)](http://gihyo.jp/book/2016/978-4-7741-8124-0)
 
 「詳解 Apache Spark」読書会の記録です。
 
