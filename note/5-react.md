@@ -150,6 +150,13 @@ ReactDOM.render(<h1>Hello World</h1>, document.body);
 
 **P209** atom-shell は現在の Electron ですね。
 
+**P218** `return memo + a` は `return memo + ac` の間違いと思われる。
+
+→ 要 Errata 報告
+
+**P219** P218 と同じ間違い。
+
+→ 要 Errata 報告
 
 ### 参考情報
 
