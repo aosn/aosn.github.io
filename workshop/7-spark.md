@@ -29,7 +29,7 @@ title: 詳解 Apache Spark
 |:------------------------------------------------|:--------------------------------------------|:-------------------|
 | **詳解 Apache Spark**                           | ![](/images/users/mikan_16.png) mikan       |:+1::+1::+1::+1::+1:|
 | 初めての Ansible                                | ![](/images/users/akeboshi_16.png) akeboshi |:+1::+1::+1:        |
-| 機械学習と深層学習 ―C言語によるシミュレーション | ![](/images/users/mikan_16.png) mikan       |                    |
+| 機械学習と深層学習 ―C言語によるシミュレーション | ![](/images/users/intptr-t_16.png) intptr-t |                    |
 | マイクロサービスアーキテクチャ                  | ![](/images/users/mikan_16.png) mikan       |                    |
 | Docker 実践ガイド                               | ![](/images/users/akeboshi_16.png) akeboshi |                    |
 
