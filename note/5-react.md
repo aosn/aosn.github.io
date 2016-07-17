@@ -146,6 +146,9 @@ ReactDOM.render(<h1>Hello World</h1>, document.body);
 
 → 要 Errata 報告
 
+### 第17章
+
+**P209** atom-shell は現在の Electron ですね。
 
 
 ### 参考情報
