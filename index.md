@@ -39,6 +39,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ## 参加者実績
 
+[![](/images/users/kzt-ysmr_64.png "kzt-ysmr")](https://github.com/kzt-ysmr)
 [![](/images/users/amatubu2525_64.png "amatubu2525")](https://github.com/amatubu2525)
 [![](/images/users/marishi_64.png "marishi")](https://github.com/marishi)
 [![](/images/users/akeboshi_64.png "akeboshi")](https://github.com/akeboshi)
