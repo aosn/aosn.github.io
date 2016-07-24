@@ -50,8 +50,8 @@ title: 詳解 Apache Spark
 ## スケジュール
 
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/kzt-ysmr_16.png) | Pages | Misc. |
-|---:|:----------------------:|:-:|:------------------------:|:---------------------:|:----------|:--------------------|
-|  1 | 2016-07-24 21:00-23:00 | 5 | :o::o::x::x::x::o::o::o: | 2016/07/24 - (現在)   | 1 - xxx   |                     |
+|---:|:----------------------:|:-:|:---------------------------:|:---------------------:|:----------|:--------------------|
+|  1 | 2016-07-24 21:00-23:00 | 5 | :o::o::x::x::x::o::o::o::o: | 2016/07/24 - (現在)   | 1 - xxx   |                     |
 
 
 ## 成果物
