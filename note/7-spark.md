@@ -17,5 +17,11 @@ title: 読書ノート - 詳解 Apache Spark
 
 **P2** MapReduce は Google の論文または「Google を支える技術」という本が詳しいですね ([論文リンク](http://static.googleusercontent.com/media/research.google.com/ja//archive/mapreduce-osdi04.pdf))
 
+### 第2章
+
+**P14** カレントディレクトリどこ？
+
+→ `System.getProperty("user.dir")`
+
 
 ### 参考情報
