@@ -135,3 +135,6 @@ title: 読書ノート - Unix考古学
 
 **P127** VAX-11/780、タンスにしか見えない ([Wikipedia 画像](https://ja.wikipedia.org/wiki/VAX#/media/File:VAX_11-780_intero.jpg))
 
+**P129** adb ってコマンドなんだ？Android Debug Bridge なわけないし。
+
+→ これだ！ [Advanced Debugger](https://en.wikipedia.org/wiki/Advanced_Debugger)
