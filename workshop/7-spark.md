@@ -51,7 +51,7 @@ title: 詳解 Apache Spark
 
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/kzt-ysmr_16.png) | Pages | Misc. |
 |---:|:----------------------:|:-:|:---------------------------:|:----------|:--------------------|
-|  1 | 2016-07-24 21:00-23:00 | 6 | :o::o::x::o::x::o::o::o::o: | 1 - 17    |                     |
+|  1 | 2016-07-24 21:00-23:00 | 7 | :o::o::x::o::x::o::o::o::o: | 1 - 17    |                     |
 
 
 ## 成果物
