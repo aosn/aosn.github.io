@@ -128,3 +128,10 @@ title: 読書ノート - Unix考古学
 **P114** [本物のプログラマ](http://www.genpaku.org/realprogrammerj.html)大爆笑。
 
 **P114** disk と disc の違い [https://support.apple.com/ja-jp/HT201697](https://support.apple.com/ja-jp/HT201697)
+
+### 第10章
+
+**P125** 8080 とか胸熱。Z80 アセンブラ、大学時代にやったなぁ。
+
+**P127** VAX-11/780、タンスにしか見えない ([Wikipedia 画像](https://ja.wikipedia.org/wiki/VAX#/media/File:VAX_11-780_intero.jpg))
+
