@@ -138,3 +138,15 @@ title: 読書ノート - Unix考古学
 **P129** adb ってコマンドなんだ？Android Debug Bridge なわけないし。
 
 → これだ！ [Advanced Debugger](https://en.wikipedia.org/wiki/Advanced_Debugger)
+
+### 第11章
+
+**P132** Maxima は Mathematica の代替として使ったなぁ。
+
+→ 今なら Raspberry Pi 版とか Web 版 ([wolframalpha.com](http://www.wolframalpha.com/)) とか
+
+**P135** `Intel、Zilog、Motorol` とあるが、Motorola の間違いと思われる。
+
+→ 要 Errata 報告
+
+
