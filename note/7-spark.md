@@ -25,7 +25,7 @@ title: 読書ノート - 詳解 Apache Spark
 
 **P19** ソースコード中の `var textFile = sc.textFile("$SPARK_HOME/README.md")` は、このままでは動かないので、以下のように環境変数を自分で取得するように修正する:
 
-```
+```scala
 val textFile = sc.textFile(sys.env("SPARK_HOME") + "/README.md")
 ```
 
