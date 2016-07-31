@@ -23,5 +23,28 @@ title: 読書ノート - 詳解 Apache Spark
 
 → `System.getProperty("user.dir")`
 
+**P19** ソースコード中の `var textFile = sc.textFile("$SPARK_HOME/README.md")` は、このままでは動かない。対策:
+
+```
+val textFile = sc.textFile(sys.env("SPARK_HOME") + "/README.md")
+```
+
+**P20** sbt とあるが、typesafe-activator のほうがお勧め。sbt も含まれている。
+
+### 第3章
+
+**P24** 図3.1 これって HDFS の機能？
+
+→ HDFS でもできるし、それ以外でもできる (→ P)
+
+**P27** ノードとあるが、これは何？
+
+→ 1ノードで複数パーティションなら、通信は発生しないよね。
+
+→ P17 の 図2.4 にあるような、ワーカーノードのことでは。
+
+**P28** 永続化ってどういうコードになるのだろう？
+
+→ P47 に説明があるようだ。
 
 ### 参考情報
