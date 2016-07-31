@@ -23,7 +23,7 @@ title: 読書ノート - 詳解 Apache Spark
 
 → `System.getProperty("user.dir")`
 
-**P19** ソースコード中の `var textFile = sc.textFile("$SPARK_HOME/README.md")` は、このままでは動かない。対策:
+**P19** ソースコード中の `var textFile = sc.textFile("$SPARK_HOME/README.md")` は、このままでは動かないので、以下のように環境変数を自分で取得するように修正する:
 
 ```
 val textFile = sc.textFile(sys.env("SPARK_HOME") + "/README.md")
@@ -42,6 +42,8 @@ val textFile = sc.textFile(sys.env("SPARK_HOME") + "/README.md")
 → 1ノードで複数パーティションなら、通信は発生しないよね。
 
 → P17 の 図2.4 にあるような、ワーカーノードのことでは。
+
+**P27** `まとめて処理できる理由は、Spark が処理の実行計画を RDD の変換による有向グラフとして持つことに由来します。 (中略) アクションの実行からさかのぼって、基本的に処理は一本道となります。` とあるが、一本道になるための条件は「有向グラフ」だけでは不足している。「有向非巡回グラフ」(Directed Acyclic Graph) である必要がある。
 
 **P28** 永続化ってどういうコードになるのだろう？
 
