@@ -12,7 +12,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 | # | 書籍                                                 |頁数 | 日程                    |回数|人数| 司会進行 |
 |--:|:-----------------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
-| 7 | [詳解 Apache Spark](/workshop/7-spark)               | 352 | 2016/07/24 - (実施中)   |    |    | ![](/images/users/MrBearing_16.png) MrBearing |
+| 7 | [詳解 Apache Spark](/workshop/7-spark)               | 352 | 2016/07/24 - (実施中)   |    |    | ![](/images/users/akeboshi_16.png) akeboshi |
 | 6 | *[Unix考古学 Truth of the Legend](/workshop/6-unix)* | 269 | 2016/05/15 - (実施中)   |    |    | ![](/images/users/mikan_16.png) mikan |
 | 5 | [入門 React](/workshop/5-react)                      | 280 | 2016/05/15 - 2016/07/17 | 10 |  7 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 4 | *[リーダブルコード](/workshop/4-readablecode)*       | 260 | 2015/12/13 - 2016/04/17 | 16 |  8 | ![](/images/users/mikan_16.png) mikan |
