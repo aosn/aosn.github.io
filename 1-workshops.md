@@ -61,7 +61,7 @@ title: 実績
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) :star:司会進行
 
-[読書ノート](/note/5-react) 
+[読書ノート](/note/5-react) (正誤表貢献: 9件報告)
 
 ## #4 リーダブルコード
 
