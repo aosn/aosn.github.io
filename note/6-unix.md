@@ -147,6 +147,12 @@ title: 読書ノート - Unix考古学
 
 **P135** `Intel、Zilog、Motorol` とあるが、Motorola の間違いと思われる。
 
+### 第12章
+
+著者の OSC2016 講演資料: https://github.com/asciidwango/TruthOfTheLegend/blob/master/TruthOfTheLegend-20160730.pdf
+
+**P142** 第六段落4行目 `冷戦にから` は、「冷戦から」の typo と思われる。
+
 → 要 Errata 報告
 
 
