@@ -51,4 +51,10 @@ val textFile = sc.textFile(sys.env("SPARK_HOME") + "/README.md")
 
 → P47 に説明があるようだ。
 
+**P37** Scala の fold メソッド: [リファレンス](http://www.scala-lang.org/api/2.11.7/index.html#scala.collection.TraversableOnce@fold[A1>:A](z:A1)(op:(A1,A1)=>A1):A1)
+
+→ 初期値の適用は 1 回だけ、Spark だとそれがパーティション毎。
+
+**P38** aggregate は Java 8 の collect に似ているね: [Javadoc](https://docs.oracle.com/javase/jp/8/docs/api/java/util/stream/Stream.html#collect-java.util.function.Supplier-java.util.function.BiConsumer-java.util.function.BiConsumer-)
+
 ### 参考情報
