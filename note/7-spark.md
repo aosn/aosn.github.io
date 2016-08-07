@@ -57,4 +57,12 @@ val textFile = sc.textFile(sys.env("SPARK_HOME") + "/README.md")
 
 **P38** aggregate は Java 8 の collect に似ているね: [Javadoc](https://docs.oracle.com/javase/jp/8/docs/api/java/util/stream/Stream.html#collect-java.util.function.Supplier-java.util.function.BiConsumer-java.util.function.BiConsumer-)
 
+**P41** `PaiRDDFunctions` は `PairRDDFunctions` の typo と思われる。
+
+→ 要 Errata 報告
+
+**P46** Iterable って具体的に何が入る？
+
+→ Scala のコレクションの型階層を把握しておく必要がある: [リファレンス](http://docs.scala-lang.org/ja/overviews/collections/overview.html)
+
 ### 参考情報
