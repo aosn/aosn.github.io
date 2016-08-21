@@ -65,4 +65,20 @@ val textFile = sc.textFile(sys.env("SPARK_HOME") + "/README.md")
 
 → Scala のコレクションの型階層を把握しておく必要がある: [リファレンス](http://docs.scala-lang.org/ja/overviews/collections/overview.html)
 
+**P48** Spark の管理画面ってどこ？
+
+→ `spark-shell` 立上げ時に表示されているアドレスにアクセスする。
+
+```
+Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
+```
+
+**P50** 注3 の参考資料 ([リンク](https://spark-summit.org/2014/wp-content/uploads/2014/07/A-Deeper-Understanding-of-Spark-Internals-Aaron-Davidson.pdf)) では、p.36 "Importance of Partition Tuning" にこのあたりが記載されている。
+
+### 第4章
+
+**P62** こののコード、なんか雰囲気違う・・・。
+
+→ コメントの先頭にスペースがなかったり、変数の置き方が独特だったり。今までとは別の人が書いたコードかな。
+
 ### 参考情報
