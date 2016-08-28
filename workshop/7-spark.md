@@ -39,7 +39,6 @@ title: 詳解 Apache Spark
 |:---------------------------------------------------------------------------------------|:---------|:-----------------|
 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                      | 神奈川県 | 調整役           |
 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)          | 大阪府   | 締め役           |
-| ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 東京都   |                  |
 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)             | 愛知県   |                  |
 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)             | 福岡県   |                  |
 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)             | 神奈川県 | 司会進行         |
@@ -49,12 +48,13 @@ title: 詳解 Apache Spark
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/YuichiroSato_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/kzt-ysmr_16.png) | Pages | Misc. |
-|---:|:----------------------:|:-:|:---------------------------:|:----------|:--------------------|
-|  1 | 2016-07-24 21:00-23:00 | 7 | :o::o::x::o::x::o::o::o::o: | 1 - 17    |                     |
-|  2 | 2016-07-31 21:00-23:00 | 7 | :o::o::x::o::x::o::o::o::o: | 18 - 29   |                     |
-|  3 | 2016-08-07 21:00-23:00 | 5 | :o::o::x::o::x::x::o::x::o: | 29 - 47   |                     |
-|  4 | 2016-08-21 21:00-23:00 | 5 | :o::o::x::o::x::x::o::x::o: | 47 - 62   |                     |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/amatubu2525_16.png) ![](/images/users/kzt-ysmr_16.png) | Pages | Misc. |
+|---:|:----------------------:|:-:|:------------------------:|:----------|:--------------------|
+|  1 | 2016-07-24 21:00-23:00 | 7 | :o::o::o::x::o::o::o::o: | 1 - 17    |                     |
+|  2 | 2016-07-31 21:00-23:00 | 7 | :o::o::o::x::o::o::o::o: | 18 - 29   |                     |
+|  3 | 2016-08-07 21:00-23:00 | 5 | :o::o::o::x::x::o::x::o: | 29 - 47   |                     |
+|  4 | 2016-08-21 21:00-23:00 | 5 | :o::o::o::x::x::o::x::o: | 47 - 62   |                     |
+|  5 | 2016-08-28 21:00-23:00 | 6 | :o::o::o::x::x::o::x::o: | 62 - 84   |                     |
 
 
 ## 成果物
