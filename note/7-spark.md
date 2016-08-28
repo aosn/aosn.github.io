@@ -81,4 +81,54 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → コメントの先頭にスペースがなかったり、変数の置き方が独特だったり。今までとは別の人が書いたコードかな。
 
+**P69** Akka フレームワークは様々なライブラリがある (actor, agent, camel, cluster, etc...) ([リンク](http://akka.io/docs/)) が、どれのことを指しているのか？
+
+**P72** 「単一のプロセス内でで」とあるが、「で」が２つある。
+
+→ 要 Errata 報告
+
+**P76** `--executore-cores` と `--executore-memory` はそれぞれ `--executor-cores` と `executor-memory` の typo と思われる。
+
+→ 要 Errata 報告
+
+**P76** `yarn-site.xml` が等幅フォントになっていない。
+
+→ Errata?
+
+**P76** `spark.dynamicAllocation.schedulerBAcklogTimeout` の `BAcklog` の部分、A が大文字になっている。
+
+→ 要 Errata 報告
+
+**P76** `spark.` 系の設定値はどこに書くのだろう？
+
+→ P96 に (SparkConf) 記述あり。
+
+**P76** executor 数に対して task 数がすごく多い状況ならわかるが、task 数が少ない場合に無尽蔵に executor 増やしても分散しない気が・・・？
+
+→ task 数よりも多くの executor が作られない仕組みがある？文章からは読めない。
+
+**P77** Spark Mesos Framework とあるが、Apache Mesos Framework の間違いと思われる。
+
+→ 要 Errata 報告
+
+**P78** `MesosClusterDispather` の `Dispather` は `Dispatcher` の typo と思われる。
+
+→ 要 Errata 報告
+
+**P78** `--deploy-mode` が `client` になっている。`clustor` じゃないんだ？
+
+→ Mesos だとそういう扱いになるのかもしれない。
+
+**P79** `conf.set("spark.mesos.corse", "true")` の `corse` は `coarse` の typo と思われる。
+
+→ 要 Errata 報告
+
+**P71** リストの 5 項目目に Apache Ambari が挙げられているが、解説は最後 (4.2.6 の最後) になっている。
+
+**P80** 「Spark のディストリビューションには spark-ec2 というスクリプトが含まれており、」とあるが、少なくともビルド済ディストリビューションにはなく、公式ドキュメントを読む限りでは [github.com/amplab/spark-ec2](https://github.com/amplab/spark-ec2) が案内されている。
+
+**P81** `--key-pair yimai-pregon` とあるが、`yimai-oregon` の typo と思われる。yimai は著者の Yuta Imai を示していると思われる。
+
+**P81** EMR の Scala が古くハマることがあるので注意。
+
 ### 参考情報
