@@ -131,4 +131,13 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 **P81** EMR の Scala が古くハマることがあるので注意。
 
+**P93** データローカリティとは[参照の局所性](https://ja.wikipedia.org/wiki/%E5%8F%82%E7%85%A7%E3%81%AE%E5%B1%80%E6%89%80%E6%80%A7)のこと？
+
+→ Hadoop 用語。
+
+> http://oss.nttdata.co.jp/hadoop/hadoop.html
+>
+> JobTrackerが、TaskTrackerにタスク(mapタスク)を割り当てる際には、そのTaskTrackerが動作しているサーバと同居しているDataNodeが管理しているデータを 極力利用するように割り当てます。これをデータのローカリティと呼びます。TaskTrackerと同居しているDataNodeのデータを利用することで、サーバ間の通信量を極力抑えることが可能となり、オーバヘッドを抑えます。一方、reduceタスクは複数のTaskTrackerからデータを取得する必要があるため、mapタスクのようなデータのローカリティを考慮できません。
+
+
 ### 参考情報
