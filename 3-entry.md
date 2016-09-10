@@ -37,7 +37,7 @@ AOSN 読書会に参加したい、という方は、以下の参加条件と実
 | Username         | **GitHub** の ID と同じものを記入してください                                                   |
 | Password         | 他のサイト等 (GitHub を含む) では使用していないものを推奨します                                 |
 | Confirm password | 同上                                                                                            |
-| Full name        | **下の名前** をアルファベットで記入してください                                                 |
+| Full name        | フルネームをアルファベットで記入してください                                                 |
 | Email            | Slack と Discord の招待に使うアドレスを記入してください                                         |
 
 管理者が申請を確認したら、登録した E-mail アドレス宛に Slack と Discord の招待を送りますので、ご対応ください。
