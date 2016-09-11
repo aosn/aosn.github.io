@@ -151,4 +151,6 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 **P109** 長い行の改行位置が他の章と一貫性がない (Scala では普通、.map と続く時 .(改行)map とは書かない)
 
+**P109** `RDD[Row]` とあるが、`Row` を使うには `import org.apache.spark.sql.Row` が必要
+
 ### 参考情報
