@@ -169,4 +169,9 @@ title: 読書ノート - Unix考古学
 
 →　要 Errata 報告
 
+### 第15章
+
+**P209** IBM 5100 と 5150 は全くの別物らしい (参考: [IBM 5100 - Wikipedia](https://ja.wikipedia.org/wiki/IBM_5100#.E3.83.9E.E3.82.A4.E3.82.AF.E3.83.AD.E3.82.B3.E3.83.BC.E3.83.89.E3.81.AE.E3.82.A8.E3.83.9F.E3.83.A5.E3.83.AC.E3.83.BC.E3.82.BF.E6.A9.9F.E8.83.BD))
+
+
 
