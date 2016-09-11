@@ -139,6 +139,8 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 >
 > JobTrackerが、TaskTrackerにタスク(mapタスク)を割り当てる際には、そのTaskTrackerが動作しているサーバと同居しているDataNodeが管理しているデータを 極力利用するように割り当てます。これをデータのローカリティと呼びます。TaskTrackerと同居しているDataNodeのデータを利用することで、サーバ間の通信量を極力抑えることが可能となり、オーバヘッドを抑えます。一方、reduceタスクは複数のTaskTrackerからデータを取得する必要があるため、mapタスクのようなデータのローカリティを考慮できません。
 
+### 第5章
+
 **P100** 3行目「データブレーム」は「データフレーム」の typo と思われる
 
 → 要 Errata 報告
@@ -146,5 +148,7 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 **P108** `toInto` は `toInt` の typo と思われる
 
 → 要 Errata 報告
+
+**P109* 長い行の改行位置が他の章と一貫性がない (Scala では普通、.map と続く時 .(改行)map とは書かない)
 
 ### 参考情報
