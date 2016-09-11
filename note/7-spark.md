@@ -149,6 +149,6 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
-**P109* 長い行の改行位置が他の章と一貫性がない (Scala では普通、.map と続く時 .(改行)map とは書かない)
+**P109** 長い行の改行位置が他の章と一貫性がない (Scala では普通、.map と続く時 .(改行)map とは書かない)
 
 ### 参考情報
