@@ -4,7 +4,7 @@ title: イベント
 ---
 
 
-## #2 春の四ツ谷OFF (2016)
+## [#2 春の四ツ谷OFF (2016)](/event/2-0416off)
 
 ![](/photo/20160416-03_0738.jpg "飲み会")
 
@@ -15,9 +15,7 @@ title: イベント
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) :star: 幹事
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
 
-[イベントレポート](/event/2-0416off)
-
-## #1 「プログラマーの日」合宿 (2015)
+## [#1 「プログラマーの日」合宿 (2015)](/event/1-0913camp)
 
 ![](/photo/20150912-12_2879.jpg "合宿の様子")
 
@@ -30,5 +28,3 @@ title: イベント
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)
-
-[イベントレポート](/event/1-0913camp)
