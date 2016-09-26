@@ -3,6 +3,20 @@ layout: page
 title: イベント
 ---
 
+## [#3 「プログラマーの日」合宿 (2016)](/event/3-0917camp)
+
+![](/photo/20160918-04_0079.jpg "合宿の様子")
+
+* 実施: 2016/09/17 - 2016/09/18
+* 場所: 鬼怒川温泉 (栃木県)
+* 人数: 6
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star: 幹事
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+
 
 ## [#2 春の四ツ谷OFF (2016)](/event/2-0416off)
 
