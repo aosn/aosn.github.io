@@ -4,7 +4,12 @@
 
 [aosn.github.io](http://aosn.github.io/) の中身です。
 
-## 管理
+本リポジトリ (の Isssues, Projects および Wiki 機能) は課題本選考やイベントの管理にも利用しています。
+課題本選考については、以下の Wiki ページをご一読の上、Isssue を起票することで新規提案を行うことができます。
+
+> Wiki -> [課題本選考](https://github.com/aosn/aosn.github.io/wiki/%E8%AA%B2%E9%A1%8C%E6%9C%AC%E9%81%B8%E8%80%83)
+
+## Web サイト管理
 
 ### 編集方法
 
