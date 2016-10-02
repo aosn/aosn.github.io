@@ -157,8 +157,13 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 **P132** 「// ageカラムがnullかNaNのレコーとを除外」とあるが、age カラムは Integer なので実質 NaN はありえない。
 
-**P133** 1個目の fill が「flll」になっている。
+**P133** 第1段落、1個目の fill が「flll」になっている。
 
 → 要 Errata 報告
+
+**P133** 第2段落、「fill(value: Double, Array[String])」、「fill(value: String, Array[String])」の２つについて、引数名 cols: が抜けている。
+
+→ 要 Errata 報告
+
 
 ### 参考情報
