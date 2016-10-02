@@ -189,3 +189,7 @@ title: 読書ノート - Unix考古学
 
 → 要 Errata 報告
 
+### 第18章
+
+ちょっと前までの Solaris は CDE を採用していたので、結局 Open Look vs. MOTIF は MOTIF 系の勝利になったと言える。
+
