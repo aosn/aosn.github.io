@@ -153,6 +153,6 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 **P109** `RDD[Row]` とあるが、`Row` を使うには `import org.apache.spark.sql.Row` が必要
 
-**P129** 突然登場した 6371000 は地球の半径。地球は正確な球ではないので、だいたいの値 (参考: [Haversine formula - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Haversine_formula))。
+**P129** 突然登場した値 6371000 は地球の半径。地球は正確な球ではないので、だいたいの値 (参考: [Haversine formula - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Haversine_formula))。
 
 ### 参考情報
