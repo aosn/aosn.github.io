@@ -28,3 +28,7 @@ Jekyll を利用しているので、全ての内容は Markdown です。トッ
 > Configuration - Jekyll • Simple, blog-aware, static sites
 >
 > https://jekyllrb.com/docs/configuration/
+
+### License
+
+[CC-BY-NC-ND](LICENSE)
