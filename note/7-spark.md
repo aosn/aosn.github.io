@@ -165,5 +165,12 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P151** 第2段落「Spark SQL CIL」とあるが、「Spark SQL CLI」の typo と思われる。
+
+→ 要 Errata 報告
+
+**P162** 第2段落「さまざまな機能を追加されていくと思いますが」とあるが、「さまざまな機能**が**追加されていくと思いますが」の誤りと思われる。
+
+→ 要 Errata 報告
 
 ### 参考情報
