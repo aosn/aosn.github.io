@@ -17,7 +17,7 @@ title: マイクロサービスアーキテクチャ
 
 * 書籍: [マイクロサービスアーキテクチャ](https://www.oreilly.co.jp/books/9784873117607/)
 * 原著: [Building Microservices](http://shop.oreilly.com/product/0636920033158.do)
-* 著者: Sam Newman
+* 著者: [Sam Newman](https://www.thoughtworks.com/profiles/sam-newman)
 * 訳者: 佐藤 直生 (監訳), 木下 哲也 (訳)
 * 出版: オライリー・ジャパン
 * 発売: 2016/02/22
@@ -28,12 +28,12 @@ title: マイクロサービスアーキテクチャ
 
 ### 投票結果
 
-| 書籍                                            | 提案者                                            | 得票数                      |
-|:------------------------------------------------|:--------------------------------------------------|:---------------------------|
-| **マイクロサービスアーキテクチャ**                       | ![](/images/users/mikan_16.png) mikan             |:+1::+1::+1::+1::+1::+1::+1:|
-| 人月の神話                                       | ![](/images/users/akeboshi_16.png) akeboshi       |:+1::+1::+1::+1::+1:        |
-| ビジネスモデルの教科書【上級編】                       | ![](/images/users/kzt-ysmr_16.png) kzt-ysmr       |:+1::+1::+1::+1:            |
-| Release It! 本番用ソフトウェア製品の設計とデプロイのために | ![](/images/users/LagunaPresa_16.png) LagunaPresa |:+1::+1:                    |
+| 提案 #                                                | 書籍                                            | 提案者                                            | 得票数                      |
+|:------------------------------------------------------|:------------------------------------------------|:--------------------------------------------------|:---------------------------|
+| [#3](https://github.com/aosn/aosn.github.io/issues/3) | **マイクロサービスアーキテクチャ**                       | ![](/images/users/mikan_16.png) mikan             |:+1::+1::+1::+1::+1::+1::+1:|
+| [#5](https://github.com/aosn/aosn.github.io/issues/5) | 人月の神話                                       | ![](/images/users/akeboshi_16.png) akeboshi       |:+1::+1::+1::+1::+1:        |
+| [#6](https://github.com/aosn/aosn.github.io/issues/6) | ビジネスモデルの教科書【上級編】                       | ![](/images/users/kzt-ysmr_16.png) kzt-ysmr       |:+1::+1::+1::+1:            |
+| [#4](https://github.com/aosn/aosn.github.io/issues/4) | Release It! 本番用ソフトウェア製品の設計とデプロイのために | ![](/images/users/LagunaPresa_16.png) LagunaPresa |:+1::+1:                    |
 
 (1人2票、9人投票)
 

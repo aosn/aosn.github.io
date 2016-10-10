@@ -23,7 +23,6 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 Aパート
 
-[![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
 [![](/images/cover-spark.jpg "詳解 Apache Spark")](/workshop/7-spark)
 [![](/images/cover-react.png "入門 React")](/workshop/5-react)
 [![](/images/cover-gradle.jpg "Gradle 徹底入門")](/workshop/3-gradle)
@@ -32,6 +31,7 @@ Aパート
 
 Bパート
 
+[![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
 [![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
 
