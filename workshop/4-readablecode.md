@@ -78,3 +78,25 @@ Gradle 読書会の第20回実施
 ### KPT (Keep Problem Try)
 
 ![](/images/kpt-readablecode.png "KPT for Readable Code workshop")
+
+## 統計
+
+### 同時参加数
+
+| 項目 | 値 |
+|:----:|:--:|
+| 最大同時参加数 | 8 |
+| 最小同時参加数 | 3 |
+| 平均同時参加数 | 5.38 |
+
+### 参加回数ランキング
+
+| 順位 | 参加者 | 参加回数 |
+|:---:|:-------|:--------:|
+| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 16 |
+| 3 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 13 |
+| 4 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) | 11 |
+| 5 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 10 |
+| 6 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 8 |
+| 7 | ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525) | 7 |
+| 8 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 5 |

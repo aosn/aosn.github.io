@@ -139,3 +139,24 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 ### KPT (Keep Problem Try)
 
 ![](/images/kpt-java8.png "KPT Java 8")
+
+## 統計
+
+### 同時参加数
+
+| 項目 | 値 |
+|:----:|:--:|
+| 最大同時参加数 | 6 |
+| 最小同時参加数 | 4 |
+| 平均同時参加数 | 5.51 |
+
+### 参加回数ランキング
+
+| 順位 | 参加者 | 参加回数 |
+|:---:|:-------|:--------:|
+| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 43 |
+| 3 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 42 |
+| 4 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 36 |
+| 5 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 34 |
+| 6 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) | 32 |
+| 7 | ![](/images/users/namichan0801_16.png) [namichan0801](https://github.com/namichan0801) | 6 |

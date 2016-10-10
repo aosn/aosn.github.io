@@ -89,3 +89,24 @@ title: Gradle 徹底入門
 ### KPT (Keep Problem Try)
 
 ![](/images/kpt-gradle.png "KPT for Gradle workshop")
+
+## 統計
+
+### 同時参加数
+
+| 項目 | 値 |
+|:----:|:--:|
+| 最大同時参加数 | 7 |
+| 最小同時参加数 | 3 |
+| 平均同時参加数 | 5.10 |
+
+### 参加回数ランキング
+
+| 順位 | 参加者 | 参加回数 |
+|:---:|:-------|:--------:|
+| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 20 |
+| 3 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 17 |
+| 4 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 14 |
+| 5 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) | 12 |
+| 6 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 10 |
+| 7 | ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525) | 9 |

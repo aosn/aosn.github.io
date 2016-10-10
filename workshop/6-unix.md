@@ -78,3 +78,24 @@ title: Unix考古学
 ### 読書ノート
 
 [読書ノート](/note/6-unix)をご覧ください。
+
+## 統計
+
+### 同時参加数
+
+| 項目 | 値 |
+|:----:|:--:|
+| 最大同時参加数 | 6 |
+| 最小同時参加数 | 2 |
+| 平均同時参加数 | 4.53 |
+
+### 参加回数ランキング
+
+| 順位 | 参加者 | 参加回数 |
+|:---:|:-------|:--------:|
+| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) | 19 |
+| 2 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 16 |
+| 3 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 15 |
+| 4 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 14 |
+| 6 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) | 6 |
+| 7 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 2 |
