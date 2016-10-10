@@ -10,23 +10,30 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ## 実績
 
-| # | パート | 書籍                                                 |頁数 | 日程                    |回数|人数| 司会進行 |
-|--:|:------:|:-----------------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
-| 7 | A | [詳解 Apache Spark](/workshop/7-spark)               | 352 | 2016/07/24 - (実施中)   |    |  8 | ![](/images/users/akeboshi_16.png) akeboshi |
-| 6 | B | [Unix考古学 Truth of the Legend](/workshop/6-unix) | 269 | 2016/05/15 - (実施中)   | 19 |  7 | ![](/images/users/mikan_16.png) mikan |
-| 5 | A | [入門 React](/workshop/5-react)                      | 280 | 2016/05/15 - 2016/07/17 | 10 |  7 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
-| 4 | B | [リーダブルコード](/workshop/4-readablecode)       | 260 | 2015/12/13 - 2016/04/17 | 16 |  8 | ![](/images/users/mikan_16.png) mikan |
-| 3 | A | [Gradle 徹底入門](/workshop/3-gradle)                | 592 | 2015/11/29 - 2016/05/08 | 20 |  7 | ![](/images/users/mikan_16.png) mikan |
-| 2 | A |  [深層学習](/workshop/2-deeplearning)                 | 176 | 2015/09/20 - 2015/11/22 | 10 |  8 | ![](/images/users/s-hosoai_16.png) s-hosoai |
-| 1 | A | [Java SE 8 実践プログラミング](/workshop/1-java8)    | 264 | 2014/11/23 - 2015/09/13 | 43 |  7 | ![](/images/users/mikan_16.png) mikan |
+| # | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
+|--:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
+| 8 | B | [マイクロサービスアーキテクチャ](/workshop/8-microservices) | 344 | 2016/10/15 - (実施中)   |    |  7 | ![](/images/users/mikan_16.png) mikan |
+| 7 | A | [詳解 Apache Spark](/workshop/7-spark)             | 352 | 2016/07/24 - (実施中)   |    |  8 | ![](/images/users/akeboshi_16.png) akeboshi |
+| 6 | B | [Unix考古学 Truth of the Legend](/workshop/6-unix) | 269 | 2016/05/15 - 2016/10/09 | 19 |  7 | ![](/images/users/mikan_16.png) mikan |
+| 5 | A | [入門 React](/workshop/5-react)                    | 280 | 2016/05/15 - 2016/07/17 | 10 |  7 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
+| 4 | B | [リーダブルコード](/workshop/4-readablecode)            | 260 | 2015/12/13 - 2016/04/17 | 16 |  8 | ![](/images/users/mikan_16.png) mikan |
+| 3 | A | [Gradle 徹底入門](/workshop/3-gradle)              | 592 | 2015/11/29 - 2016/05/08 | 20 |  7 | ![](/images/users/mikan_16.png) mikan |
+| 2 | A | [深層学習](/workshop/2-deeplearning)               | 176 | 2015/09/20 - 2015/11/22 | 10 |  8 | ![](/images/users/s-hosoai_16.png) s-hosoai |
+| 1 | A | [Java SE 8 実践プログラミング](/workshop/1-java8)      | 264 | 2014/11/23 - 2015/09/13 | 43 |  7 | ![](/images/users/mikan_16.png) mikan |
 
+Aパート
+
+[![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
 [![](/images/cover-spark.jpg "詳解 Apache Spark")](/workshop/7-spark)
-[![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
 [![](/images/cover-react.png "入門 React")](/workshop/5-react)
-[![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
 [![](/images/cover-gradle.jpg "Gradle 徹底入門")](/workshop/3-gradle)
 [![](/images/cover-deeplearning.jpg "深層学習")](/workshop/2-deeplearning)
 [![](/images/cover-java8.jpg "Java SE 8 実践プログラミング")](/workshop/1-java8)
+
+Bパート
+
+[![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
+[![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
 
 
 ### 正誤表貢献実績
@@ -82,14 +89,6 @@ Bパートの選考基準は、以下の通りです。
 
 * Aパートの方針からは外れるが、皆で読んで意見を交わしたり、共有したりする価値が高いもの
 
-## 技術書決定手順
-
-技術書は以下の手順で決定します。
-
-1. 現行読書会の参加者から Wiki へ提案
-2. 関心度・良し悪し等を意見交換
-3. 決選投票、または合宿で議論の上決定
-
 ## イベント
 
 不定期で親睦を深めるオフラインイベントを企画することがあります。奮ってご参加ください。
@@ -102,5 +101,5 @@ Bパートの選考基準は、以下の通りです。
 
 ## リンク
 
+* [課題本選考状況](https://github.com/aosn/aosn.github.io/projects/1) (GitHub Projects)
 * [検討 Wiki](https://github.com/aosn/aosn.github.io/wiki) (GitHub Wiki)
-* [意見交換](https://github.com/aosn/aosn.github.io/issues) (GitHub Issues)

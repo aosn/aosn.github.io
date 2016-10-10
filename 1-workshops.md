@@ -3,6 +3,27 @@ layout: page
 title: 実績
 ---
 
+## #8 マイクロサービスアーキテクチャ
+
+※ Bパート (#7 の「詳解 Apache Spark」と並行実施)
+
+[![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
+
+* 書籍: [マイクロサービスアーキテクチャ](/workshop/8-microservices)
+* 頁数: 344
+* 日程: 2016/10/16 ～ (実施中)
+* 回数: (実施中)
+* 人数: 7
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+
+[読書ノート](/note/8-microservices)
+
 ## #7 詳解 Apache Spark
 
 [![](/images/cover-spark.jpg "詳解 Apache Spark")](/workshop/7-spark)
@@ -25,14 +46,14 @@ title: 実績
 
 ## #6 Unix考古学 Truth of the Legend
 
-※ 息抜きパート (5冊目の React と並行実施)
+※ Bパート (#5 の「入門 React」と並行実施)
 
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
 
 * 書籍: [Unix考古学 Truth of the Legend](/workshop/6-unix)
 * 頁数: 269
-* 日程: 2016/05/15 - (実施中)
-* 回数: (実施中)
+* 日程: 2016/05/15 - 2016/10/09
+* 回数: 19
 * 人数: 7
   * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) 
@@ -65,7 +86,7 @@ title: 実績
 
 ## #4 リーダブルコード
 
-※ 息抜きパート (3冊目の Gradle と並行実施)
+※ Bパート (3冊目の Gradle と並行実施)
 
 [![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
 
