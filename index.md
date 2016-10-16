@@ -21,7 +21,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 | 2 | A | [深層学習](/workshop/2-deeplearning)               | 176 | 2015/09/20 - 2015/11/22 | 10 |  8 | ![](/images/users/s-hosoai_16.png) s-hosoai |
 | 1 | A | [Java SE 8 実践プログラミング](/workshop/1-java8)      | 264 | 2014/11/23 - 2015/09/13 | 43 |  7 | ![](/images/users/mikan_16.png) mikan |
 
-Aパート
+Aパート (輪読会形式)
 
 [![](/images/cover-spark.jpg "詳解 Apache Spark")](/workshop/7-spark)
 [![](/images/cover-react.png "入門 React")](/workshop/5-react)
@@ -29,7 +29,7 @@ Aパート
 [![](/images/cover-deeplearning.jpg "深層学習")](/workshop/2-deeplearning)
 [![](/images/cover-java8.jpg "Java SE 8 実践プログラミング")](/workshop/1-java8)
 
-Bパート
+Bパート (討論会形式)
 
 [![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
