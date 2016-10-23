@@ -191,7 +191,7 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
-**P180** `ExampGroups` は `ExampleGroups` の誤りと。思われる
+**P180** `ExampGroups` は `ExampleGroups` の誤りと思われる。
 
 → 要 Errata 報告
 
