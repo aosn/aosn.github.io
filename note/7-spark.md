@@ -181,6 +181,11 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+### 第6章
+
+**P159** 第3段落3行目「ストリームデータを取り扱う方法ををサンプルを」で「を」がダブっている。
+
+→ 要 Errata 報告
 
 
 ### 参考情報
