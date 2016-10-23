@@ -11,7 +11,7 @@ title: 実績
 
 * 書籍: [マイクロサービスアーキテクチャ](/workshop/8-microservices)
 * 頁数: 344
-* 日程: 2016/10/16 ～ (実施中)
+* 日程: 2016/10/23 ～ (実施中)
 * 回数: (実施中)
 * 人数: 7
   * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
