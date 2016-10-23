@@ -59,7 +59,9 @@ title: マイクロサービスアーキテクチャ
 
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/s-hosoai_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:---------------------:|:---------:|:-----------------------|
-|  1 | 2016-10-16 23:00-23:30 |   | T.B.A. | 1章       |                        |
+|  1 | 2016-10-23 23:00-23:30 | 4 | :o::x::o::x::x::o::o: | 1章       | まえがき                |
+
+※4章と11章は2回にわけて実施予定
 
 ## 成果物
 
