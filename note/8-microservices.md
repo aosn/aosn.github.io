@@ -16,14 +16,14 @@ title: 読書ノート - マイクロサービスアーキテクチャ
 ### 第1章
 
 * マイクロサービスやってる？
- * HTTP で分けるというのはやっている (LagunaPresa)
- * Spring Boot 使ってる (mikan)
+  * HTTP で分けるというのはやっている (LagunaPresa)
+  * Spring Boot 使ってる (mikan)
 
 * OSGi・・・
- * 結局モジュール間は結合する (mikan)
+  * 結局モジュール間は結合する (mikan)
 
 * Netflex すごいよね
- * Chaos Monkey, Circuit Breaker...
+  * Chaos Monkey, Circuit Breaker...
 
 ### 参考情報
 
