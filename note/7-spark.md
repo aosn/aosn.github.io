@@ -187,5 +187,6 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P178** spark-submit のパッケージ名が `jp.gihyo.spark.ch06.gihyo_6_2_1` となっているが、 **P176** のソースコードは `com.gihyo.streaming` となっており、異なっている
 
 ### 参考情報
