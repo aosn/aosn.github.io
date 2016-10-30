@@ -25,5 +25,16 @@ title: 読書ノート - マイクロサービスアーキテクチャ
 * Netflex すごいよね
   * Chaos Monkey, Circuit Breaker...
 
-### 参考情報
+### 第2章
 
+* Heroku 12 factor 日本語版 https://12factor.net/ja/
+  * 参考になる
+
+* Graphite ・・・ログ収集
+  * Graphana と組み合わせて使うと良い
+
+* Nagios ・・・監視システム
+* Dropwizard, Karyon ・・・マイクロコンテナ
+* Hystrix ・・・サーキットブレーカー
+
+### 参考情報
