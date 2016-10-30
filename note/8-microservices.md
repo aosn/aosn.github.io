@@ -27,7 +27,7 @@ title: 読書ノート - マイクロサービスアーキテクチャ
 
 ### 第2章
 
-* Heroku 12 factor 日本語版 https://12factor.net/ja/
+* Heroku 12 factor 日本語版 [https://12factor.net/ja/](https://12factor.net/ja/)
   * 参考になる
 
 * Graphite ・・・ログ収集
