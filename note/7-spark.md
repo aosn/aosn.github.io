@@ -195,4 +195,20 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P187** `updateStateByKeyFunction _` は関数を渡す Scala の構文。
+
+**P188** countByWindow の説明に `Dstream` とあるが、`DStream` の誤りと思われる。
+
+→ 要 Errata 報告
+
+**P197** `baseStreamPerTirty` の Tirty は Thirty の typo と思われる。P198 にも同様の typo がある。
+
+→ 要 Errata 報告
+
+### 第7章
+
+**P207** 図 7.1 の 1 つ目のプロセス「特徴変換」は、前後の説明では「特徴抽出」となっており、誤記の可能性が高い。P208 の図 7.2 も同様。
+
+→ 要 Errata 報告
+
 ### 参考情報
