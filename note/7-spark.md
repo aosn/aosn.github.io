@@ -215,5 +215,15 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P221** 「ラベルは `double` の値で、」とあるが、`Double` の間違いと思われる。
+
+→ 要 Errata 報告
+
+**P224** LDA, PIC の略語のカッコ内の単語で大文字小文字が統一されていない。
+
+→ 要 Errata 報告
+
+**P225** Regex ってなんて読む？Regular Expression の略だからレグイーエックス？ → [yomikata.org](http://yomikata.org/word/regex) レジェックスが多数派だと・・・
+
 
 ### 参考情報
