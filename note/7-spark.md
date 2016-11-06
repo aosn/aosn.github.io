@@ -211,4 +211,9 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P215** 「機械学習アルゴリズムアルゴリズム」と、「アルゴリズム」が2個続く誤植がある。
+
+→ 要 Errata 報告
+
+
 ### 参考情報
