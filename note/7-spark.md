@@ -225,5 +225,14 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 **P225** Regex ってなんて読む？Regular Expression の略だからレグイーエックス？ → [yomikata.org](http://yomikata.org/word/regex) レジェックスが多数派だと・・・
 
+**P239** 「2つの方法提供されています。」とあるが、「2つの方法が提供されています。」の誤りと思われる。
+
+→ 要 Errata 報告
+
+**P240** RFormula、演算子のオーバーロードで実現して欲しいなぁ・・・
+
+**P252** 図7.9 の X 軸、-4 から 4 となるべきところが -4 から -4 になっている。
+
+→ 要 Errata 報告
 
 ### 参考情報
