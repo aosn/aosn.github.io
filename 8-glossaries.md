@@ -63,6 +63,8 @@ title: 用語集
 #### リアクティブ宣言 (The Reactive Manifesto)
 
 > 求めるものは、即応性と、耐障害性と、弾力性と、メッセージ駆動とを備えたシステムだ。我々はこれをリアクティブシステム (Reactive Systems) と呼ぶ。
+>
+> [http://www.reactivemanifesto.org/ja](http://www.reactivemanifesto.org/ja)
 
 * 言い出した人: Jonas Bonér, Dave Farley, Roland Kuhn, and Martin Thompson
 * 初出: [The Reactive Manifesto](http://www.reactivemanifesto.org/) [2013.9]
