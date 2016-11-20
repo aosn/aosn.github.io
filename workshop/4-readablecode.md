@@ -15,8 +15,8 @@ title: リーダブルコード
 ### 対象書籍
 
 * 書籍: [リーダブルコード――より良いコードを書くためのシンプルで実践的なテクニック](http://www.oreilly.co.jp/books/9784873115658/)
-* 原著: Dustin Boswell, Trevor Foucher
-* 訳者: 角 征典
+* 原著: Dustin Boswell :us:, Trevor Foucher :us:
+* 訳者: 角 征典 :jp:
 * 出版: オライリー・ジャパン
 * 発売: 2012/06/23
 * 頁数: 260
