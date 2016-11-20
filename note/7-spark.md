@@ -239,5 +239,15 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P265** 「線形回帰の学習における繰り返し回数として、100、120、150を設定します。」とあるが、後のサンプルコードとその解説では 120 が 125 になっている。
+
+→ 要 Errata 報告
+
+### 第8章
+
+**P279** RDD[(VertexId, VD] とあるが、閉じカッコがぬけている。
+
+→ 要 Errata 報告
+
 
 ### 参考情報
