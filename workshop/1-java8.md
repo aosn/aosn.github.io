@@ -17,8 +17,8 @@ title: Java SE 8 実践プログラミング
 
 * 書籍: [Java プログラマーなら習得しておきたい Java SE 8 実践プログラミング](http://book.impress.co.jp/books/1114101010)
 * 原著: [Java SE 8 for the Really Impatient](http://www.informit.com/store/java-se8-for-the-really-impatient-a-short-course-on-9780321927767)
-* 著者: [Cay S. Horstmann](http://horstmann.com/)
-* 訳者: [柴田 芳樹](http://www001.upp.so-net.ne.jp/yshibata/)
+* 著者: [Cay S. Horstmann](http://horstmann.com/) :de:
+* 訳者: [柴田 芳樹](http://www001.upp.so-net.ne.jp/yshibata/) :jp:
 * 出版: インプレス (訳書)
 * 発売: 2014/09/22
 * 頁数: 264
