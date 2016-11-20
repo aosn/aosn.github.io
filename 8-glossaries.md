@@ -68,7 +68,7 @@ title: 用語集
 >
 > [http://www.reactivemanifesto.org/ja](http://www.reactivemanifesto.org/ja)
 
-* 言い出した人: Jonas Bonér, Dave Farley, Roland Kuhn, and Martin Thompson
+* 言い出した人: Jonas Bonér (Sweden), Dave Farley :gb:, Roland Kuhn :de:, and Martin Thompson :gb:
 * 初出: [The Reactive Manifesto](http://www.reactivemanifesto.org/) [2013.9]
 
 #### The Twelve-Factor App
@@ -77,7 +77,7 @@ title: 用語集
 >
 > [https://12factor.net/ja/](https://12factor.net/ja/)
 
-* 言い出した人: Adam Wiggins
+* 言い出した人: Adam Wiggins :us:
 * 初出: Heroku 12 factor [2011]
 * 関連書籍
   * [マイクロサービスアーキテクチャ](/workshop/8-microservices) (第2章) [2016.2]
