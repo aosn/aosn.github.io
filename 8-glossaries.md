@@ -54,6 +54,8 @@ title: 用語集
 > 契約交渉よりも顧客との協調を
 >
 > 計画に従うことよりも変化への対応を
+>
+> [http://agilemanifesto.org/iso/ja/manifesto.html](http://agilemanifesto.org/iso/ja/manifesto.html)
 
 * 言い出した人: Agile Alliance (Kent Beck :us: et al.)
 * 初出: [Manifesto for Agile Software Development](http://agilemanifesto.org/) [2001]
@@ -78,7 +80,7 @@ title: 用語集
 * 言い出した人: Adam Wiggins
 * 初出: Heroku 12 factor [2011]
 * 関連書籍
-  * [マイクロサービスアーキテクチャ](/workshop/8-microservices) (第10章) [2016.2]
+  * [マイクロサービスアーキテクチャ](/workshop/8-microservices) (第2章) [2016.2]
 
 ### ことわざ
 
