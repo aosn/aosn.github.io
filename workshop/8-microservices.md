@@ -17,8 +17,8 @@ title: マイクロサービスアーキテクチャ
 
 * 書籍: [マイクロサービスアーキテクチャ](https://www.oreilly.co.jp/books/9784873117607/)
 * 原著: [Building Microservices](http://shop.oreilly.com/product/0636920033158.do)
-* 著者: [Sam Newman](https://www.thoughtworks.com/profiles/sam-newman)
-* 訳者: 佐藤 直生 (監訳), 木下 哲也 (訳)
+* 著者: [Sam Newman](https://www.thoughtworks.com/profiles/sam-newman) (Australia)
+* 訳者: 佐藤 直生 (監訳) :jp:, 木下 哲也 (訳) :jp:
 * 出版: オライリー・ジャパン
 * 発売: 2016/02/22
 * 頁数: 344
