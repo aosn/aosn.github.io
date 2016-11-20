@@ -15,7 +15,7 @@ title: Unix考古学
 ### 対象書籍
 
 * 書籍: [Unix考古学 Truth of the Legend](http://www.amazon.co.jp/dp/4048930508/)
-* 著者: 藤田 昭人
+* 著者: 藤田 昭人 :jp:
 * 出版: ドワンゴ (発売元: KADOKAWA)
 * 発売: 2016/04/28
 * 頁数: 269
