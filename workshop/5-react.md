@@ -18,7 +18,7 @@ title: 入門 React
 * 書籍: [入門 React――コンポーネントベースのWebフロントエンド開発](https://www.oreilly.co.jp/books/9784873117195/)
 * 原著: [Developing a React Edge](http://shop.oreilly.com/product/9781939902122.do)
 * 著者: Frankie Bagnardi, Jonathan Beebe, Richard Feldman, Tom Hallett, Simon Hojberg, Karl Mikkelsen
-* 訳者: 宮崎 空
+* 訳者: 宮崎 空 :jp:
 * 出版: オライリー・ジャパン
 * 発売: 2015/04/03
 * 頁数: 280
