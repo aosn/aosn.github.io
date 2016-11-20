@@ -15,7 +15,7 @@ title: Gradle 徹底入門
 ### 対象書籍
 
 * 書籍: [Gradle 徹底入門 次世代ビルドツールによる自動化基盤の構築](http://www.shoeisha.co.jp/book/detail/9784798136431)
-* 著者: [綿引琢磨](http://www.delight-tech.co.jp/), [須江信洋](http://nobusue.hatenablog.com/), 林政利, 今井勝信
+* 著者: [綿引琢磨](http://www.delight-tech.co.jp/) :jp:, [須江信洋](http://nobusue.hatenablog.com/) :jp:, 林政利 :jp:, 今井勝信 :jp:
 * 出版: 翔泳社
 * 発売: 2014/11/05
 * 頁数: 592
