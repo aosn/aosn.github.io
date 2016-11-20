@@ -235,4 +235,9 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P265** 「LogisticRegressinラス」とあるが、「LogisticRegressionクラス」のと誤りと思われる (クラス名も”クラス”のカタカナも)。
+
+→ 要 Errata 報告
+
+
 ### 参考情報
