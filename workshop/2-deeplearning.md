@@ -15,7 +15,7 @@ title: 深層学習
 ### 対象書籍
 
 * 書籍: [深層学習 (機械学習プロフェッショナルシリーズ)](http://bookclub.kodansha.co.jp/product?isbn=9784061529021)
-* 著者: [岡谷 貴之](http://www.vision.is.tohoku.ac.jp/jp/home/)
+* 著者: [岡谷 貴之](http://www.vision.is.tohoku.ac.jp/jp/home/) :jp:
 * 出版: 講談社
 * 発売: 2015/04/07
 * 頁数: 176
