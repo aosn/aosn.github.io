@@ -5,7 +5,7 @@ title: 用語集
 
 すぐに何のことだったか忘れてしまう難しい単語を記録していくページです。
 
-### 方法論
+### 法則系
 
 #### コンウェイの法則 (Conway's law)
 
@@ -44,6 +44,17 @@ title: 用語集
 * 初出: The Mythical Man-Month [1975]
 * 関連書籍:
   * 人月の神話【新装版】(第2章) [2014.4]
+
+#### ポステルの法則
+
+> 送信するものに関しては厳密に、受信するものに関しては寛大に
+
+* 言い出した人: 
+* 初出: [RFC 761 - DoD standard Transmission Control Protocol](https://tools.ietf.org/html/rfc761)
+* 関連書籍:
+  * [マイクロサービスアーキテクチャ](/workshop/8-microservices) (第4章) [2016.2]
+
+### マニフェスト系
 
 #### アジャイルマニフェスト (Manifesto for Agile Software Development)
 
