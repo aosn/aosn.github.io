@@ -45,11 +45,11 @@ title: 用語集
 * 関連書籍:
   * 人月の神話【新装版】(第2章) [2014.4]
 
-#### ポステルの法則
+#### ポステルの法則 (Postel's law)
 
 > 送信するものに関しては厳密に、受信するものに関しては寛大に
 
-* 言い出した人: 
+* 言い出した人: Jon Postel :us:
 * 初出: [RFC 761 - DoD standard Transmission Control Protocol](https://tools.ietf.org/html/rfc761)
 * 関連書籍:
   * [マイクロサービスアーキテクチャ](/workshop/8-microservices) (第4章) [2016.2]
