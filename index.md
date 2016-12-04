@@ -13,7 +13,7 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 | # | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
 |--:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
 | 8 | B | [マイクロサービスアーキテクチャ](/workshop/8-microservices) | 344 | 2016/10/23 - (実施中)   |    |  7 | ![](/images/users/mikan_16.png) mikan |
-| 7 | A | [詳解 Apache Spark](/workshop/7-spark)             | 352 | 2016/07/24 - (実施中)   |    |  8 | ![](/images/users/akeboshi_16.png) akeboshi |
+| 7 | A | [詳解 Apache Spark](/workshop/7-spark)             | 352 | 2016/07/24 - (実施中)   |    |  7 | ![](/images/users/akeboshi_16.png) akeboshi |
 | 6 | B | [Unix考古学 Truth of the Legend](/workshop/6-unix) | 269 | 2016/05/15 - 2016/10/09 | 19 |  7 | ![](/images/users/mikan_16.png) mikan |
 | 5 | A | [入門 React](/workshop/5-react)                    | 280 | 2016/05/15 - 2016/07/17 | 10 |  7 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 4 | B | [リーダブルコード](/workshop/4-readablecode)            | 260 | 2015/12/13 - 2016/04/17 | 16 |  8 | ![](/images/users/mikan_16.png) mikan |
