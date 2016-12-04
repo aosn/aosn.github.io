@@ -249,5 +249,8 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P301** sendMsg のところ、閉じカッコがない。
+
+→ 要 Errata 報告
 
 ### 参考情報
