@@ -253,4 +253,6 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 → 要 Errata 報告
 
+**P306** `@tailrec` 末尾再帰。コンパイル時に for 文ｎできるものは for 文に変換する。できないものはコンパイルエラーに落としてくれる。
+
 ### 参考情報
