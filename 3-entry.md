@@ -30,15 +30,9 @@ AOSN 読書会に参加したい、という方は、以下の参加条件と実
 
 ## エントリー方法
 
-[ユーザー登録](http://bamboo.tasktoys.com/signupUser!default.action)ページを開き、以下の表の通り必要事項を記入して [送信] ボタンを押下してください。
-
-| 記入欄           | 説明                                                                                            |
-|:-----------------|:------------------------------------------------------------------------------------------------|
-| Username         | **GitHub** の ID と同じものを記入してください                                                   |
-| Password         | 他のサイト等 (GitHub を含む) では使用していないものを推奨します                                 |
-| Confirm password | 同上                                                                                            |
-| Full name        | フルネームをアルファベットで記入してください                                                 |
-| Email            | Slack と Discord の招待に使うアドレスを記入してください                                         |
+<div class="typeform-widget" data-url="https://aosn.typeform.com/to/vLvGS9" data-text="AOSN読書会 ユーザー登録" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vLvGS9&amp;utm_source=typeform.com-5741196-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=JA" style="color: #999" target="_blank">Typeform</a></div>
 
 管理者が申請を確認したら、登録した E-mail アドレス宛に Slack と Discord の招待を送りますので、ご対応ください。
 
