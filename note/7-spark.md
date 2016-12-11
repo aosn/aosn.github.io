@@ -255,4 +255,14 @@ Spark context Web UI available at http://XXX.XXX.XXX.XXX:XXXX
 
 **P306** `@tailrec` 末尾再帰。コンパイル時に for 文ｎできるものは for 文に変換する。できないものはコンパイルエラーに落としてくれる。
 
+**P315** 1つ目のコード例、「VertexRDDの永続化レベルを確認」の項目が2つある (片方は VertexRDD、もう片方は EdgeRDD を確認したかった？)
+
+→ 要 Errata 報告
+
+### Appendix.A
+
+**P327** まとめの第1段落、「意味するともに、」は「意味するとともに、」の誤りと思われる。
+
+→ 要 Errata 報告
+
 ### 参考情報
