@@ -100,7 +100,7 @@ title: 読書ノート - マイクロサービスアーキテクチャ
   * リポジトリ跨ぐ Issue が置いづらくなる (GitHub Isssues 使う場合とか)
 
 * OS成果物がピンとこない
- * [Packger.io](https://packager.io/) とか使って成果物履き分けている OSS もある
+  * [Packger.io](https://packager.io/) とか使って成果物履き分けている OSS もある
  
  
 ### 参考情報
