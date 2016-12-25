@@ -50,6 +50,7 @@ title: ブロックチェーン 仕組みと理論
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) | Pages | Misc. |
 |---:|:----------------------:|:-:|:------------------:|:----------|:--------------------|
 |  1 | 2016-12-18 21:00-23:00 | 6 | :o::o::o::o::o::o: | 1 - 52    |                     |
+|  2 | 2016-12-25 21:00-23:00 | 4 | :o::x::x::o::o::o: | 53 - xx   |                     |
 
 
 ## 成果物
