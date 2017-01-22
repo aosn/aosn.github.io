@@ -45,6 +45,15 @@ title: 読書ノート - ブロックチェーン 仕組みと理論
 
 **P134** 「復号化」と言っているが、一般的には復号に「化」は付けない。
 
+### 第11章
+
+**P156** 2.2 bitcoin-demon とあるが、bitcoin-daemon の typo
+
+**P158** リスト11 `-deamon` とあるが `-daemon` の typo
+
+### 第12章
+
+**P170** リスト9の説明欄、eth.acounts[0] とあるが、eth.accounts[0] の typo
 
 
-### 参考情報　
+### 参考情報
