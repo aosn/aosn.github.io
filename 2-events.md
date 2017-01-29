@@ -3,6 +3,20 @@ layout: page
 title: イベント
 ---
 
+## [#4 「プログラマーの日」合宿 (2016)](/event/4-0128newyear)
+
+![](/photo/20170128-01_0000.jpg "会場の様子")
+
+* 実施: 2017/01/28
+* 場所: LagunaPresa 邸 (東京都) + Hangout
+* 人数: 6
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) :star: 幹事
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)
+
 ## [#3 「プログラマーの日」合宿 (2016)](/event/3-0917camp)
 
 ![](/photo/20160918-04_0079.jpg "合宿の様子")
