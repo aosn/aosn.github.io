@@ -15,7 +15,7 @@ title: 実績
 * 日程: 2016/12/18 ～ (実施中)
 * 回数: (実施中)
 * 人数: 6
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
@@ -35,7 +35,7 @@ title: 実績
 * 日程: 2016/10/23 ～ (実施中)
 * 回数: (実施中)
 * 人数: 6
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
@@ -53,7 +53,7 @@ title: 実績
 * 日程: 2016/07/24 - 2016/12/11
 * 回数: 18
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) :star:司会進行
@@ -74,7 +74,7 @@ title: 実績
 * 日程: 2016/05/15 - 2016/10/09
 * 回数: 19
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
@@ -93,7 +93,7 @@ title: 実績
 * 日程: 2016/05/15 - 2016/07/17
 * 回数: 10
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
@@ -114,7 +114,7 @@ title: 実績
 * 日程: 2015/12/13 - 2016/04/17
 * 回数: 16
 * 人数: 8
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
@@ -134,7 +134,7 @@ title: 実績
 * 日程: 2015/11/29 - 2016/05/08
 * 回数: 20
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
@@ -153,7 +153,7 @@ title: 実績
 * 日程: 2015/09/20 - 2015/11/22
 * 回数: 10
 * 人数: 8
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
@@ -174,8 +174,8 @@ title: 実績
 * 日程: 2014/11/23 - 2015/09/13
 * 回数: 43
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
-  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) :bulb:提案者
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) :bulb:提案者
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/namichan0801_16.png) [namichan0801](https://github.com/namichan0801)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
