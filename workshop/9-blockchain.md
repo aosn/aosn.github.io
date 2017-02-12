@@ -29,7 +29,7 @@ title: ブロックチェーン 仕組みと理論
 * 表題: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * 著者: Satoshi Nakamoto
 
-和訳例: [日本語で読むビットコイン原論文 (by Satoshi Nakamoto) | coincheck（コインチェック）](https://coincheck.com/blog/292)
+和訳例: [日本語で読むビットコイン原論文 [by Satoshi Nakamoto] / coincheck（コインチェック）](https://coincheck.com/blog/292)
 
 ### 投票結果
 
