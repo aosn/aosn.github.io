@@ -33,6 +33,9 @@ title: 詳解 Apache Spark
 | マイクロサービスアーキテクチャ                  | ![](/images/users/mikan_16.png) mikan       |                    |
 | Docker 実践ガイド                               | ![](/images/users/akeboshi_16.png) akeboshi |                    |
 
+* 総票数: 1人1票 × 8人
+* 支持率: 62.5% (5/8)
+
 ## 参加者
 
 | ID                                                                                     | 地域     | 備考             |

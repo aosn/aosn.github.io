@@ -35,7 +35,8 @@ title: Gradle 徹底入門
 | すごいHaskellたのしく学ぼう                           | ![](/images/users/LagunaPresa_16.png) LagunaPresa |:+1::+1::+1:        |
 | 関数型オブジェクト指向AI プログラミング               | ![](/images/users/s-hosoai_16.png) s-hosoai       |                    |
 
-注: 1人3票
+* 総票数: 1人3票 × 7人
+* 支持率: 71.4% (5/7)
 
 ## 参加者
 

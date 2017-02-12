@@ -3,9 +3,30 @@ layout: page
 title: 実績
 ---
 
+## #9 ブロックチェーン 仕組みと理論
+
+※ Bitcoin 論文 (Bitcoin: A Peer-to-Peer Electronic Cash System) の輪読を含む
+
+[![](/images/cover-blockchain.png "ブロックチェーン 仕組みと理論")](/workshop/9-blockchain)
+[![](/images/cover-bitcoin.png "Bitcoin: A Peer-to-Peer Electronic Cash System")](/workshop/9-blockchain)
+
+* 書籍: [ブロックチェーン 仕組みと理論](/workshop/9-blockchain)
+* 頁数: 256
+* 日程: 2016/12/18 ～ (実施中)
+* 回数: (実施中)
+* 人数: 6
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+
+[読書ノート](/note/9-blockchain)
+
 ## #8 マイクロサービスアーキテクチャ
 
-※ Bパート (#7 の「詳解 Apache Spark」と並行実施)
+※ Bパート (Aパート #7「詳解 Apache Spark」、#9「ブロックチェーン 仕組みと理論」と並行実施)
 
 [![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
 
@@ -14,7 +35,7 @@ title: 実績
 * 日程: 2016/10/23 ～ (実施中)
 * 回数: (実施中)
 * 人数: 6
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
@@ -32,7 +53,7 @@ title: 実績
 * 日程: 2016/07/24 - 2016/12/11
 * 回数: 18
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) :star:司会進行
@@ -44,7 +65,7 @@ title: 実績
 
 ## #6 Unix考古学 Truth of the Legend
 
-※ Bパート (#5 の「入門 React」と並行実施)
+※ Bパート (Aパート #5「入門 React」と並行実施)
 
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
 
@@ -53,7 +74,7 @@ title: 実績
 * 日程: 2016/05/15 - 2016/10/09
 * 回数: 19
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
@@ -78,13 +99,13 @@ title: 実績
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
-  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) :star:司会進行
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) :bulb:提案者 :star:司会進行
 
 [読書ノート](/note/5-react) (正誤表貢献: 9件報告)
 
 ## #4 リーダブルコード
 
-※ Bパート (3冊目の Gradle と並行実施)
+※ Bパート (Aパート #3「Gradle 徹底入門」と並行実施)
 
 [![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
 
@@ -98,7 +119,7 @@ title: 実績
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)
-  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) :bulb:提案者
   * ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
 
@@ -113,7 +134,7 @@ title: 実績
 * 日程: 2015/11/29 - 2016/05/08
 * 回数: 20
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
@@ -137,7 +158,7 @@ title: 実績
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
-  * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) :star:司会進行
+  * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) :bulb:提案者 :star:司会進行
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
   * ![](/images/users/marishi_16.png) [marishi](https://github.com/marishi)
 
@@ -146,14 +167,15 @@ title: 実績
 ## #1 Java SE 8 実践プログラミング
 
 [![](/images/cover-java8.jpg "Java SE 8 実践プログラミング")](/workshop/1-java8)
+[![](/images/cover-js8ri.jpg "Java SE 8 for the Really Impatient")](/workshop/1-java8)
 
 * 書籍: [Java SE 8 実践プログラミング](/workshop/1-java8)
 * 頁数: 264
 * 日程: 2014/11/23 - 2015/09/13
 * 回数: 43
 * 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行
-  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) :bulb:提案者
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/namichan0801_16.png) [namichan0801](https://github.com/namichan0801)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)

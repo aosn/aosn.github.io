@@ -36,6 +36,9 @@ title: 入門 React
 | Docker 実践ガイド                    | ![](/images/users/mikan_16.png) mikan             |:+1:            |
 | ビヨンドソフトウェアアーキテクチャ   | ![](/images/users/mikan_16.png) mikan             |                |
 
+* 総票数: 1人1票 × 8人
+* 支持率: 50.0% (4/8)
+
 ## 参加者
 
 | ID                                                                                     | 地域     | 備考             |

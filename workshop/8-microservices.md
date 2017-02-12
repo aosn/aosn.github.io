@@ -35,7 +35,8 @@ title: マイクロサービスアーキテクチャ
 | [#6](https://github.com/aosn/aosn.github.io/issues/6) | ビジネスモデルの教科書【上級編】                       | ![](/images/users/kzt-ysmr_16.png) kzt-ysmr       |:+1::+1::+1::+1:            |
 | [#4](https://github.com/aosn/aosn.github.io/issues/4) | Release It! 本番用ソフトウェア製品の設計とデプロイのために | ![](/images/users/LagunaPresa_16.png) LagunaPresa |:+1::+1:                    |
 
-(1人2票、9人投票)
+* 総票数: 1人2票 × 9人
+* 支持率: 77.8% (7/9)
 
 ### 進め方
 
