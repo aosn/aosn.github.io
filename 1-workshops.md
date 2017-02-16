@@ -5,12 +5,12 @@ title: 実績
 
 ## #9 ブロックチェーン 仕組みと理論
 
-※ Bitcoin 論文 (Bitcoin: A Peer-to-Peer Electronic Cash System) の輪読を含む
-
 {:refdef: style="float: right;"}
 [![](/images/cover-blockchain.png "ブロックチェーン 仕組みと理論")](/workshop/9-blockchain)
 [![](/images/cover-bitcoin.png "Bitcoin: A Peer-to-Peer Electronic Cash System")](/workshop/9-blockchain)
 {: refdef}
+
+※ Bitcoin 論文 (Bitcoin: A Peer-to-Peer Electronic Cash System) の輪読を含む
 
 * 書籍: [ブロックチェーン 仕組みと理論](/workshop/9-blockchain)
 * 頁数: 256
@@ -28,9 +28,11 @@ title: 実績
 
 ## #8 マイクロサービスアーキテクチャ
 
-※ Bパート (Aパート #7「詳解 Apache Spark」、#9「ブロックチェーン 仕組みと理論」と並行実施)
-
+{:refdef: style="float: right;"}
 [![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
+{: refdef}
+
+※ Bパート (Aパート #7「詳解 Apache Spark」、#9「ブロックチェーン 仕組みと理論」と並行実施)
 
 * 書籍: [マイクロサービスアーキテクチャ](/workshop/8-microservices)
 * 頁数: 344
@@ -48,7 +50,9 @@ title: 実績
 
 ## #7 詳解 Apache Spark
 
+{:refdef: style="float: right;"}
 [![](/images/cover-spark.jpg "詳解 Apache Spark")](/workshop/7-spark)
+{: refdef}
 
 * 書籍: [詳解 Apache Spark](/workshop/7-spark)
 * 頁数: 352
@@ -67,9 +71,11 @@ title: 実績
 
 ## #6 Unix考古学 Truth of the Legend
 
-※ Bパート (Aパート #5「入門 React」と並行実施)
-
+{:refdef: style="float: right;"}
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
+{: refdef}
+
+※ Bパート (Aパート #5「入門 React」と並行実施)
 
 * 書籍: [Unix考古学 Truth of the Legend](/workshop/6-unix)
 * 頁数: 269
@@ -88,7 +94,9 @@ title: 実績
 
 ## #5 入門 React
 
+{:refdef: style="float: right;"}
 [![](/images/cover-react.png "入門 React")](/workshop/5-react)
+{: refdef}
 
 * 書籍: [入門 React](/workshop/5-react)
 * 頁数: 280
@@ -107,9 +115,11 @@ title: 実績
 
 ## #4 リーダブルコード
 
-※ Bパート (Aパート #3「Gradle 徹底入門」と並行実施)
-
+{:refdef: style="float: right;"}
 [![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
+{: refdef}
+
+※ Bパート (Aパート #3「Gradle 徹底入門」と並行実施)
 
 * 書籍: [リーダブルコード](/workshop/4-readablecode)
 * 頁数: 260
@@ -129,7 +139,9 @@ title: 実績
 
 ## #3 Gradle 徹底入門
 
+{:refdef: style="float: right;"}
 [![](/images/cover-gradle.jpg "Gradle 徹底入門")](/workshop/3-gradle)
+{: refdef}
 
 * 書籍: [Gradle 徹底入門](/workshop/3-gradle)
 * 頁数: 592
@@ -148,7 +160,9 @@ title: 実績
 
 ## #2 深層学習
 
+{:refdef: style="float: right;"}
 [![](/images/cover-deeplearning.jpg "深層学習")](/workshop/2-deeplearning)
+{: refdef}
 
 * 書籍: [深層学習](/workshop/2-deeplearning)
 * 頁数: 176
@@ -168,8 +182,10 @@ title: 実績
 
 ## #1 Java SE 8 実践プログラミング
 
+{:refdef: style="float: right;"}
 [![](/images/cover-java8.jpg "Java SE 8 実践プログラミング")](/workshop/1-java8)
 [![](/images/cover-js8ri.jpg "Java SE 8 for the Really Impatient")](/workshop/1-java8)
+{: refdef}
 
 * 書籍: [Java SE 8 実践プログラミング](/workshop/1-java8)
 * 頁数: 264
