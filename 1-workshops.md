@@ -173,7 +173,7 @@ title: 実績
 * 頁数: 264
 * 日程: 2014/11/23 - 2015/09/13
 * 回数: 43
-* 人数: 8
+* 人数: 7
   * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) :bulb:提案者
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
