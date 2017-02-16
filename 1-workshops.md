@@ -7,8 +7,10 @@ title: 実績
 
 ※ Bitcoin 論文 (Bitcoin: A Peer-to-Peer Electronic Cash System) の輪読を含む
 
+{:refdef: style="float: right;"}
 [![](/images/cover-blockchain.png "ブロックチェーン 仕組みと理論")](/workshop/9-blockchain)
 [![](/images/cover-bitcoin.png "Bitcoin: A Peer-to-Peer Electronic Cash System")](/workshop/9-blockchain)
+{: refdef}
 
 * 書籍: [ブロックチェーン 仕組みと理論](/workshop/9-blockchain)
 * 頁数: 256
