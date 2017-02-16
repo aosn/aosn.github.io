@@ -119,7 +119,7 @@ title: 実績
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)
-  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) :bulb:提案者
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
   * ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
 
@@ -173,9 +173,9 @@ title: 実績
 * 頁数: 264
 * 日程: 2014/11/23 - 2015/09/13
 * 回数: 43
-* 人数: 7
-  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
-  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) :bulb:提案者
+* 人数: 8
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) :bulb:提案者
   * ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato)
   * ![](/images/users/namichan0801_16.png) [namichan0801](https://github.com/namichan0801)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
