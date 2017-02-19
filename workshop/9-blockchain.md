@@ -22,7 +22,7 @@ title: ブロックチェーン 仕組みと理論
 * 頁数: 256
 * ISBN: 978-4865940404
 
-正誤表: (未掲載)
+正誤表: [http://www.ric.co.jp/book/error/error1040.html](http://www.ric.co.jp/book/error/error1040.html)
 
 ### 対象論文
 
