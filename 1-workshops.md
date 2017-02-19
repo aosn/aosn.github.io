@@ -14,8 +14,8 @@ title: 実績
 
 * 書籍: [ブロックチェーン 仕組みと理論](/workshop/9-blockchain)
 * 頁数: 256
-* 日程: 2016/12/18 ～ (実施中)
-* 回数: (実施中)
+* 日程: 2016/12/18 ～ 2017/02/19
+* 回数: 9
 * 人数: 6
   * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
