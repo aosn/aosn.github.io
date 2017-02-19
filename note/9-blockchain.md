@@ -63,6 +63,7 @@ title: 読書ノート - ブロックチェーン 仕組みと理論
 34%攻撃という、34%結託してブロードキャストするタイミングを調整 (遅延を入れる) させることで、結託したグループに有利に仕向けることができる問題がある。
 
 > [1311.0243] Majority is not Enough: Bitcoin Mining is Vulnerabl
+>
 > https://arxiv.org/abs/1311.0243
 
 ### Section 10 (プライバシー)
@@ -70,5 +71,10 @@ title: 読書ノート - ブロックチェーン 仕組みと理論
 パターンとかはわかってしまう。
 
 取引所で足がつくとかあるんじゃないか。
+
+> MITが分散型クラウドコンピューティング『Enigma』プロジェクトを始動 | ビットコインの最新情報 BTCN｜ビットコインニュース
+>
+> http://btcnews.jp/mit-media-lab-launch-enigma-the-encrypted-cloud-computing/
+
 
 ### 参考情報
