@@ -10,17 +10,18 @@ IT 分野の技術書をオンラインで輪読する読書会です。毎週�
 
 ## 実績
 
-| # | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
-|--:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
-| 9 | A | [ブロックチェーン 仕組みと理論](/workshop/9-blockchain) | 256 | 2016/12/18 - (実施中)   |    |  6 | ![](/images/users/mikan_16.png) mikan |
-| 8 | B | [マイクロサービスアーキテクチャ](/workshop/8-microservices) | 344 | 2016/10/23 - (実施中)   |    |  6 | ![](/images/users/mikan_16.png) mikan |
-| 7 | A | [詳解 Apache Spark](/workshop/7-spark)             | 352 | 2016/07/24 - 2016/12/11 | 18 |  7 | ![](/images/users/akeboshi_16.png) akeboshi |
-| 6 | B | [Unix考古学 Truth of the Legend](/workshop/6-unix) | 269 | 2016/05/15 - 2016/10/09 | 19 |  7 | ![](/images/users/mikan_16.png) mikan |
-| 5 | A | [入門 React](/workshop/5-react)                    | 280 | 2016/05/15 - 2016/07/17 | 10 |  7 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
-| 4 | B | [リーダブルコード](/workshop/4-readablecode)            | 260 | 2015/12/13 - 2016/04/17 | 16 |  8 | ![](/images/users/mikan_16.png) mikan |
-| 3 | A | [Gradle 徹底入門](/workshop/3-gradle)              | 592 | 2015/11/29 - 2016/05/08 | 20 |  7 | ![](/images/users/mikan_16.png) mikan |
-| 2 | A | [深層学習](/workshop/2-deeplearning)               | 176 | 2015/09/20 - 2015/11/22 | 10 |  8 | ![](/images/users/s-hosoai_16.png) s-hosoai |
-| 1 | A | [Java SE 8 実践プログラミング](/workshop/1-java8)      | 264 | 2014/11/23 - 2015/09/13 | 43 |  7 | ![](/images/users/mikan_16.png) mikan |
+| #  | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
+|---:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
+| 10 | A | [プログラミングElixir](/workshop/10-elixir) | 344 | 2016/12/25 - (募集中)   |    |    | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
+| 9  | A | [ブロックチェーン 仕組みと理論](/workshop/9-blockchain) | 256 | 2016/12/18 - 2017/02/18 |  9 |  6 | ![](/images/users/mikan_16.png) mikan |
+| 8  | B | [マイクロサービスアーキテクチャ](/workshop/8-microservices) | 344 | 2016/10/23 - (実施中)   |    |  6 | ![](/images/users/mikan_16.png) mikan |
+| 7  | A | [詳解 Apache Spark](/workshop/7-spark)             | 352 | 2016/07/24 - 2016/12/11 | 18 |  7 | ![](/images/users/akeboshi_16.png) akeboshi |
+| 6  | B | [Unix考古学 Truth of the Legend](/workshop/6-unix) | 269 | 2016/05/15 - 2016/10/09 | 19 |  7 | ![](/images/users/mikan_16.png) mikan |
+| 5  | A | [入門 React](/workshop/5-react)                    | 280 | 2016/05/15 - 2016/07/17 | 10 |  7 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
+| 4  | B | [リーダブルコード](/workshop/4-readablecode)            | 260 | 2015/12/13 - 2016/04/17 | 16 |  8 | ![](/images/users/mikan_16.png) mikan |
+| 3  | A | [Gradle 徹底入門](/workshop/3-gradle)              | 592 | 2015/11/29 - 2016/05/08 | 20 |  7 | ![](/images/users/mikan_16.png) mikan |
+| 2  | A | [深層学習](/workshop/2-deeplearning)               | 176 | 2015/09/20 - 2015/11/22 | 10 |  8 | ![](/images/users/s-hosoai_16.png) s-hosoai |
+| 1  | A | [Java SE 8 実践プログラミング](/workshop/1-java8)      | 264 | 2014/11/23 - 2015/09/13 | 43 |  7 | ![](/images/users/mikan_16.png) mikan |
 
 Aパート (輪読会形式)
 
