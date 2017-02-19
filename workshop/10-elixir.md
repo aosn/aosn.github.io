@@ -4,7 +4,7 @@ title: プログラミングElixir
 ---
 
 [![プログラミングElixir](/images/cover-elixir.jpg)](http://shop.ohmsha.co.jp/shopdetail/000000004675/)
-[![Programming Elixir: Functional |> Concurrent |> Pragmatic |> Fun](/images/cover-elixir-en.jpg)](https://pragprog.com/book/elixir/programming-elixir)
+[![Programming Elixir](/images/cover-elixir-en.jpg)](https://pragprog.com/book/elixir/programming-elixir)
 
 「プログラミングElixir」読書会の記録です。
 
@@ -16,7 +16,7 @@ title: プログラミングElixir
 ### 対象書籍
 
 * 書籍: [プログラミングElixir](http://shop.ohmsha.co.jp/shopdetail/000000004675/)
-* 原著: [Programming Elixir: Functional |> Concurrent |> Pragmatic |> Fun](https://pragprog.com/book/elixir/programming-elixir)
+* 原著: [Programming Elixir](https://pragprog.com/book/elixir/programming-elixir)
 * 著者: [Dave Thomas](https://pragdave.me/) :us:
 * 訳者: 笹田耕一 :jp:, 鳥井 雪 :jp:
 * 出版: オーム社
