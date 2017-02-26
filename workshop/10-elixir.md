@@ -52,11 +52,11 @@ title: プログラミングElixir
 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)    | 東京都   | 司会進行          |
 | ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)             | 石川県   |                  |
 
-(募集中)
-
 ## スケジュール
 
-計画中 (第1回は 2/26)
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) | Pages | Misc. |
+|---:|:----------------------:|:-:|:------------------:|:----------|:--------------------|
+|  1 | 2017-02-26 21:00-23:00 | 4 | :o::o::o::x::o::x: |1 - 18     | 前書き, はじめに      |
 
 ## 成果物
 
