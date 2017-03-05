@@ -21,6 +21,18 @@ Jekyll を利用しているので、全ての内容は Markdown です。トッ
 >
 > http://kramdown.gettalong.org/quickref.html
 
+### ユーザーアイコンの取得・配置方法
+
+GitHub ユーザーのアイコンを各ページに使用しています。
+新たなユーザーのアイコンを取得する場合やアイコンを更新する場合には、次の簡単なシェルスクリプト ([geticon.sh](geticon.sh)) が使えます。
+
+```
+$ ./geticon.sh
+Type GitHub user name> 
+```
+
+ユーザー名を入力すると、`iamges/users` 以下に 16x16 と 64x64 のアイコンが配置されます。
+
 ### 参加統計の計算方法
 
 [activity-push](https://github.com/aosn/activity-push) ユーティリティを使って Markdown のひな型を生成できます。
