@@ -57,7 +57,8 @@ title: プログラミングElixir
 
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) ![](/images/users/budougumi0617_16.png) | Pages | Misc. |
 |---:|:----------------------:|:-:|:---------------------:|:----------|:--------------------|
-|  1 | 2017-02-26 21:00-23:00 | 4 | :o::o::o::x::o::x::x: |1 - 18     | 前書き, はじめに      |
+|  1 | 2017-02-26 21:00-23:00 | 4 | :o::o::o::x::o::x::x: | 1 - 18    | 前書き, はじめに      |
+|  2 | 2017-04-05 21:00-23:00 | 5 | :o::o::o::x::o::o::x: | 19 - 30   | 練習問題 PM1,2,3     |
 
 ## 成果物
 
