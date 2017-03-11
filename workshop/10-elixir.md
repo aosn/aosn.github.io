@@ -52,13 +52,14 @@ title: プログラミングElixir
 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)       | 東京都   | 司会進行          |
 | ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)                | 石川県   |                  |
 | ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617) | 神奈川県 |                  |
+| ![](/images/users/seikichi_16.png) [seikichi](https://github.com/seikichi)                | 神奈川県 |                  |
 
 ## スケジュール
 
-| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) ![](/images/users/budougumi0617_16.png) | Pages | Misc. |
+| # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) ![](/images/users/budougumi0617_16.png) ![](/images/users/seikichi_16.png) | Pages | Misc. |
 |---:|:----------------------:|:-:|:---------------------:|:----------|:--------------------|
-|  1 | 2017-02-26 21:00-23:00 | 4 | :o::o::o::x::o::x::x: | 1 - 18    | 前書き, はじめに      |
-|  2 | 2017-04-05 21:00-23:00 | 5 | :o::o::o::x::o::o::x: | 19 - 30   | 練習問題 PM1,2,3     |
+|  1 | 2017-02-26 21:00-23:00 | 4 | :o::o::o::x::o::x::x::x: | 1 - 18    | 前書き, はじめに      |
+|  2 | 2017-03-05 21:00-23:00 | 6 | :o::o::o::o::o::o::x::x: | 19 - 30   | 練習問題 PM1,2,3     |
 
 ## 成果物
 

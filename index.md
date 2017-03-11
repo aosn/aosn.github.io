@@ -49,6 +49,7 @@ Bパート (討論会形式)
 
 ## 参加者実績
 
+[![](/images/users/seikichi_64.png "seikichi")](https://github.com/seikichi)
 [![](/images/users/budougumi0617_64.png "budougumi0617")](https://github.com/budougumi0617)
 [![](/images/users/kzt-ysmr_64.png "kzt-ysmr")](https://github.com/kzt-ysmr)
 [![](/images/users/amatubu2525_64.png "amatubu2525")](https://github.com/amatubu2525)
