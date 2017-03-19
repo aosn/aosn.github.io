@@ -43,7 +43,7 @@ title: 用語集
 * 言い出した人: Fred Brooks :us: 
 * 初出: The Mythical Man-Month [1975]
 * 関連書籍:
-  * 人月の神話【新装版】(第2章) [2014.4]
+  * [人月の神話【新装版】](/workshop/11-manmonth) (第2章) [2014.4]
 
 #### ポステルの法則 (Postel's law)
 
