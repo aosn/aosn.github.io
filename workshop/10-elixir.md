@@ -64,6 +64,10 @@ title: プログラミングElixir
 
 ## 成果物
 
+### 練習問題回答
+
+リポジトリ: https://github.com/aosn/elixir
+
 ### 読書ノート
 
 [読書ノート](/note/10-elixir)をご覧ください。

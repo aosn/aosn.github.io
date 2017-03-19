@@ -76,5 +76,3 @@ title: 読書ノート - ブロックチェーン 仕組みと理論
 >
 > http://btcnews.jp/mit-media-lab-launch-enigma-the-encrypted-cloud-computing/
 
-
-### 参考情報
