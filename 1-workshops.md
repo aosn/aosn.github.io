@@ -36,8 +36,8 @@ title: 実績
 
 * 書籍: [マイクロサービスアーキテクチャ](/workshop/8-microservices)
 * 頁数: 344
-* 日程: 2016/10/23 ～ (実施中)
-* 回数: (実施中)
+* 日程: 2016/10/23 ～ 2017/03/20
+* 回数: 20
 * 人数: 8
   * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
   * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)

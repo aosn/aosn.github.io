@@ -173,10 +173,19 @@ title: 読書ノート - マイクロサービスアーキテクチャ
 * 人間同士でもまともに協調できないのだから分散システムの整合性担保の設計が難しいのは仕方がないな
 
 * 分散トランザクション難しい
- * Google がなんか出してたな → [](https://cloud.google.com/spanner/docs/)
+ * Google がなんか出してたな → [Spanner](https://cloud.google.com/spanner/docs/)
  * トランザクションではないけど、送信と完了を分けて送って整合性破壊を困難にするとか
 
 * Consul, HashiCorp って会社がすごい！Vagrant, Packer, Trraform, Vault, Nomad なども作っている
 
+# 第12章
+
+* 太字の部分、結構忘れてる・・・。
+
+* バックグラウンドになっているドメイン駆動をまずはしっかりおさえることが大事
+
+* 相関ID入れときたい
+ * Twitter の ID 生成とか面白い (参考: (https://www.slideshare.net/moaikids/20130901-snowflake))
+ * MongoDB の ObjectId の生成規則も (参考: [mongodbのObjectIdの生成規則 - としたにあんの左脳](http://toshitanian.hatenablog.com/entry/2014/02/14/015314))
 
 ## 参考情報
