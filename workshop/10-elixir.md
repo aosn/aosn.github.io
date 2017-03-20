@@ -67,7 +67,7 @@ title: プログラミングElixir
 
 ### 練習問題回答
 
-リポジトリ: https://github.com/aosn/elixir
+リポジトリ: :octcat: [aosn/elixir](https://github.com/aosn/elixir)
 
 ### 読書ノート
 
