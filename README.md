@@ -38,9 +38,8 @@ Type GitHub user name>
 [activity-push](https://github.com/aosn/activity-push) ユーティリティを使って Markdown のひな型を生成できます。
 
 ```bash
-cd $GOPATH
 go install github.com/aosn/activity-push
-./bin/activitiy-push -stat -t <workshop>
+$GOPATH/bin/activitiy-push -stat -t <workshop>
 ```
 
 `<workshop>` には `1-java8` や `8-microservices` などの Markdown ファイル名が入ります (`.md` は不要)。
