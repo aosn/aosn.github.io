@@ -61,7 +61,7 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 ### 第6章
 
-* 練習問題 フォーラムの答えのこじらせっぷりぱない [https://forums.pragprog.com/forums/322/topics/11925](https://forums.pragprog.com/forums/322/topics/11925)
+* **練習問題 ModulesAndFunctions-4** フォーラムの答えのこじらせっぷりぱない [Exercise: ModulesAndFunctions-4](https://forums.pragprog.com/forums/322/topics/11925)
 
 * **P53** 「答えば」は「答えは」の typo では
 
