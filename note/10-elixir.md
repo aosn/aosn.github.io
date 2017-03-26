@@ -59,3 +59,14 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 **P43** `length/1` とかの `/1` は引数1つの関数を指すリテラルのようなもの (次章 P45 参照)
 
+### 第6章
+
+* 練習問題 フォーラムの答えのこじらせっぷりぱない [https://forums.pragprog.com/forums/322/topics/11925](https://forums.pragprog.com/forums/322/topics/11925)
+
+* **P53** 「答えば」は「答えは」の typo では
+
+→ 要 Errata 報告
+
+## 参考情報
+
+* [The Pragmatic Bookshelf | Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム

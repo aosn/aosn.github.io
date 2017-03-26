@@ -61,7 +61,7 @@ title: 人月の神話
 
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/akeboshi_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) ![](/images/users/budougumi0617_16.png) ![](/images/users/seikichi_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:------------------------:|:-----------------:|:-----------------------|
-|  1 | 2017-03-26 23:00-23:30 |   |                          | 第1章              |                        |
+|  1 | 2017-03-26 23:00-23:30 | 6 | :o::o::o::o::o::x::o::x: | 第1章              |                        |
 
 
 ## 成果物
