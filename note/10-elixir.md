@@ -67,6 +67,14 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 → 要 Errata 報告
 
+* **P57** `only` や `except` 使いまくると追いづらくなるよね。
+
+* **P57** `except` のはずが `expect` になっている。
+
+→ 要 Errata 報告
+
+
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf | Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
