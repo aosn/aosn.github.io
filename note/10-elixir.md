@@ -61,7 +61,7 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 ### 第6章
 
-* **練習問題 ModulesAndFunctions-4** フォーラムの答えのこじらせっぷりぱない [Exercise: ModulesAndFunctions-4](https://forums.pragprog.com/forums/322/topics/11925)
+* **ModulesAndFunctions-4** フォーラムの答えのこじらせっぷりぱない [Exercise: ModulesAndFunctions-4](https://forums.pragprog.com/forums/322/topics/11925)
 
 * **P53** 「答えば」は「答えは」の typo では
 
@@ -73,7 +73,13 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 → 要 Errata 報告
 
+### 第7章
 
+* **ListsAndRecursion-2** 空リストははじいておきたい。初期値 0 で reduce する処理を書いてしまうと list がマイナスだけの場合に対応できないので注意。
+
+* **ListsAndRecursion-3** (P13) 問題文のほう `ceasar(list, n)` になっている。正しくは `caesar`。
+
+→ 要 Errata 報告
 
 ## 参考情報
 
