@@ -81,6 +81,12 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 → 要 Errata 報告
 
+### 第8章
+
+* **P80** 第一段落 `(heihgt)` とあるが `(height)` の typo。
+
+→ 要 Errata 報告
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf | Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
