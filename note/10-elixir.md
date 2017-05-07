@@ -87,6 +87,16 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 → 要 Errata 報告
 
+### 第10章
+
+* **ListsAndRecursion-5**
+  * リスト内包表記はfor式を使ったものという意味として解釈する
+  * Enumモジュールの関数はリスト以外も引数にとれるようだが、今回の演習ではリスト以外考えなくて良い
+  * Enum.eachは戻り値として `:ok` を返す
+* **ListsAndRecursion-6**
+  * 難問とあるので解答は任意とする
+
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf | Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
