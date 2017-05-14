@@ -61,40 +61,61 @@ OTP は Open telecom Platform の略 (P193 より)。ライブラリ集？
 
 ### 第6章
 
-* **ModulesAndFunctions-4** フォーラムの答えのこじらせっぷりぱない [Exercise: ModulesAndFunctions-4](https://forums.pragprog.com/forums/322/topics/11925)
+**ModulesAndFunctions-4** フォーラムの答えのこじらせっぷりぱない [Exercise: ModulesAndFunctions-4](https://forums.pragprog.com/forums/322/topics/11925)
 
-* **P53** 「答えば」は「答えは」の typo では
+**P53** 「答えば」は「答えは」の typo では
 
 → 要 Errata 報告
 
-* **P57** `only` や `except` 使いまくると追いづらくなるよね。
+**P57** `only` や `except` 使いまくると追いづらくなるよね。
 
-* **P57** `except` のはずが `expect` になっている。
+**P57** `except` のはずが `expect` になっている。
 
 → 要 Errata 報告
 
 ### 第7章
 
-* **ListsAndRecursion-2** 空リストははじいておきたい。初期値 0 で reduce する処理を書いてしまうと list がマイナスだけの場合に対応できないので注意。
+**ListsAndRecursion-2** 空リストははじいておきたい。初期値 0 で reduce する処理を書いてしまうと list がマイナスだけの場合に対応できないので注意。
 
-* **ListsAndRecursion-3** (P13) 問題文のほう `ceasar(list, n)` になっている。正しくは `caesar`。
+**ListsAndRecursion-3** (P13) 問題文のほう `ceasar(list, n)` になっている。正しくは `caesar`。
 
 → 要 Errata 報告
 
 ### 第8章
 
-* **P80** 第一段落 `(heihgt)` とあるが `(height)` の typo。
+**P80** 第一段落 `(heihgt)` とあるが `(height)` の typo。
 
 → 要 Errata 報告
 
 ### 第10章
 
-* **ListsAndRecursion-5**
-  * リスト内包表記はfor式を使ったものという意味として解釈する
-  * Enumモジュールの関数はリスト以外も引数にとれるようだが、今回の演習ではリスト以外考えなくて良い
-  * Enum.eachは戻り値として `:ok` を返す
-* **ListsAndRecursion-6**
-  * 難問とあるので解答は任意とする
+**ListsAndRecursion-5**
+
+リスト内包表記はfor式を使ったものという意味として解釈する
+
+Enumモジュールの関数はリスト以外も引数にとれるようだが、今回の演習ではリスト以外考えなくて良い
+
+Enum.eachは戻り値として `:ok` を返す
+
+**ListsAndRecursion-6**
+
+→ 難問とあるので解答は任意とする
+
+**ListsAndRecursion-5** そういえば Elixir って末尾再起最適化あるのかな？
+
+→ ある (P166)
+
+→ (こぼれ話) JVM は最適化がない。C# は 64bit かつリリースビルドの場合だけ最適化される (特にオプション指定していない場合)
+
+→ (もっとこぼれ話) Java でやろうとするとこんな感じ (CPS変換) https://gist.github.com/backpaper0/1e7c22d4223a864719e5
+
+**P97** なぜ `File.stream!` は `File.open!` + `IO.stream` の 2 倍遅いのか？
+
+→ 不明・・・
+
+**P97** 関数に `!` ついてるやつは？
+
+→ 失敗時にエラーが `raise` される関数の命名慣例に従っている
 
 
 ## 参考情報
