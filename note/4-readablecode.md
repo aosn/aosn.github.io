@@ -446,10 +446,6 @@ if ("hoge".equalsIgnoreCase(hoge)) {
  * 例: https://github.com/aosn/aosn.github.io/commit/471d00c94205202c8ad5d52890877ef4f0353ce7?w= (有効時)
  * https://github.com/aosn/aosn.github.io/commit/471d00c94205202c8ad5d52890877ef4f0353ce7 (デフォルト)
 
-### 解説
-
-
-
 ### 参考情報
 
 * [去る者は日日に疎し - 故事ことわざ辞典](http://kotowaza-allguide.com/sa/sarumonowahibiniutoshi.html)

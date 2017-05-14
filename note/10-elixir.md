@@ -120,4 +120,4 @@ Enum.eachは戻り値として `:ok` を返す
 
 ## 参考情報
 
-* [The Pragmatic Bookshelf | Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
+* [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム

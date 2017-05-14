@@ -72,7 +72,7 @@ title: 読書ノート - ブロックチェーン 仕組みと理論
 
 取引所で足がつくとかあるんじゃないか。
 
-> MITが分散型クラウドコンピューティング『Enigma』プロジェクトを始動 | ビットコインの最新情報 BTCN｜ビットコインニュース
+> MITが分散型クラウドコンピューティング『Enigma』プロジェクトを始動 - ビットコインの最新情報 BTCN｜ビットコインニュース
 >
 > http://btcnews.jp/mit-media-lab-launch-enigma-the-encrypted-cloud-computing/
 
