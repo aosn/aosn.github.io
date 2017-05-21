@@ -117,6 +117,9 @@ Enum.eachは戻り値として `:ok` を返す
 
 → 失敗時にエラーが `raise` される関数の命名慣例に従っている
 
+**P103** `Enum.into IO.stream(:stdio, :line), IO.stream(:stdio, :line)` 終わらない。Ctrl+C するしかない？
+
+→ かも。
 
 ## 参考情報
 
