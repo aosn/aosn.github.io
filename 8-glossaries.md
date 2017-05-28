@@ -14,6 +14,7 @@ title: 用語集
 * 言い出した人: Melvin Conway :us: 
 * 初出: How Do Committees Invent? [1968.4]
 * 関連書籍
+  * [人月の神話【新装版】](/workshop/11-manmonth) (第10章) [2014.4]
   * [マイクロサービスアーキテクチャ](/workshop/8-microservices) (第10章) [2016.2]
 
 #### パーキンソンの法則 (Parkinson’s law)
