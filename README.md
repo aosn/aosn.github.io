@@ -2,7 +2,7 @@
 
 ## 概要
 
-[aosn.github.io](https://aosn.github.io/) の中身です。
+[aosn.ws](http://aosn.ws/) の中身です。
 
 本リポジトリ (の Isssues, Projects および Wiki 機能) は課題本選考やイベントの管理にも利用しています。
 課題本選考については、以下の Wiki ページをご一読の上、Isssue を起票することで新規提案を行うことができます。
