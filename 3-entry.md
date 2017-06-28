@@ -30,13 +30,25 @@ AOSN 読書会に参加したい、という方は、以下の参加条件と実
 
 ## エントリー方法
 
-以下のフォームに記入して送信してください ([表示されない方はこちら](https://aosn.typeform.com/to/vLvGS9))。
+以下のフォームに記入して送信してください。
 
-<div class="typeform-widget" data-url="https://aosn.typeform.com/to/vLvGS9" data-text="AOSN読書会 ユーザー登録" style="width:100%;height:500px;"></div>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
-<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vLvGS9&amp;utm_source=typeform.com-5741196-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=JA" style="color: #999" target="_blank">Typeform</a></div>
+<form method="POST" action="https://6ai0xdga9k.execute-api.us-east-2.amazonaws.com/prod/aosn-entry">
+<label>GitHub ID: <input name="id" required /></label><br/>
+<label>名前 (アルファベット): <input name="name" required /></label><br/>
+<label>Email (受信可能なもの): <input type="email" name="email" required /></label>
+<br/>
+参加枠: 
+<label><input type="radio" name="part" value="ab" checked  />Aパート+Bパート</label>
+<label><input type="radio" name="part" value="a" />Aパート</label>
+<label><input type="radio" name="part" value="b" />Bパート</label>
+<label><input type="radio" name="part" value="" />未定</label>
+</br>
+<label>コメント: <input name="Comment" /></label>
+<br/>
+<input type="submit" />
+</form>
 
-管理者が申請を確認したら、登録した E-mail アドレス宛に Slack と Discord の招待を送りますので、ご対応ください。
+管理者が申請を確認したら、記入した E-mail アドレス宛に Slack と Discord の招待を送りますので、ご対応ください。
 
 なお、管理・登録作業は [![](/images/users/mikan_16.png "mikan")](https://github.com/mikan) [mikan](Https://github.com/mikan) と [![](/images/users/MrBearing_16.png "MrBearing")](https://github.com/MrBearing) [MrBearing](Https://github.com/MrBearing) が担当しています。
 
