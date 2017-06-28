@@ -42,7 +42,7 @@ AOSN 読書会に参加したい、という方は、以下の参加条件と実
 <label><input type="radio" name="part" value="a" />Aパート</label>
 <label><input type="radio" name="part" value="b" />Bパート</label>
 <label><input type="radio" name="part" value="" />未定</label>
-</br>
+<br/>
 <label>コメント: <input name="Comment" /></label>
 <br/>
 <input type="submit" />
