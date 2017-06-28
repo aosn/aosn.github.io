@@ -1,3 +1,8 @@
+---
+layout: subpage
+title: Assets
+---
+
 /assets
 ========
 
