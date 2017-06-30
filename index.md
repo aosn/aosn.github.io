@@ -1,12 +1,9 @@
 ---
 layout: default
+title: AOSN読書会
 ---
 
-## 概要
-
-IT 分野の技術書をオンラインで輪読する読書会です。毎週日曜 21:00 〜 23:00 に実施しています。
-
-正式名称は Alice on Sunday Nights Workshop です。名前の由来は[最初に実施した読書会で読んだ本](/workshop/1-java8)の原書の表紙です。
+AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書会です。毎週日曜 21:00 〜 23:00 に実施しています。
 
 ## 実績
 
@@ -41,6 +38,7 @@ Bパート (討論会形式)
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
 [![](/images/cover-readablecode.jpg "リーダブルコード")](/workshop/4-readablecode)
 
+※Aパート・Bパートの違いについては[運営ポリシー](/policy)をご覧ください。
 
 ### 正誤表貢献実績
 
@@ -94,3 +92,5 @@ Bパート (討論会形式)
 * [運営ポリシー](/policy)
 * [課題本選考状況](https://github.com/aosn/aosn.github.io/projects/1) (GitHub Projects)
 * [検討 Wiki](https://github.com/aosn/aosn.github.io/wiki) (GitHub Wiki)
+
+「AOSN読書会」の正式名称は Alice on Sunday Nights Workshop です。名前の由来は[最初の課題本](/workshop/1-java8)の原書の表紙 (不思議の国のアリス) に由来しています。
