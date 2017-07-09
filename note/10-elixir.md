@@ -121,6 +121,16 @@ Enum.eachは戻り値として `:ok` を返す
 
 → かも。
 
+**P124** 「FizzBuz」は「FizzBuzz」の間違いと思われる。
+
+→ 要 Errata 報告
+
+**P124** 第一段落「対応するFizzBuzzの丹豪に変更に変換するのに」は「変更に」が不要に思える。
+
+→ 要 Errata 報告
+
+**P125** case1 の `%{state: some_state} = person` は、`person` にマッチした後 `some_state` にマッチするが、case2 の `person = %{age: age}` は `age` にマッチしたあと `person `にマッチする ・・・と思いきや、マップ同士だったら無条件にマッチする？
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
