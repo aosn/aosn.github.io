@@ -121,6 +121,8 @@ Enum.eachは戻り値として `:ok` を返す
 
 → かも。
 
+### 第12章
+
 **P124** 「FizzBuz」は「FizzBuzz」の間違いと思われる。
 
 → 要 Errata 報告
@@ -129,8 +131,19 @@ Enum.eachは戻り値として `:ok` を返す
 
 → 要 Errata 報告
 
-**P125** case1 の `%{state: some_state} = person` は、`person` にマッチした後 `some_state` にマッチするが、case2 の `person = %{age: age}` は `age` にマッチしたあと `person `にマッチする ・・・と思いきや、マップ同士だったら無条件にマッチする？
+**P125** case1 の `%{state: some_state} = person` は、`person` にマッチした後 `some_state` にマッチするが、case2 の `person = %{age: age}` は `age` にマッチしたあと `person `にマッチする
+
+**ControlFlow-2**
+
+- ([intptr-t の回答](https://github.com/aosn/elixir/blob/master/intptr-t/ControlFlow-2/ControlFlow-2.md)) 表現: cond, メンテ: 関数分け, 喚起: 行数が多いものは書き直す等
+- ([kzt.ysmr の回答](https://github.com/aosn/elixir/blob/master/kzt.ysmr/control_flow/ControlFlow-2.md)) 表現: case, メンテ: case, 喚起: テストコード縛り、naming convention 整備等
+- ([mikan の回答](https://github.com/mikan/elixir-practice/blob/master/lib/control_flow_2/answer.exs)) 表現: case, メンテ: case, 喚起: 静的解析等
+
+### 第13章
+
+**P131** 脚注2のURLはリンク切れの模様。おそらくこちら: [https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
+* [Let it crash が生んだ誤解 - Qiita](http://qiita.com/soranoba/items/fce095f25c851dd34a6b) - 例外の話のディスカッションの紹介
