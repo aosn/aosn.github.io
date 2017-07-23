@@ -143,6 +143,8 @@ Enum.eachは戻り値として `:ok` を返す
 
 **P131** 脚注2のURLはリンク切れの模様。おそらくこちら: [https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 
+**P135** 第二段落「カウントに数を期待していたのに、文字列を得てしまったのだ。」とあるが、この場合「数」より「整数」のほうが正確な表現と思われる。
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
