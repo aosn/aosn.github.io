@@ -145,6 +145,14 @@ Enum.eachは戻り値として `:ok` を返す
 
 **P135** 第二段落「カウントに数を期待していたのに、文字列を得てしまったのだ。」とあるが、この場合「数」より「整数」のほうが正確な表現と思われる。
 
+**P146** 練習問題 OAP-4はスキップ
+
+**P158** 練習問題 OAP-5はない(原著にもない)
+
+→ 要 Errata 報告
+
+**P158** OAP-6の仕様が曖昧すぎるので、やるべきか未検討
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
