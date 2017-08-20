@@ -153,6 +153,12 @@ Enum.eachは戻り値として `:ok` を返す
 
 **P158** OAP-6の仕様が曖昧すぎるので、やるべきか未検討
 
+### 第14章
+
+**P163** `self` 関数をカッコなしで実際に呼ぶと怒られる。カッコをつけて `self()` とする必要がある。
+
+> warning: variable "self" does not exist and is being expanded to "self()", please use parentheses to remove the ambiguity or change the variable name
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
