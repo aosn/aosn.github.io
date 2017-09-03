@@ -159,6 +159,12 @@ Enum.eachは戻り値として `:ok` を返す
 
 > warning: variable "self" does not exist and is being expanded to "self()", please use parentheses to remove the ambiguity or change the variable name
 
+### 第15章
+
+**P187** にある `__MODULE__` は自身のモジュール名が入るようだが、ここが初出？説明 (と索引) がないような
+
+→ とりあえず公式ドキュメントでは `Kernel.SpecialForms` で紹介されている: [Kernel.SpecialForms](https://hexdocs.pm/elixir/Kernel.SpecialForms.html)
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
