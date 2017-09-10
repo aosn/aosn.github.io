@@ -159,6 +159,8 @@ Enum.eachは戻り値として `:ok` を返す
 
 > warning: variable "self" does not exist and is being expanded to "self()", please use parentheses to remove the ambiguity or change the variable name
 
+**WorkingWithMultipleProcesses-5** `spawn` の戻り値は pid だが、`spawn_monitor` の戻り値は pid とリファレンスのタプルになっているので、pid を拾って渡したい場合にはコードを変える必要がある
+
 ### 第15章
 
 **P187** にある `__MODULE__` は自身のモジュール名が入るようだが、ここが初出？説明 (と索引) がないような
