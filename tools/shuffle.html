@@ -1,0 +1,152 @@
+<html lang="en">
+<head>
+<title>Member Shuffler</title>
+<script>
+var USERS = [
+  "mikan", "mrbearing", "YuichiroSato", "namichan0801", "LagunaPresa",
+  "intptr-t", "s-hosoai", "akeboshi", "marishi", "amatubu2525",
+  "kzt-ysmr", "budougumi0617", "seikichi"];
+var DEFALT_CHECKED = [
+  true, true, false, false, true,
+  true, true, false, false, false,
+  true, true, true
+];
+
+window.onload = function() {
+  var users = document.getElementById("users");
+  for (var i = 0; i < USERS.length; i++) {
+    var li = document.createElement("li");
+    var input = document.createElement("input");
+    input.type = "checkbox";
+    input.id = i + 1;
+    input.name = USERS[i];
+    input.value = USERS[i];
+    if (DEFALT_CHECKED[i]) {
+      input.checked = "checked";
+    }
+    li.appendChild(input);
+    var img = document.createElement("img");
+    img.src = "../images/users/" + USERS[i] + "_64.png";
+    img.alt = USERS[i];
+    li.appendChild(img);
+    var label = document.createElement("label");
+    label.htmlFor = i + 1;
+    li.appendChild(label);
+    label.textContent = USERS[i];
+    users.appendChild(li);
+  }
+};
+
+function checkAll() {
+  for (var i = 0; i < USERS.length; i++) {
+    document.getElementById(i + 1).checked = "checked";
+  }
+}
+
+function shuffle() {
+  var table = document.getElementById("list");
+  var tbody = document.createElement("tbody");
+  var list = applyShuffle(getCheckedUsers());
+  for (var i = 0; i < list.length; i++) {
+    var num = document.createElement("td");
+    num.textContent = i + 1;
+    num.align = "center";
+    var user = document.createElement("td");
+    var img = document.createElement("img");
+    img.src = "../images/users/" + USERS[list[i] - 1] + "_64.png";
+    img.alt = USERS[list[i]];
+    user.appendChild(img);
+    var label = document.createElement("label");
+    label.textContent = USERS[list[i] - 1];
+    label.htmlFor = i + 1;
+    user.appendChild(label);
+    var tr = document.createElement("tr");
+    tr.appendChild(num);
+    tr.appendChild(user);
+    tbody.appendChild(tr);
+  }
+  table.replaceChild(tbody, table.lastChild);
+}
+
+function getCheckedUsers() {
+  var checked = [];
+  for (i = 0; i < 13; i++) {
+    var checkbox = document.getElementById(i + 1);
+    if (checkbox.checked) {
+      checked.push(checkbox.id);
+    }
+  }
+  return checked;
+}
+
+function createHeader() {
+  var tr = document.createElement("tr");
+  var th1 = document.createElement("th");
+  th1.textContent = "#";
+  var th2 = document.createElement("th");
+  th2.textContent = "User";
+  tr.appendChild(th1);
+  tr.appendChild(th2);
+  return tr;
+}
+
+function applyShuffle(array) {
+  for (var i = array.length - 1; i > 0; i--) {
+      var r = Math.floor(Math.random() * (i + 1));
+      var tmp = array[i];
+      array[i] = array[r];
+      array[r] = tmp;
+  }
+  return array;
+}
+</script>
+<style>
+body {
+  font-size: 100%;
+  width: 50%;
+  margin: 10 auto;
+}
+h1 {
+  font-size: 120%;
+  text-align: center;
+}
+li {
+  display: block;
+}
+img {
+  width: 1em;
+  height: 1em;
+  margin: 0 3px;
+}
+table {
+  width: 100%;
+  font-size: 110%;
+}
+tr:nth-child(even) td {
+  background-color: whitesmoke;
+}
+th {
+  background-color: dimgray;
+  color: white;
+}
+</style>
+</head>
+<body>
+<h1>AOSN Workshop Member Shuffler</h1>
+<form>
+<ul id="users">
+</ul>
+<button type="button" onclick="shuffle()">Shuffle!</button>
+<button type="button" onclick="checkAll()">All</button>
+<button type="reset">Clear</button>
+</form>
+<table id="list">
+  <thead>
+    <tr><th>#</th><th>User</th>
+    </tr>
+  </thead>
+  <tbody id="content">
+  </tbody>
+</table>
+</body>
+</html>
