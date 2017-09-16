@@ -5,11 +5,12 @@
 var USERS = [
   "mikan", "MrBearing", "YuichiroSato", "namichan0801", "LagunaPresa",
   "intptr-t", "s-hosoai", "akeboshi", "marishi", "amatubu2525",
-  "kzt-ysmr", "budougumi0617", "seikichi"];
+  "kzt-ysmr", "budougumi0617", "seikichi"
+];
 var DEFALT_CHECKED = [
   true, true, false, false, true,
   true, true, false, false, false,
-  true, true, true
+  true, true, false
 ];
 
 window.onload = function() {
@@ -129,6 +130,18 @@ th {
   background-color: dimgray;
   color: white;
 }
+#footer {
+  color: dimgray;
+  font-size: small;
+  text-align: center;
+}
+#footer a {
+  color: dimgray;
+  text-decoration: none;
+}
+#footer a:hover {
+  color: black;
+}
 </style>
 </head>
 <body>
@@ -148,5 +161,6 @@ th {
   <tbody id="content">
   </tbody>
 </table>
+<p id="footer"><a href="http://aosn.ws">AOSN Workshop</a> LT Timer<br/>&copy;2017 <a href="https://mikan.github.io">mikan</a></p>
 </body>
 </html>

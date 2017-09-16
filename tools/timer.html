@@ -2,10 +2,19 @@
 <head>
 <title>LT Timer</title>
 <script>
+var COLOR = {
+  NORMAL: "cyan",
+  WARNING: "salmon",
+  ERROR: "red"
+};
 var defaultM = 5;
 var defaultS = 0;
 var over = false;
 var t;
+
+window.onload = function() {
+  document.getElementById("timer").style.color = COLOR.NORMAL;
+}
 
 function startCounting() {
   over = false;
@@ -23,7 +32,7 @@ function stopCounting() {
 function resetCounter() {
   over = false;
   stopCounting();
-  show(defaultM, defaultS);
+  reset();
 }
 
 function countDown() {
@@ -56,11 +65,11 @@ function countDown() {
 function tick(i) {
   var n = parseInt(i);
   if (over) {
-    document.getElementById("timer").style.color = "red";
+    document.getElementById("timer").style.color = COLOR.ERROR;
   } else if (n <= 30) {
-    document.getElementById("timer").style.color = "salmon";
+    document.getElementById("timer").style.color = COLOR.WARNING;
   } else {
-    document.getElementById("timer").style.color = "cyan";
+    document.getElementById("timer").style.color = COLOR.NORMAL;
   }
   var m = Math.floor(n / 60);
   var s = n % 60;
@@ -83,6 +92,7 @@ function reset() {
   show(defaultM, defaultS);
   document.getElementById("start").disabled = false;
   document.getElementById("stop").disabled = true;
+  document.getElementById("timer").style.color = COLOR.NORMAL;
   clearInterval(t);
 }
 </script>
@@ -103,7 +113,6 @@ input {
   text-align: center;
 }
 #timer {
-  color: cyan;
   font-size: 55vmax;
   font-family: '7segment', monospace;
   text-align: center;
