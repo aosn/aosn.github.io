@@ -3,6 +3,21 @@ layout: page
 title: イベント
 ---
 
+## [#6 「プログラマーの日」合宿 (2017)](/event/6-0916camp)
+
+![](/photo/20170916-01_190333.jpg "合宿の様子")
+
+* 実施: 2017/09/16 - 2017/09/17
+* 場所: 湯涌温泉 (石川県)
+* 人数: 7
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star: 幹事
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617)
+  * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)
+
 ## [#5 春の四ツ谷OFF (2017)](/event/5-0304off)
 
 ![](/photo/20170304-02_203746.jpg "のどぐろ")
