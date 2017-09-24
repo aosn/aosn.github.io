@@ -43,7 +43,7 @@ Bパート (討論会形式)
 ### 正誤表貢献実績
 
 * [Unix考古学 Truth of the Legend](/workshop/6-unix) 4件報告 (掲載済)
-* [入門 React](/workshop/5-react) 9検報告
+* [入門 React](/workshop/5-react) 9件報告
 * [Gradle 徹底入門](/workshop/3-gradle) 10件報告
 * [Java SE 8 実践プログラミング](/workshop/1-java8) 2件報告 (掲載済)
 

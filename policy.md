@@ -31,3 +31,14 @@ AOSN 読書会では以下の複数のパートを運営しており、参加者
 
 選考プロセス:
 <img src="/images/election-process.png" alt="選考プロセス" style="width:100%" />
+
+## ソーシャルアカウント
+
+AOSN 読書会で管理・運営しているソーシャルアカウントは、以下の通りです。
+
+| SNS     | ID/組織/チャンネル | オーナー権限 | 備考  |
+|:--------|:------------------|:-----------|:------|
+| GitHub  | [aosn](https://github.com/aosn) | [指定者全員](https://github.com/orgs/aosn/people) |  |
+| YouTube | [AOSN読書会](https://www.youtube.com/channel/UCgPt-9vFGmEHzIL2cco7elQ) | [![](/images/users/mikan_16.png "mikan")](https://github.com/mikan) mikan [![](/images/users/MrBearing_16.png "MrBearing")](https://github.com/MrBearing) MrBearing |  |
+
+Twitter, Facebook 等は T.B.D.
