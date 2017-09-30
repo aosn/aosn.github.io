@@ -30,7 +30,7 @@ AOSN 読書会では以下の複数のパートを運営しており、参加者
 提案は上記選書ポリシーと各自照合の上、GitHub に Issue を起票することで行います。
 
 選考プロセス:
-<img src="/images/election-process.png" alt="選考プロセス" style="width:100%" />
+<img src="/images/poll-process.png" alt="選考プロセス" style="width:100%" />
 
 ## ソーシャルアカウント
 
