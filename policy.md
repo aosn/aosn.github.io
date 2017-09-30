@@ -40,5 +40,6 @@ AOSN 読書会で管理・運営しているソーシャルアカウントは、
 |:--------|:------------------|:-----------|:------|
 | GitHub  | [aosn](https://github.com/aosn) | [指定者全員](https://github.com/orgs/aosn/people) |  |
 | YouTube | [AOSN読書会](https://www.youtube.com/channel/UCgPt-9vFGmEHzIL2cco7elQ) | [![](/images/users/mikan_16.png "mikan")](https://github.com/mikan) mikan [![](/images/users/MrBearing_16.png "MrBearing")](https://github.com/MrBearing) MrBearing |  |
+| Twitter | [@aosn_ws](https://twitter.com/aosn_ws) | [![](/images/users/mikan_16.png "mikan")](https://github.com/mikan) mikan | |
 
 Twitter, Facebook 等は T.B.D.
