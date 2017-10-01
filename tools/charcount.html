@@ -4,6 +4,7 @@
 <title>Character Counter</title>
 <script>
 function count(form, val) {
+  "use strict";
   var wis, wos, line;
   if (!val) return;
   wis = val.replace(/\n/g, "");
@@ -27,7 +28,7 @@ function count(form, val) {
 body {
   font-size: 100%;
   width: 50%;
-  margin: 10 auto;
+  margin: 10px auto;
   text-align: center;
 }
 textarea {
@@ -38,11 +39,14 @@ table {
   color: black;
   background: lavender;
   margin: 10px auto;
-  padding: 8px;  
+  padding: 8px;
   border-radius: 0.5em;
 }
 td {
-	font-size: 130%;
+	font-size: 120%;
+}
+input {
+    font-size: 120%;
 }
 em {
   color: gray;
@@ -65,9 +69,9 @@ em {
 </style>
 </head>
 <body>
-<h2>Character Counter</h2>
+<h2><label for="txt">Character Counter</label></h2>
 <form onsubmit="count(this, this.txt.value); return false">
-<textarea name="txt" rows="15" cols="70"></textarea> 
+<textarea id="txt" name="txt" rows="15" cols="70"></textarea>
 <table>
   <thead>
     <tr>
@@ -79,19 +83,19 @@ em {
   </thead>
   <tbody>
     <tr>
-      <td><small>Characters (within space):</small></td>
-      <td><input class="field" readonly="readonly" size="7" value="0" name="within_space" /></td>
+      <td><label for="within_space">Characters (within space):</label></td>
+      <td><input class="field" readonly="readonly" size="7" value="0" id="within_space" name="within_space" /></td>
     </tr>
     <tr>
-      <td><small>Characters (without space):</small></td>
-      <td><input class="field" readonly="readonly" size="7" value="0" name="without_space" /></td>
+      <td><label for="without_space">Characters (without space):</label></td>
+      <td><input class="field" readonly="readonly" size="7" value="0" id="without_space" name="without_space" /></td>
     </tr>
     <tr>
-      <td><small>Lines:</small></td>
-      <td><input class="field" readonly="readonly" size="7" value="0" name="lines" /></td>
+      <td><label for="lines">Lines:</label></td>
+      <td><input class="field" readonly="readonly" size="7" value="0" id="lines" name="lines" /></td>
     </tr>
   </tbody>
-</table> 
+</table>
 </form>
 <p id="footer"><a href="http://aosn.ws">AOSN Workshop</a> Character Counter<br/>&copy;2017 <a href="https://mikan.github.io">mikan</a></p>
 </body>

@@ -3,6 +3,7 @@
 <meta charset="utf-8"/>
 <title>LT Timer</title>
 <script>
+"use strict";
 var COLOR = {
   NORMAL: "cyan",
   WARNING: "salmon",
@@ -15,7 +16,7 @@ var t;
 
 window.onload = function() {
   document.getElementById("timer").style.color = COLOR.NORMAL;
-}
+};
 
 function startCounting() {
   over = false;
@@ -39,20 +40,20 @@ function resetCounter() {
 function countDown() {
   var min = document.getElementById("min").value;
   var sec = document.getElementById("sec").value;
-  if ((min == "") && (sec == "")) {
+  if ((min === "") && (sec === "")) {
     alert("Please set a time.");
     reset();
   }
   else {
-    if (min == "") {
+    if (min === "") {
       min = 0;
     }
     min = parseInt(min);
-    if (sec == "") {
+    if (sec === "") {
       sec = 0;
     }
     sec = parseInt(sec);
-    if (!over && min == 0 && sec == 0) {
+    if (!over && min === 0 && sec === 0) {
       over = true;
       tick(min * 60 + sec + 1);
     } else if (over) {

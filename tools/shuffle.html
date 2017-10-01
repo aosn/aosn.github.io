@@ -3,6 +3,7 @@
 <meta charset="utf-8"/>
 <title>Member Shuffler</title>
 <script>
+"use strict";
 var USERS = [
   "mikan", "MrBearing", "YuichiroSato", "namichan0801", "LagunaPresa",
   "intptr-t", "s-hosoai", "akeboshi", "marishi", "amatubu2525",
@@ -72,7 +73,7 @@ function shuffle() {
 
 function getCheckedUsers() {
   var checked = [];
-  for (i = 0; i < 13; i++) {
+  for (var i = 0; i < 13; i++) {
     var checkbox = document.getElementById(i + 1);
     if (checkbox.checked) {
       checked.push(checkbox.id);
@@ -115,7 +116,7 @@ function applyShuffle(array) {
 body {
   font-size: 100%;
   width: 50%;
-  margin: 10 auto;
+  margin: 10px auto;
 }
 h1 {
   font-size: 120%;
@@ -139,6 +140,9 @@ tr:nth-child(even) td {
 th {
   background-color: dimgray;
   color: white;
+}
+button {
+  font-size: 120%;
 }
 #footer {
   color: dimgray;
