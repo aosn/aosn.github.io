@@ -91,8 +91,6 @@ Bパート (討論会形式)
 ## リンク
 
 * [運営ポリシー](/policy)
-* [メンバー順序シャッフルツール](/tools/shuffle.html)
-* [ライトニングトークタイマー](/tools/timer.html)
 * [課題本選考状況](https://github.com/aosn/aosn.github.io/projects/1) (GitHub Projects)
 * [検討 Wiki](https://github.com/aosn/aosn.github.io/wiki) (GitHub Wiki)
 
