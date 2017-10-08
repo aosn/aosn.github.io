@@ -9,7 +9,7 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 
 | #  | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
 |---:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
-| 11 | B | [人月の神話](/workshop/11-manmonth) | 321 | 2017/03/26 - (実施中)   |    |  8 | ![](/images/users/MrBearing_16.png) MrBearing |
+| 11 | B | [人月の神話](/workshop/11-manmonth) | 321 | 2017/03/26 - (実施中)   |    |  7 | ![](/images/users/MrBearing_16.png) MrBearing |
 | 10 | A | [プログラミングElixir](/workshop/10-elixir) | 344 | 2017/02/26 - (実施中)   |    |  8 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 9  | A | [ブロックチェーン 仕組みと理論](/workshop/9-blockchain) | 256 | 2016/12/18 - 2017/02/19 |  9 |  6 | ![](/images/users/mikan_16.png) mikan |
 | 8  | B | [マイクロサービスアーキテクチャ](/workshop/8-microservices) | 344 | 2016/10/23 - 2017/03/26 | 20 |  8 | ![](/images/users/mikan_16.png) mikan |
