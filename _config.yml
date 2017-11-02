@@ -18,3 +18,5 @@ gems:
 
 emoji:
   src: "/assets/images"
+
+theme: jekyll-theme-cayman
