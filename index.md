@@ -9,6 +9,7 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 
 | #  | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
 |---:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
+| 12 | B | [現場で役立つシステム設計の原則](/workshop/12-principles) | 320 | 2017/12/10 開始予定  |    |  6 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 11 | B | [人月の神話](/workshop/11-manmonth) | 321 | 2017/03/26 - (実施中)   |    |  7 | ![](/images/users/mikan_16.png) mikan |
 | 10 | A | [プログラミングElixir](/workshop/10-elixir) | 344 | 2017/02/26 - (実施中)   |    |  8 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 9  | A | [ブロックチェーン 仕組みと理論](/workshop/9-blockchain) | 256 | 2016/12/18 - 2017/02/19 |  9 |  6 | ![](/images/users/mikan_16.png) mikan |
@@ -33,6 +34,7 @@ Aパート (輪読会形式)
 
 Bパート (討論会形式)
 
+[![](/images/cover-principles.jpg "現場で役立つシステム設計の原則")](/workshop/12-principles)
 [![](/images/cover-manmonth.jpg "人月の神話")](/workshop/11-manmonth)
 [![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
 [![](/images/cover-unix.jpg "Unix考古学")](/workshop/6-unix)
@@ -81,6 +83,7 @@ Bパート (討論会形式)
 
 | # | 日付          | イベント名                                        | 場所               |人数|
 |--:|:--------------|:-------------------------------------------------|:------------------|:--:|
+| 7 | 2017/11/29    | [冬の六本木OFF 2017](/event/7-1129off)           | 六本木 (東京都)     |  6 |
 | 6 | 2017/09/16-17 | [「プログラマーの日」合宿 2017](/event/6-0916camp) | 湯涌温泉 (石川県)  |  7 |
 | 5 | 2017/03/04    | [春の四ツ谷OFF 2017](/event/5-0304off)           | 四ツ谷 (東京都)     |  4 |
 | 4 | 2017/01/28    | [2017 新年会](/event/4-0128newyear)              | 新宿 (東京都)       |  6 |
