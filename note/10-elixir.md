@@ -171,6 +171,10 @@ Enum.eachは戻り値として `:ok` を返す
 
 → とりあえず公式ドキュメントでは `Kernel.SpecialForms` で紹介されている: [Kernel.SpecialForms](https://hexdocs.pm/elixir/Kernel.SpecialForms.html)
 
+### 第17章
+
+**OTP-Supervisors-1** `mix new --sup sequence` で出力されるコードが本と手元で違う (`lib/sequence/aplication.ex` が別途作られたり、`import` がなかったり)。バージョンアップで振る舞いが変わった可能性がある。とりあえず `sequence.ex` には手をつけず`application.ex` に `Sequence.Application` モジュールの中を書いていくイメージで進めることとする。
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
