@@ -3,6 +3,19 @@ layout: page
 title: イベント
 ---
 
+## [#7 冬の六本木OFF (2017)](/event/7-1129off)
+
+![](/photo/20171129_1947.jpg "六本木")
+
+* 実施: 2017/11/29
+* 場所: 六本木 (東京都)
+* 人数: 5
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617)
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star: 幹事
+
 ## [#6 「プログラマーの日」合宿 (2017)](/event/6-0916camp)
 
 ![](/photo/20170916-01_190333.jpg "合宿の様子")
