@@ -108,6 +108,20 @@ title: 人月の神話
 
 [![](/images/kpt-manmonth.png "KPT for Mythical Man-Month")](https://coggle.it/diagram/WhrRjMX_9wABqsVh/0ff26e257cd924e8f6700ddd76fd3857c3cef79acdfa31b1b0e67926de7b7430)
 
+### :recycle: **KEEP**
+
+- 毎回の予習範囲のボリューム感 (10P 程度)
+- 議事録執筆
+
+### :fire: **PROBLEM**
+
+- 流会が多かった (6回)
+- 具体例を示しての議論などがあまりできなかった
+
+### :triangular_flag_on_post: **TRY**
+
+- 合意形成のもと少人数でも進行する
+
 ## 統計
 
 ### 同時参加数
