@@ -10,7 +10,7 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 | #  | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
 |---:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
 | 12 | B | [現場で役立つシステム設計の原則](/workshop/12-principles) | 320 | 2017/12/10 開始予定  |    |  6 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
-| 11 | B | [人月の神話](/workshop/11-manmonth) | 321 | 2017/03/26 - (実施中)   |    |  7 | ![](/images/users/mikan_16.png) mikan |
+| 11 | B | [人月の神話](/workshop/11-manmonth) | 321 | 2017/03/26 - 2017/12/03 | 30 |  7 | ![](/images/users/mikan_16.png) mikan |
 | 10 | A | [プログラミングElixir](/workshop/10-elixir) | 344 | 2017/02/26 - (実施中)   |    |  8 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 9  | A | [ブロックチェーン 仕組みと理論](/workshop/9-blockchain) | 256 | 2016/12/18 - 2017/02/19 |  9 |  6 | ![](/images/users/mikan_16.png) mikan |
 | 8  | B | [マイクロサービスアーキテクチャ](/workshop/8-microservices) | 344 | 2016/10/23 - 2017/03/26 | 20 |  8 | ![](/images/users/mikan_16.png) mikan |
@@ -22,7 +22,7 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 | 2  | A | [深層学習](/workshop/2-deeplearning)               | 176 | 2015/09/20 - 2015/11/22 | 10 |  8 | ![](/images/users/s-hosoai_16.png) s-hosoai |
 | 1  | A | [Java SE 8 実践プログラミング](/workshop/1-java8)      | 264 | 2014/11/23 - 2015/09/13 | 43 |  7 | ![](/images/users/mikan_16.png) mikan |
 
-Aパート (輪読会形式)
+Aパート (輪読会形式・新書限定)
 
 [![プログラミングElixir](/images/cover-elixir.jpg)](/workshop/10-elixir)
 [![](/images/cover-blockchain.png "ブロックチェーン 仕組みと理論")](/workshop/9-blockchain)

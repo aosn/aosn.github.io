@@ -3,6 +3,51 @@ layout: page
 title: 実績
 ---
 
+## #11 人月の神話
+
+{:refdef: style="float: right;"}
+[![](/images/cover-manmonth.jpg "人月の神話")](/workshop/11-manmonth)
+{: refdef}
+
+※ Bパート
+
+* 書籍: [人月の神話](/workshop/11-manmonth)
+* 頁数: 321
+* 日程: 2017/02/26 ～ 2017/12/03
+* 回数: 30
+* 人数: 7
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行 :pencil:議事録
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) :bulb:提案者
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+  * ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617)
+
+[読書ノート](/note/11-manmonth)
+
+## #10 プログラミング Elixir
+
+{:refdef: style="float: right;"}
+[![](/images/cover-elixir.jpg "プログラミング Elixir")](/workshop/10-elixir)
+{: refdef}
+
+* 書籍: [プログラミング Elixir](/workshop/10-elixir)
+* 頁数: 344
+* 日程: 2017/02/26 ～ (実施中)
+* 回数: (実施中)
+* 人数: 8
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行 :pencil:議事録
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) :bulb:提案者
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+  * ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617)
+  * ![](/images/users/seikichi_16.png) [seikichi](https://github.com/seikichi)
+
+[読書ノート](/note/10-elixir)
+
 ## #9 ブロックチェーン 仕組みと理論
 
 {:refdef: style="float: right;"}
