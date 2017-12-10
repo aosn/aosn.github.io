@@ -91,7 +91,7 @@ tr:nth-child(2n) {
 }
 
  /* [customize] logo shift */
-.site-header img {
+#logo {
   float: left;
   width: 75px;
   height: 75px;
@@ -182,9 +182,9 @@ tr:nth-child(2n) {
 .page-content h3 { font-size: 130%; }
 .page-content h4 { font-size: 120%; }
 .page-content h5 { font-size: 110%; }
-.page-content p { padding-top: 5px; }
-.page-content ul { margin-left: 15px; padding: 5px; }
-.page-content ol { margin-left: 15px; padding: 5px; }
+.page-content p { padding-top: 2px; }
+.page-content ul { margin-left: 15px; padding: 2px; }
+.page-content ol { margin-left: 15px; padding: 2px; }
 
 /* Home styles */
 /* ----------------------------------------------------------*/
@@ -239,7 +239,7 @@ tr:nth-child(2n) {
 .post-content h6 {
   line-height: 1;
   font-weight: bold;
-  margin: 40px 0 20px;
+  margin: 15px 0 5px;
 }
 
 .post-content h2 {

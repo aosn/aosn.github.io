@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 実績
+title: :book:実績
 ---
 
 ## #11 人月の神話

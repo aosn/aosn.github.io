@@ -94,6 +94,7 @@ Bパート (討論会形式)
 
 ## リンク
 
+* [実績](/1-workshops) / [イベント](/2-events) / [エントリー](/3-entry) / [道具箱](/7-toolbox) / [用語集](/8-glossaries)
 * [運営ポリシー](/policy)
 * [課題本選考状況](https://github.com/aosn/aosn.github.io/projects/1) (GitHub Projects)
 * [検討 Wiki](https://github.com/aosn/aosn.github.io/wiki) (GitHub Wiki)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: イベント
+title: :beers:イベント
 ---
 
 ## [#8 冬の大井町OFF (2017)](/event/8-1202off)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: エントリー
+title: :runner:エントリー
 ---
 
 ## 概要
