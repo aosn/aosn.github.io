@@ -9,7 +9,7 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 
 | #  | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
 |---:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
-| 12 | B | [現場で役立つシステム設計の原則](/workshop/12-principles) | 320 | 2017/12/10 開始予定  |    |  6 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
+| 12 | B | [現場で役立つシステム設計の原則](/workshop/12-principles) | 320 | 2017/12/10 - (実施中)  |    |  6 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 11 | B | [人月の神話](/workshop/11-manmonth) | 321 | 2017/03/26 - 2017/12/03 | 30 |  7 | ![](/images/users/mikan_16.png) mikan |
 | 10 | A | [プログラミングElixir](/workshop/10-elixir) | 344 | 2017/02/26 - (実施中)   |    |  8 | ![](/images/users/LagunaPresa_16.png) LagunaPresa |
 | 9  | A | [ブロックチェーン 仕組みと理論](/workshop/9-blockchain) | 256 | 2016/12/18 - 2017/02/19 |  9 |  6 | ![](/images/users/mikan_16.png) mikan |
