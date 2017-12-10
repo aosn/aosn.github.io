@@ -175,6 +175,10 @@ Enum.eachは戻り値として `:ok` を返す
 
 **OTP-Supervisors-1** `mix new --sup sequence` で出力されるコードが本と手元で違う (`lib/sequence/aplication.ex` が別途作られたり、`import` がなかったり)。バージョンアップで振る舞いが変わった可能性がある。とりあえず `sequence.ex` には手をつけず`application.ex` に `Sequence.Application` モジュールの中を書いていくイメージで進めることとする。
 
+### 第19章
+
+**P237** 関数定義に do の省略記法を使う (`def xxx, do: xxx`) のは初出かも。
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
