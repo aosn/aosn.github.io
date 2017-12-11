@@ -89,14 +89,40 @@ Gradle 読書会の第20回実施
 | 最小同時参加数 | 3 |
 | 平均同時参加数 | 5.38 |
 
-### 参加回数ランキング
+### 参加者推移
 
-| 順位 | 参加者 | 参加回数 |
-|:---:|:-------|:--------:|
-| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 16 |
-| 3 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 13 |
-| 4 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) | 11 |
-| 5 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 10 |
-| 6 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 8 |
-| 7 | ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525) | 7 |
-| 8 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 5 |
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("attendeesChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: Array.apply(1, Array(16)).map(function(_, b) { return b + 1; }),
+    datasets: [{
+      label: '参加者数',
+      data: [7, 5, 5, 5, 6, 7, 5, 4, 5, 8, 5, 6, 5, 5, 5, 3],
+      backgroundColor: colors
+    }]
+  },
+  options: lineChartOptions
+});
+</script>
+
+### 参加回数
+
+<canvas id="rankingChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("rankingChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["mikan", "MrBearing", "intptr-t", "s-hosoai", "akeboshi", "YuichiroSato", "amatubu2525", "LagunaPresa"],
+    datasets: [{
+      label: '参加回数',
+      data: [16, 16, 13, 11, 10, 8, 7, 5],
+      backgroundColor: colors
+    }]
+  },
+  options: horizontalBarChartOptions
+});
+</script>

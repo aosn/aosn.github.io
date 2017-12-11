@@ -100,14 +100,40 @@ title: マイクロサービスアーキテクチャ
 | 最小同時参加数 | 3 |
 | 平均同時参加数 | 4.60 |
 
-### 参加回数ランキング
+### 参加者推移
 
-| 順位 | 参加者 | 参加回数 |
-|:---:|:-------|:--------:|
-| 1 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 20 |
-| 2 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) | 19 |
-| 3 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr) | 16 |
-| 5 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 11 |
-| 6 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 8 |
-| 7 | ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617) | 2 |
-| 8 | ![](/images/users/seikichi_16.png) [seikichi](https://github.com/seikichi) | 1 |
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("attendeesChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: Array.apply(1, Array(20)).map(function(_, b) { return b + 1; }),
+    datasets: [{
+      label: '参加者数',
+      data: [4,5,3,4,5,4,4,4,6,4,5,4,5,5,4,5,4,5,7,5],
+      backgroundColor: colors
+    }]
+  },
+  options: lineChartOptions
+});
+</script>
+
+### 参加回数
+
+<canvas id="rankingChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("rankingChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["LagunaPresa", "mikan", "intptr-t", "kzt-ysmr", "akeboshi", "MrBearing", "budougumi0617", "seikichi"],
+    datasets: [{
+      label: '参加回数',
+      data: [20, 19, 16, 16, 11, 8, 2, 1],
+      backgroundColor: colors
+    }]
+  },
+  options: horizontalBarChartOptions
+});
+</script>

@@ -143,3 +143,41 @@ title: 人月の神話
 | 5 | ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr) | 15 |
 | 6 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 12 |
 | 7 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 7 |
+
+### 参加者推移
+
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("attendeesChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: Array.apply(1, Array(30)).map(function(_, b) { return b + 1; }),
+    datasets: [{
+      label: '参加者数',
+      data: [6,3,5,6,7,4,4,5,6,5,3,3,5,4,3,5,5,4,4,4,3,5,5,3,3,3,3,3,5,4],
+      backgroundColor: colors
+    }]
+  },
+  options: lineChartOptions
+});
+</script>
+
+### 参加回数
+
+<canvas id="rankingChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("rankingChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["intptr-t", "mikan", "LagunaPresa", "budougumi0617", "kzt-ysmr", "MrBearing", "akeboshi"],
+    datasets: [{
+      label: '参加回数',
+      data: [28, 25, 23, 16, 15, 12, 7],
+      backgroundColor: colors
+    }]
+  },
+  options: horizontalBarChartOptions
+});
+</script>

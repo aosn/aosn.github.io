@@ -90,14 +90,40 @@ title: 詳解 Apache Spark
 | 最小同時参加数 | 3 |
 | 平均同時参加数 | 4.89 |
 
-### 参加回数ランキング
+### 参加者推移
 
-| 順位 | 参加者 | 参加回数 |
-|:---:|:-------|:--------:|
-| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) | 18 |
-| 2 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 17 |
-| 3 | ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr) | 16 |
-| 4 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 15 |
-| 5 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 12 |
-| 6 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 8 |
-| 7 | ![](/images/users/amatubu2525_16.png) [amatubu2525](https://github.com/amatubu2525) | 2 |
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("attendeesChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: Array.apply(1, Array(18)).map(function(_, b) { return b + 1; }),
+    datasets: [{
+      label: '参加者数',
+      data: [7,7,5,5,6,5,6,5,5,3,4,5,3,5,5,4,4,4],
+      backgroundColor: colors
+    }]
+  },
+  options: lineChartOptions
+});
+</script>
+
+### 参加回数
+
+<canvas id="rankingChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("rankingChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["mikan", "LagunaPresa", "kzt-ysmr", "intptr-t", "akeboshi", "MrBearing", "amatubu2525"],
+    datasets: [{
+      label: '参加回数',
+      data: [18, 17, 16, 15, 12, 8, 2],
+      backgroundColor: colors
+    }]
+  },
+  options: horizontalBarChartOptions
+});
+</script>

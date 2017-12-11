@@ -83,12 +83,40 @@ title: 入門 React
 | 最小同時参加数 | 3 |
 | 平均同時参加数 | 4.80 |
 
-### 参加回数ランキング
+### 参加者推移
 
-| 順位 | 参加者 | 参加回数 |
-|:---:|:-------|:--------:|
-| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 10 |
-| 3 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 8 |
-| 5 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) | 6 |
-| 6 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 4 |
-| 7 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 2 |
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("attendeesChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: Array.apply(1, Array(10)).map(function(_, b) { return b + 1; }),
+    datasets: [{
+      label: '参加者数',
+      data: [6, 7, 6, 5, 4, 5, 5, 3, 3, 4],
+      backgroundColor: colors
+    }]
+  },
+  options: lineChartOptions
+});
+</script>
+
+### 参加回数
+
+<canvas id="rankingChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("rankingChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["mikan", "akeboshi", "intptr-t", "LagunaPresa", "s-hosoai", "MrBearing", "YuichiroSato"],
+    datasets: [{
+      label: '参加回数',
+      data: [10, 10, 8, 8, 6, 4, 2],
+      backgroundColor: colors
+    }]
+  },
+  options: horizontalBarChartOptions
+});
+</script>

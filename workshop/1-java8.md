@@ -150,13 +150,40 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 | 最小同時参加数 | 4 |
 | 平均同時参加数 | 5.51 |
 
-### 参加回数ランキング
+### 参加者推移
 
-| 順位 | 参加者 | 参加回数 |
-|:---:|:-------|:--------:|
-| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 43 |
-| 3 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 42 |
-| 4 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 36 |
-| 5 | ![](/images/users/YuichiroSato_16.png) [YuichiroSato](https://github.com/YuichiroSato) | 34 |
-| 6 | ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai) | 32 |
-| 7 | ![](/images/users/namichan0801_16.png) [namichan0801](https://github.com/namichan0801) | 6 |
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("attendeesChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: Array.apply(1, Array(43)).map(function(_, b) { return b + 1; }),
+    datasets: [{
+      label: '参加者数',
+      data: [5, 4, 6, 5, 6, 4, 5, 5, 5, 6, 5, 6, 6, 6, 6, 6, 6, 6, 6, 5, 6, 6, 6, 5, 6, 6, 6, 5, 6, 6, 5, 4, 4, 6, 5, 6, 6, 6, 5, 6, 5, 6, 6],
+      backgroundColor: colors
+    }]
+  },
+  options: lineChartOptions
+});
+</script>
+
+### 参加回数
+
+<canvas id="rankingChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("rankingChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["mikan", "LagunaPresa", "intptr-t", "MrBearing", "YuichiroSato", "s-hosoai", "namichan0801"],
+    datasets: [{
+      label: '参加回数',
+      data: [43, 43, 42, 36, 34, 32, 6],
+      backgroundColor: colors
+    }]
+  },
+  options: horizontalBarChartOptions
+});
+</script>

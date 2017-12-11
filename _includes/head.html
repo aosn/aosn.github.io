@@ -6,6 +6,57 @@
   <meta name="description" content="{{ site.description }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/main3.css" | prepend: site.baseurl }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+  <script>
+    colors = [
+      'rgba(92, 186, 230, 0.7)', 'rgba(182, 217, 87, 0.7)', 'rgba(250, 195, 100, 0.7)', 'rgba(140, 211, 255, 0.7)',
+      'rgba(217, 152, 203, 0.7)', 'rgba(242, 210, 73, 0.7)', 'rgba(147, 185, 198, 0.7)', 'rgba(204, 197, 168, 0.7)',
+      'rgba(82, 186, 204, 0.7)', 'rgba(219, 219, 70, 0.7)', 'rgba(152, 170, 251, 0.7)'];
+    lineChartOptions = {
+      scales: {
+        yAxes: [{
+          ticks: {
+            beginAtZero:true
+          }
+        }]
+      }
+    };
+    horizontalBarChartOptions = {
+      scales: {
+        xAxes: [{
+          ticks: {
+            beginAtZero:true
+          }
+        }]
+      }
+    }
+    /*
+    Chart.plugins.register({
+      afterDatasetsDraw: function(chart, easing) {
+        var ctx = chart.ctx;
+        chart.data.datasets.forEach(function (dataset, i) {
+          var meta = chart.getDatasetMeta(i);
+          if (!meta.hidden) {
+            meta.data.forEach(function(element, index) {
+              ctx.fillStyle = 'rgb(0, 0, 0)';
+              var fontSize = 16;
+              var fontStyle = 'normal';
+              var fontFamily = 'Helvetica Neue';
+              ctx.font = Chart.helpers.fontString(fontSize, fontStyle, fontFamily);
+              var dataString = dataset.data[index].toString();
+              ctx.textAlign = 'center';
+              ctx.textBaseline = 'middle';
+              var top = 10;
+              var right = 15;
+              var position = element.tooltipPosition();
+              ctx.fillText(dataString, position.x + right, position.y - (fontSize / 2) + top);
+            });
+          }
+        });
+      }
+    });
+    */
+  </script>
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106952990-1"></script>
   <script>

@@ -84,10 +84,40 @@ title: ブロックチェーン 仕組みと理論
 | 最小同時参加数 | 3 |
 | 平均同時参加数 | 4.67 |
 
-### 参加回数ランキング
+### 参加者推移
 
-| 順位 | 参加者 | 参加回数 |
-|:---:|:-------|:--------:|
-| 1 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr) ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) | 8 |
-| 5 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 7 |
-| 6 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 3 |
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("attendeesChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: Array.apply(1, Array(9)).map(function(_, b) { return b + 1; }),
+    datasets: [{
+      label: '参加者数',
+      data: [6,4,5,4,5,3,5,4,6],
+      backgroundColor: colors
+    }]
+  },
+  options: lineChartOptions
+});
+</script>
+
+### 参加回数
+
+<canvas id="rankingChart" width="400" height="200"></canvas>
+<script>
+var ctx = document.getElementById("rankingChart").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["LagunaPresa", "intptr-t", "kzt-ysmr", "mikan", "akeboshi", "MrBearing"],
+    datasets: [{
+      label: '参加回数',
+      data: [8, 8, 8, 8, 7, 3],
+      backgroundColor: colors
+    }]
+  },
+  options: horizontalBarChartOptions
+});
+</script>
