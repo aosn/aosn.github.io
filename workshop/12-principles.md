@@ -59,6 +59,7 @@ title: 現場で役立つシステム設計の原則
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) ![](/images/users/budougumi0617_16.png) | Pages | Other work |
 |---:|:----------------------:|:-:|:---------------------:|:-----------------:|:-----------------------|
 |  1 | 2017-12-10 23:00-23:30 | 4 | :o::o::o::x::x::o:    | 第1章             |                        |
+|  2 | 2017-12-17 23:00-23:30 | 3 | :o::x::o::x::x::o:    | 第2章             |                        |
 
 ## 成果物
 

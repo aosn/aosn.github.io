@@ -179,6 +179,11 @@ Enum.eachは戻り値として `:ok` を返す
 
 **P237** 関数定義に do の省略記法を使う (`def xxx, do: xxx`) のは初出かも。
 
+### 第20章
+
+**P256** 練習問題 MacrosAndCodeEvaluation-3 問題文中 `Elxiir` と typo しているところがある。
+
+
 ## 参考情報
 
 * [The Pragmatic Bookshelf - Programming Elixir](https://forums.pragprog.com/forums/322) - 原書のフォーラム
