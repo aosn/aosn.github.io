@@ -34,3 +34,17 @@ title: 読書ノート - 現場で役立つシステム設計の原則
 * **P66** Enum のアプローチも良いけど最近の Better Java 系などの言語だと網羅性検査がある型のパターンマッチで済ませることも
   * Go の type switch は網羅性チェックない・・・
   * Java だと `instanceof` は良くないものという認識があるが、C# とかだと動的型も部分的に持ち込こまれているのでナチュラルにやることがある
+
+### 第3章
+
+* **P68** ORマッパー使ってるとデータクラス量産してしまいやすい
+  * ドメインモデル貧血症のことだね
+  * Lombok とか使ってナチュラルにデータクラスを量産してしまうシステムをよく見る
+* **P73** [GopherCon 2017 の Anti-patterns](https://github.com/gophercon/2017-talks/blob/master/EdwardMuller-GoAntipatterns/GoAntipatterns.pdf) (33スライド目) でも同じ話題あったような
+  * StringUtils 的な業務ロジック・ドメインと関係ないものなら util 合ってもいいような気もするけど、いろんなライブラリがこの名前で実装しててなんだかなぁとも思う
+  *  util とか common とかあると困ったらここに突っ込んでしまう、肥溜め化する
+* **P81** ドメインオブジェクト用のユーティリティメソッド (インスタンス変数はさわらない) は無理に移動せずそのまま static メソッドでぶらさげても良いのでは？
+  * Customer 用に Customers クラス作って static メソッドおくとかやらない？
+  * この本だと複数形はファーストクラスコレクションに付ける名前って感じ
+* **P82** でかすぎる API は使うのもつらいよね
+  * RxJava の [Observable](http://reactivex.io/RxJava/2.x/javadoc/io/reactivex/Observable.html) とか [Flowable](http://reactivex.io/RxJava/2.x/javadoc/io/reactivex/Flowable.html) とか
