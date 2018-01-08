@@ -48,3 +48,13 @@ title: 読書ノート - 現場で役立つシステム設計の原則
   * この本だと複数形はファーストクラスコレクションに付ける名前って感じ
 * **P82** でかすぎる API は使うのもつらいよね
   * RxJava の [Observable](http://reactivex.io/RxJava/2.x/javadoc/io/reactivex/Observable.html) とか [Flowable](http://reactivex.io/RxJava/2.x/javadoc/io/reactivex/Flowable.html) とか
+
+### 第4章
+
+* **P94** 本当に重複なくなるの!?
+  * 継承とか使いまくって重複とか見かけ上消えてもあんまりうれしくないんだよね
+  * 日本語の業務ロジック、無理やり英語に直訳したせいでどこに何か書いてあるのかわからなくなったりすることもある。ユビキタス言語的にちゃんと定義するか、あとは日本語のままプログラミングするとかしないとね
+* **P107** パッケージ図の依存関係、DI 使うとある程度変えることもできたりするね
+* **P121** こういったバリデーション系は C# の Attribute や Java の Annotation 使っていい感じにできるよって ThoughtWorks アンソロジーに書いてあった
+
+
