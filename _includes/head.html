@@ -28,34 +28,13 @@
             beginAtZero:true
           }
         }]
+      },
+      elements: {
+        line: {
+          tension: 0
+        }
       }
     }
-    /*
-    Chart.plugins.register({
-      afterDatasetsDraw: function(chart, easing) {
-        var ctx = chart.ctx;
-        chart.data.datasets.forEach(function (dataset, i) {
-          var meta = chart.getDatasetMeta(i);
-          if (!meta.hidden) {
-            meta.data.forEach(function(element, index) {
-              ctx.fillStyle = 'rgb(0, 0, 0)';
-              var fontSize = 16;
-              var fontStyle = 'normal';
-              var fontFamily = 'Helvetica Neue';
-              ctx.font = Chart.helpers.fontString(fontSize, fontStyle, fontFamily);
-              var dataString = dataset.data[index].toString();
-              ctx.textAlign = 'center';
-              ctx.textBaseline = 'middle';
-              var top = 10;
-              var right = 15;
-              var position = element.tooltipPosition();
-              ctx.fillText(dataString, position.x + right, position.y - (fontSize / 2) + top);
-            });
-          }
-        });
-      }
-    });
-    */
   </script>
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106952990-1"></script>
