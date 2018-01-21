@@ -183,6 +183,10 @@ Enum.eachは戻り値として `:ok` を返す
 
 **P256** 練習問題 MacrosAndCodeEvaluation-3 問題文中 `Elxiir` と typo しているところがある。
 
+### 第22章
+
+**P276** 練習問題 Protocols-4 そのままの `inspect` で良いのでは・・・
+
 
 ## 参考情報
 
