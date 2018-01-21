@@ -21,7 +21,7 @@ title: Real World HTTP
 * 頁数: 360
 * ISBN: 978-4-87311-804-8
 
-正誤表: https://github.com/oreilly-japan/real-world-http
+正誤表: [https://github.com/oreilly-japan/real-world-http](https://github.com/oreilly-japan/real-world-http)
 
 ### 投票結果
 

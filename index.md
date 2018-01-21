@@ -25,7 +25,8 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 
 Aパート (輪読会形式・新書限定)
 
-[![プログラミングElixir](/images/cover-elixir.jpg)](/workshop/10-elixir)
+[![](/images/cover-http.png "Real World HTTP")](/workshop/13-http)
+[![](/images/cover-elixir.jpg "プログラミングElixir")](/workshop/10-elixir)
 [![](/images/cover-blockchain.png "ブロックチェーン 仕組みと理論")](/workshop/9-blockchain)
 [![](/images/cover-spark.jpg "詳解 Apache Spark")](/workshop/7-spark)
 [![](/images/cover-react.png "入門 React")](/workshop/5-react)
