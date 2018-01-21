@@ -61,5 +61,21 @@ title: 読書ノート - 現場で役立つシステム設計の原則
 * **P129** Java 8 の `Optional` 紹介するんなら、コード中の for 文を `Stream#anyMatch` 使うぐらいはやってほしい
 * **P137** ようはコミュ力の話だね
 
+### 第5章
 
+* **P150** この図で言うと、ドメインモデルはデータソースを触れない
+* **P150** この図は Spring Framework に振りすぎている気がする、他のフレームワークだとこはならなかったりする
+* **P152** `@Autowired` のフィールドインジェクションは非推奨、コンストラクタの引数で注入する
+* **P160** 登録参照を分けるスタイルは CQRS と呼ばれる
+* **P164** ここで言うシナリオはサービスでよいが、CQRS 的なのはリポジトリでやることじゃないかな
+* **P165** 「契約による設計」と「防御的プログラミング」の双方に違和感。Twitter でディスカッション
 
+柴田さんからのコメント:
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">確かに「契約による設計」と「防御的プログラミング」の両方を勘違いしている説明になっていますね。不正な値や不正な呼び出し順序に対する振る舞いもきちんと「契約として設計」し、その契約を守った呼び出しであるかを防御的にプログラミングしないと、無駄なデバッグ工数が発生するだけですからね。</p>&mdash; Yoshiki Shibata/柴田芳樹 (@yoshiki_shibata) <a href="https://twitter.com/yoshiki_shibata/status/955000080213319680?ref_src=twsrc%5Etfw">2018年1月21日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+対する著者の反論:
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-lang="ja"><p lang="ja" dir="ltr">メイヤーは、呼び出す側が必ず契約を守ることを前提にしてコードを書くスタイルを重視して、それを契約による設計と名付けたと思います。契約の表明は実行用のコードとは別にすべきだと。<br>私の理解はこの回答に近いですね。<a href="https://t.co/XEKToVvMcb">https://t.co/XEKToVvMcb</a><br>本でうまく説明できていないかもしれませんが。</p>&mdash; 増田 亨． (@masuda220) <a href="https://twitter.com/masuda220/status/955029452894830592?ref_src=twsrc%5Etfw">2018年1月21日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
