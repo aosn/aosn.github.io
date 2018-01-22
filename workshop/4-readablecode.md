@@ -91,10 +91,14 @@ Gradle 読書会の第20回実施
 
 ### 参加者推移
 
+<canvas id="timesChart" width="400" height="200"></canvas>
+
+### 参加回数
+
 <canvas id="attendeesChart" width="400" height="200"></canvas>
+
 <script>
-var ctx = document.getElementById("attendeesChart").getContext('2d');
-var myChart = new Chart(ctx, {
+var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
   type: 'line',
   data: {
     labels: Array.apply(1, Array(16)).map(function(_, b) { return b + 1; }),
@@ -106,14 +110,7 @@ var myChart = new Chart(ctx, {
   },
   options: lineChartOptions
 });
-</script>
-
-### 参加回数
-
-<canvas id="rankingChart" width="400" height="200"></canvas>
-<script>
-var ctx = document.getElementById("rankingChart").getContext('2d');
-var myChart = new Chart(ctx, {
+var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
   type: 'horizontalBar',
   data: {
     labels: ["mikan", "MrBearing", "intptr-t", "s-hosoai", "akeboshi", "YuichiroSato", "amatubu2525", "LagunaPresa"],
