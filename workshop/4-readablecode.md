@@ -98,28 +98,5 @@ Gradle 読書会の第20回実施
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(16)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [7, 5, 5, 5, 6, 7, 5, 4, 5, 8, 5, 6, 5, 5, 5, 3],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["mikan", "MrBearing", "intptr-t", "s-hosoai", "akeboshi", "YuichiroSato", "amatubu2525", "LagunaPresa"],
-    datasets: [{
-      label: '参加回数',
-      data: [16, 16, 13, 11, 10, 8, 7, 5],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("4-readablecode");
 </script>

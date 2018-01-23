@@ -103,28 +103,5 @@ title: Unix考古学
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d')ctx, {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(19)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [6,6,5,5,5,5,6,4,4,5,5,5,4,4,5,3,4,3,2],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["mikan", "intptr-t", "akeboshi", "MrBearing", "LagunaPresa", "s-hosoai", "YuichiroSato"],
-    datasets: [{
-      label: '参加回数',
-      data: [19, 16, 15, 14, 14, 6, 2],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("6-unix");
 </script>

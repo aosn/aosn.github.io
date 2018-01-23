@@ -159,28 +159,5 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(43)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [5, 4, 6, 5, 6, 4, 5, 5, 5, 6, 5, 6, 6, 6, 6, 6, 6, 6, 6, 5, 6, 6, 6, 5, 6, 6, 6, 5, 6, 6, 5, 4, 4, 6, 5, 6, 6, 6, 5, 6, 5, 6, 6],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["mikan", "LagunaPresa", "intptr-t", "MrBearing", "YuichiroSato", "s-hosoai", "namichan0801"],
-    datasets: [{
-      label: '参加回数',
-      data: [43, 43, 42, 36, 34, 32, 6],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("1-java8");
 </script>

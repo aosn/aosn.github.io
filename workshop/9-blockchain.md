@@ -93,28 +93,5 @@ title: ブロックチェーン 仕組みと理論
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(9)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [6,4,5,4,5,3,5,4,6],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["LagunaPresa", "intptr-t", "kzt-ysmr", "mikan", "akeboshi", "MrBearing"],
-    datasets: [{
-      label: '参加回数',
-      data: [8, 8, 8, 8, 7, 3],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("9-blockchain");
 </script>

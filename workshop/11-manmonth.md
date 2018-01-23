@@ -141,28 +141,5 @@ title: 人月の神話
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(30)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [6,3,5,6,7,4,4,5,6,5,3,3,5,4,3,5,5,4,4,4,3,5,5,3,3,3,3,3,5,4],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["intptr-t", "mikan", "LagunaPresa", "budougumi0617", "kzt-ysmr", "MrBearing", "akeboshi"],
-    datasets: [{
-      label: '参加回数',
-      data: [28, 25, 23, 16, 15, 12, 7],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("11-manmonth");
 </script>

@@ -99,28 +99,5 @@ title: 詳解 Apache Spark
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(18)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [7,7,5,5,6,5,6,5,5,3,4,5,3,5,5,4,4,4],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["mikan", "LagunaPresa", "kzt-ysmr", "intptr-t", "akeboshi", "MrBearing", "amatubu2525"],
-    datasets: [{
-      label: '参加回数',
-      data: [18, 17, 16, 15, 12, 8, 2],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("7-spark");
 </script>

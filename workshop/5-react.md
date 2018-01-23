@@ -92,28 +92,5 @@ title: 入門 React
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(10)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [6, 7, 6, 5, 4, 5, 5, 3, 3, 4],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["mikan", "akeboshi", "intptr-t", "LagunaPresa", "s-hosoai", "MrBearing", "YuichiroSato"],
-    datasets: [{
-      label: '参加回数',
-      data: [10, 10, 8, 8, 6, 4, 2],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("5-react");
 </script>

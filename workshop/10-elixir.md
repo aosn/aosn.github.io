@@ -126,15 +126,14 @@ title: プログラミングElixir
 | 最小同時参加数 | 2 |
 | 平均同時参加数 | 4.39 |
 
-### 参加回数ランキング
+### 参加者推移
 
-| 順位 | 参加者 | 参加回数 |
-|:---:|:-------|:--------:|
-| 1 | ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) | 39 |
-| 2 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t) | 38 |
-| 3 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) | 29 |
-| 3 | ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617) | 29 |
-| 5 | ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr) | 22 |
-| 6 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing) | 18 |
-| 7 | ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi) | 13 |
-| 8 | ![](/images/users/seikichi_16.png) [seikichi](https://github.com/seikichi) | 6 |
+<canvas id="timesChart" width="400" height="200"></canvas>
+
+### 参加回数
+
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+
+<script>
+handleEntryCharts("10-elixir");
+</script>

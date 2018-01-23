@@ -109,28 +109,5 @@ title: マイクロサービスアーキテクチャ
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-  type: 'line',
-  data: {
-    labels: Array.apply(1, Array(20)).map(function(_, b) { return b + 1; }),
-    datasets: [{
-      label: '参加者数',
-      data: [4,5,3,4,5,4,4,4,6,4,5,4,5,5,4,5,4,5,7,5],
-      backgroundColor: colors
-    }]
-  },
-  options: lineChartOptions
-});
-var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-  type: 'horizontalBar',
-  data: {
-    labels: ["LagunaPresa", "mikan", "intptr-t", "kzt-ysmr", "akeboshi", "MrBearing", "budougumi0617", "seikichi"],
-    datasets: [{
-      label: '参加回数',
-      data: [20, 19, 16, 16, 11, 8, 2, 1],
-      backgroundColor: colors
-    }]
-  },
-  options: horizontalBarChartOptions
-});
+handleEntryCharts("8-microservices");
 </script>

@@ -73,3 +73,18 @@ title: 現場で役立つシステム設計の原則
 ### 読書ノート
 
 [読書ノート](/note/12-principles)をご覧ください。
+
+## 統計
+
+### 参加者推移
+
+<canvas id="timesChart" width="400" height="200"></canvas>
+
+### 参加回数
+
+<canvas id="attendeesChart" width="400" height="200"></canvas>
+
+<script>
+handleEntryCharts("1-java8");
+</script>
+
