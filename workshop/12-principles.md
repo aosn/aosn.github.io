@@ -85,6 +85,6 @@ title: 現場で役立つシステム設計の原則
 <canvas id="attendeesChart" width="400" height="200"></canvas>
 
 <script>
-handleEntryCharts("1-java8");
+handleEntryCharts("12-principles"); // 12
 </script>
 
