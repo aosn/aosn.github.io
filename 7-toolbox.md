@@ -1,6 +1,6 @@
 ---
 layout: page
-title: :package:道具箱
+title: 📦道具箱
 ---
 
 読書会運営や普段使いに使える (?) 道具箱です。
