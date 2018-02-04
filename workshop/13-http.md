@@ -54,7 +54,7 @@ title: Real World HTTP
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/MrBearing_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/kzt-ysmr_16.png) ![](/images/users/budougumi0617_16.png) | Pages | Misc. |
 |---:|:----------------------:|:-:|:------------------------:|:----------|:-------------------------|
 |  1 | 2018-01-28 21:00-23:00 | 4 | :o::o::o::o::x::x: | 1 - 6  | まえがき          |
-|  2 | 2018-02-04 21:00-23:00 | 3 | :o::x::o::o::x::x: | 6 - 21 |                  |
+|  2 | 2018-02-04 21:00-23:00 | 3 | :o::x::o::x::x::o: | 6 - 21 |                  |
 
 ## 成果物
 
