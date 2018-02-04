@@ -20,4 +20,11 @@ title: 読書ノート - Real World HTTP
 
 * **xi** Gogrand は GoLand として正式リリースされた
 
+### 第1章
 
+* **P11** `Bearer` OAuth でよくみる (参考: [RFC6750](https://tools.ietf.org/html/rfc6750#section-6.1.1))
+  * JWT でも見る
+* **P14** 脚注に Turbo Linux とあるが、正確には Turbolinux のはず
+* **P15** `curl -v https://raw.githubusercontent.com/mikan/white-rabbit/master/app.js` とやったら `X-Content-Type-Options: nosniff` かえってきた！さすが GitHub
+* **P19** 表のメソッド変更「○」と「許可」の差異がわからない
+* **P21** Java の `java.io.File` クラス、`toURL()` と ``toURI()` があって前者が非推奨
