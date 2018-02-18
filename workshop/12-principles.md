@@ -47,10 +47,10 @@ title: 現場で役立つシステム設計の原則
 
 | ID                                                                                        | 地域     | 備考      |
 |:------------------------------------------------------------------------------------------|:---------|:----------|
-| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                         | 神奈川県 | 調整役     |
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                         | 神奈川県 | 司会進行    |
 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)             | 大阪府   | 締め役     |
 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)                | 愛知県   | 　         |
-| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)       | 東京都   | 司会進行   |
+| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)       | 東京都   |            |
 | ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)                | 山形県   | 　         |
 | ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617) | 神奈川県 | 電子版     |
 
@@ -67,8 +67,7 @@ title: 現場で役立つシステム設計の原則
 |  7 | 2018-01-28 23:00-23:30 | 4 | :o::o::o::o::x::x:    | 第6章             |                        |
 |  8 | 2018-02-04 23:00-23:30 | 3 | :o::x::o::x::x::o:    | 第7章             |                        |
 
-* 第4章は 93-122 と 123-148 の 2 回に分割予定
-* 2018-02-11 は参加者不足により流会
+* 2018-02-11, 2018-02-18 は参加者不足により流会
 
 ## 成果物
 
