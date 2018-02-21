@@ -5,7 +5,7 @@ since: November 23, 2014
 description: "AOSN読書会は、IT分野の技術書をオンラインで輪読する読書会です。"
 copyright: "2014-2018 Alice on Sunday Nights Workshop"
 baseurl: ""
-url: "http://aosn.ws"
+url: "https://aosn.ws"
 twitter_username: aosn_ws
 github_username: aosn
 
