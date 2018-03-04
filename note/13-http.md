@@ -48,7 +48,13 @@ title: 読書ノート - Real World HTTP
 * **P35** WebP は「ウェッピー」と読むらしい (参考: [Wikipedia](https://ja.wikipedia.org/wiki/WebP))
 * **P37** Brotli は元の言葉 (Brötli)は「ブレトリ」と読むらしいが・・・ (参考: [Apache httpd 2.4 + Brotli（mod_brotli）インストールメモ | あぱーブログ](https://blog.apar.jp/linux/7956/))
 * **P48** HTTP 圧縮といえば 2ch の8月危機！
+* **P41** Path 属性は `/` を指定すると全てのパスにクッキーを送信する
+* **P46** 第一段落3行目「データを送ります、」は「データを送ります。」のような
 
+→ 要 Errata 報告
 
+* **P51** 第一段落1行目「このPragmaヘッダーに含めることできるペイロード」、「ら」が抜けている
+
+→ 要 Errata 報告
 
 
