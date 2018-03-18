@@ -3,8 +3,8 @@ layout: subpage
 title: ベタープログラマ
 ---
 
-[![ベタープログラマ](/images/cover-betterprog.gif)](https://www.oreilly.co.jp/books/9784873118208/)
-[![Becoming a Better Programmer](/images/cover-betterprog-en.gif)](http://shop.oreilly.com/product/0636920033929.do)
+[![ベタープログラマ](/images/cover-betterprog.png)](https://www.oreilly.co.jp/books/9784873118208/)
+[![Becoming a Better Programmer](/images/cover-betterprog-en.png)](http://shop.oreilly.com/product/0636920033929.do)
 
 「ベタープログラマ」読書会の記録です。
 
