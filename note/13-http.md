@@ -73,5 +73,42 @@ title: 読書ノート - Real World HTTP
 
 → 要 Errata 報告
 
+* **P69** 第1段落2行目「`sampleget`」とあるが「`simpleget`」の間違いと思われる
 
+→ 要 Errata 報告
 
+* **P71** 第1段落「`Read()` メソッド」「`Write()` メソッド」とあるが、どちらもメソッドではなく関数では
+
+→ 要 Errata 報告
+
+* **P71** 第1段落「`io.Writer()`」とあるが、関数ではなくインタフェースなので `io.Writer` が正しそう
+
+→ Errata 報告？
+
+* **P71** 「バイト配列」ではなく「バイトスライス」では？
+
+→ 中で Bytes() を呼んでいるので少なくとも現時点ではバイトスライスで間違いない
+→ Errata 報告？
+
+* **P73** `http.Get` とあるが、他にならうと `http.Get()` とかっこをつけるべきでは
+
+→ Errata 報告？
+
+* **P74** 第2段落3行目、`x-www-form-urlencode` とあるが `x-www-form-urlencoded` と間違いと思われる (末尾に `d` が抜けている)
+
+→ 要 Errata 報告
+
+* **P75** 「`http.Post()` メソッド」とあるが、メソッドではなく関数では
+
+→ 要 Errata 報告
+
+* **P75** 「`http.Post`」は「`http.Post()`」と書いたほうが統一感ある
+
+→ Errata 報告？
+
+* **P76** `io.Copy` の戻り値のエラーを無視しているが、これいいんだっけ？
+
+→ エラーにならないことが明らかなら...
+
+* **P79** `httputil.DumpResponse` はどんな出力になる？
+  * GoDoc で試せる: https://golang.org/pkg/net/http/httputil/#DumpResponse
