@@ -37,6 +37,7 @@ Aパート (輪読会形式・新書限定)
 
 Bパート (討論会形式)
 
+[![](/images/cover-betterprog.gif "ベタープログラマ")](/workshop/14-betterprog)
 [![](/images/cover-principles.jpg "現場で役立つシステム設計の原則")](/workshop/12-principles)
 [![](/images/cover-manmonth.jpg "人月の神話")](/workshop/11-manmonth)
 [![](/images/cover-microservices.jpg "マイクロサービスアーキテクチャ")](/workshop/8-microservices)
