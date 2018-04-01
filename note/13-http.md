@@ -112,3 +112,42 @@ title: 読書ノート - Real World HTTP
 
 * **P79** `httputil.DumpResponse` はどんな出力になる？
   * GoDoc で試せる: https://golang.org/pkg/net/http/httputil/#DumpResponse
+
+* **P89** 「`PUT` と `DELETE` が必須のメソッドとなった」とあるが、必須とは？
+  * サーバーは適切な応答を返さないといけないとか？
+
+* **P96** macOS High Sieera の curl は `--cirt-status` 動作するが、 Sierra の curl だとエラーが出る・・・
+
+Sierra:
+
+```
+$ curl --cert-status https://twitter.com
+curl: (4) A requested feature, protocol or option was not found built-in in this libcurl due to a build-time decision.
+```
+
+High Sierra:
+
+```
+$ curl --cert-status https://twitter.com
+curl: (91) No OCSP response received
+```
+
+* **P98** 復号化という言葉を使っているが、「復号」と化をつけないのが一般的では
+
+* **P101** 第1段落「Xsをサーバー側からクライアントに送ります」とあるが、クライアント側からサーバーに送ります、では
+
+→ 要 Errata 報告
+
+* **P105** 最後の段落「Google の証明証」とあるが「Google の証明書」では
+
+→ 要 Errata 報告
+
+* **P113** curl の実行結果にある `[master]` ってなんだろう？
+  * コピペミスみたいな気がする
+
+→ 要 Errata 報告
+
+
+
+
+
