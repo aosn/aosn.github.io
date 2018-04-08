@@ -68,3 +68,18 @@ title: 読書ノート - ベタープログラマ
 
 * **P58** Rails は見えないものが多すぎてチーム開発つらい
   * "「Ruby そのものが自由すぎる」だとか、「他人の書いた Rails コードを読みたくない」だとかいう批判をよく聞くけど、そういった声は基本的に5人以上 で Rails を触ってしまった場合に起きる問題である。" (参考: [Ruby on Rails の魅力と思想 - ボクココ](http://www.bokukoko.info/entry/2018/03/28/221026))
+
+### 第7章
+
+* **P62** とんでもない汚物にはふたをしてしまうな :innocent:
+  * 無理に保守するよりスクラップしてしまいたい
+  * 式年遷宮とか、いまやIT用語だね
+  * EOL で強制的に発動するやつも
+  * P64 に繋がる
+
+### 第8章
+
+* **P72**
+  * `malloc` の戻り値、チェックしてますか？ (参考: [MEM32-C. メモリ割り当てエラーを検出し、対処する](https://www.jpcert.or.jp/sc-rules/c-mem32-c.html))
+  * [awesome go linters](https://github.com/golangci/awesome-go-linters) ええで
+
