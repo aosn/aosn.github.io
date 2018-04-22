@@ -58,7 +58,7 @@
     }
     function handleEntryCharts(key) {
       const request = new XMLHttpRequest();
-      request.open("GET", "https://s3-ap-northeast-1.amazonaws.com/ws.aosn.chart/" + key);
+      request.open("GET", "https://chart.aosn.ws/" + key);
       request.addEventListener("load", (event) => {
         if (event.target.status !== 200) {
           console.log(`[chartgen] ${event.target.status}: ${event.target.statusText}`);
