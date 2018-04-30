@@ -147,7 +147,8 @@ curl: (91) No OCSP response received
 
 → 要 Errata 報告
 
-
+* **P127** `If-Range` 実際にどんなところで使うんだろう？
+  - `If-` 系いくつかあるみたい (参考: [tohoho](http://www.tohoho-web.com/ex/http.htm#If-Range))
 
 
 
