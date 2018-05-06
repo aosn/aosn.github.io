@@ -150,5 +150,12 @@ curl: (91) No OCSP response received
 * **P127** `If-Range` 実際にどんなところで使うんだろう？
   - `If-` 系いくつかあるみたい (参考: [tohoho](http://www.tohoho-web.com/ex/http.htm#If-Range))
 
+* **P142** SSO プロトコルの SAML が SOAP ベースで実装はつらい
 
+* **P145** JSON-RPC は 1.0 と 2.0 があり、ここの例は 2.0。Go の [net/rpc/jsonrpc](https://golang.org/pkg/net/rpc/jsonrpc/) は 1.0 向けなので注意。
 
+* **P151** 例5-13、html のとじタグ (`</html>`) がない
+
+→ 誤植？
+
+* **P167** Sierra は `SecureTransport` だが HighSierra は `LibreSSL` に変わっている

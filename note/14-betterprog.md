@@ -123,3 +123,28 @@ title: 読書ノート - ベタープログラマ
   * Red Green Refactor の枠組みでテスト強度をどうあげていくか (やや脱線)
   * 1回を濃くするか、何回も回すかなどいくつかのアプローチがありそう
   * 4: 許容できるバグの数、結局はビジネス的な天秤かなという気がする
+
+### 第11章
+
+* **P97** 皮下テスト (subcutaneous test) って初めて聞いた
+  * Martin Fowler が解説している (参考: [SubcutaneousTest](https://martinfowler.com/bliki/SubcutaneousTest.html))
+  * 元は医療用語っぽい感じがする
+
+* **P96** インテグレーションテストの単位は？
+  * 別コンポーネントだったり別チームだったりあるいはその両方
+  * Web アプリだとフロントエンドーバックエンドとか
+
+* **P97** テスト駆動とテストファーストは違うというお話
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">情報処理試験にテスト駆動開発が出題されたらしいけど、問題文はこれだろうか。正解は「エ」なのだろうけど、なんというか、ソウジャナイ感があるな……（テストファーストの説明だったらこれでも良いのだけど） <a href="https://t.co/wCKKoSFUM5">https://t.co/wCKKoSFUM5</a></p>&mdash; Takuto Wada (@t_wada) <a href="https://twitter.com/t_wada/status/986055492785991680?ref_src=twsrc%5Etfw">2018年4月17日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* **P100** カバレッジ 75.0% いかないとリリースできない Salesforce とか
+
+* **P101** 無意味に環境に依存するテストはつらい
+  * OS やランタイムの時計操作するとか・・・
+  * ファイルシステム依存とか・・・
+
+* **P102** この Java コードは JUnit なのか TestNG なのか... (`assertEquals` の引数 (expected, actual) が両者で逆なので)
+
+* **P106** モックマニアいるよね〜
