@@ -148,3 +148,18 @@ title: 読書ノート - ベタープログラマ
 * **P102** この Java コードは JUnit なのか TestNG なのか... (`assertEquals` の引数 (expected, actual) が両者で逆なので)
 
 * **P106** モックマニアいるよね〜
+
+### 第12章
+
+* **P115** 「分散した自己」 (distributed self) が初耳だった
+  * Michel Feathers は「レガシーコード改善ガイド」の著者、ただしその本には出てこないような
+  * Twitter だった・・・！
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">Distributed Self - the pattern where a god class passes itself to a bunch of instances it creates.</p>&mdash; Michael Feathers (@mfeathers) <a href="https://twitter.com/mfeathers/status/63287091487973376?ref_src=twsrc%5Etfw">2011年4月27日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* **P116** Singleton は不変 (immutable) でも悪なのか？
+  * 少なくとも複雑さについて言えば、実質的なグローバル変数みたいな使い方が悪なけでは
+  * Scala, Kotlin の companion object は実質シングルトンになるが、普通状態を持つような使い方はしない
+  * そもそも普通のクラスでも `HogeHogeConsts` みたいな定数を集めていろんな所から参照するのも複雑さを持ち込む
+

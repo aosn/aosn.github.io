@@ -49,7 +49,7 @@ title: ベタープログラマ
 | ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)             | 大阪府   | 司会進行,締め役 |
 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)                | 愛知県   | 　         |
 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)       | 東京都   |            |
-| ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)                | 山形県   | 　         |
+| ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)                | 東京都   | 　         |
 | ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617) | 神奈川県 |            |
 
 ## スケジュール
@@ -63,6 +63,7 @@ title: ベタープログラマ
 |  5 | 2018-04-15 23:00-23:30 | 3 | :x::o::o::o::x::x:    | 第9章             |                        |
 |  6 | 2018-04-30 23:00-23:30 | 5 | :o::x::o::o::o::o:    | 第10章            |                        |
 |  7 | 2018-05-06 23:00-23:30 | 4 | :o::x::o::o::x::o:    | 第11章            |                        |
+|  8 | 2018-05-20 23:00-23:30 | 3 | :o::x::o::o::x::x:    | 第12章            |                        |
 
 * 2018-04-22, 2018-05-13 は参加者不足により流会
 
