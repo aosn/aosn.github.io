@@ -45,8 +45,8 @@ title: ベタープログラマ
 
 | ID                                                                                        | 地域     | 備考      |
 |:------------------------------------------------------------------------------------------|:---------|:----------|
-| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                         | 東京都   |            |
-| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)             | 大阪府   | 司会進行,締め役 |
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                         | 東京都   | 司会進行 |
+| ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)             | 大阪府   | 締め役 |
 | ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)                | 愛知県   | 　         |
 | ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)       | 東京都   |            |
 | ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)                | 東京都   | 　         |
@@ -64,6 +64,7 @@ title: ベタープログラマ
 |  6 | 2018-04-30 23:00-23:30 | 5 | :o::x::o::o::o::o:    | 第10章            |                        |
 |  7 | 2018-05-06 23:00-23:30 | 4 | :o::x::o::o::x::o:    | 第11章            |                        |
 |  8 | 2018-05-20 23:00-23:30 | 3 | :o::x::o::o::x::x:    | 第12章            |                        |
+|  9 | 2018-05-27 23:00-23:00 | 3 | :o::x::o::o::x::x:    | 第13章            |                        |
 
 * 2018-04-22, 2018-05-13 は参加者不足により流会
 
