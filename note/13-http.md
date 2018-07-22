@@ -73,6 +73,8 @@ title: 読書ノート - Real World HTTP
 
 → 要 Errata 報告
 
+### 第3章
+
 * **P69** 第1段落2行目「`sampleget`」とあるが「`simpleget`」の間違いと思われる
 
 → 要 Errata 報告
@@ -113,6 +115,8 @@ title: 読書ノート - Real World HTTP
 * **P79** `httputil.DumpResponse` はどんな出力になる？
   * GoDoc で試せる: https://golang.org/pkg/net/http/httputil/#DumpResponse
 
+### 第4章
+
 * **P89** 「`PUT` と `DELETE` が必須のメソッドとなった」とあるが、必須とは？
   * サーバーは適切な応答を返さないといけないとか？
 
@@ -147,6 +151,8 @@ curl: (91) No OCSP response received
 
 → 要 Errata 報告
 
+### 第5章
+
 * **P127** `If-Range` 実際にどんなところで使うんだろう？
   - `If-` 系いくつかあるみたい (参考: [tohoho](http://www.tohoho-web.com/ex/http.htm#If-Range))
 
@@ -157,6 +163,8 @@ curl: (91) No OCSP response received
 * **P151** 例5-13、html のとじタグ (`</html>`) がない
 
 → 誤植？
+
+### 第6章
 
 * **P167** Sierra は `SecureTransport` だが HighSierra は `LibreSSL` に変わっている
 
@@ -170,12 +178,27 @@ curl: (91) No OCSP response received
 * **P184** 可搬性がない...
   - 多言語との通信とかまじめにやる気が無い感ある
 
+### 第7章
+
 * **P195** 「Wifi」とあるが、ふつう「Wi-Fi」と書かないか・・・？
 
 * **P212** 「7.5.5.3 SRTCもその1つで」とあるが、「SRTPもその1つで」の誤植みたい
 
 → 要 Errata 報告
 
+### 第8章
+
 * **P227** 「サンプルhCard のサンプルはの通りです。」とあるが「サンプルは例8-4の通りです。」の誤植みたい
 
 → 要 Errata 報告
+
+### 第9章
+
+* **P251** サーバープッシュが動かない・・・普通の GET になってしまう
+
+* **P257** Mithril.js の stream の呼び出しが間違っていて JS エラーになる。公式ドキュメントに従い、以下のように修正する必要がある (参考: [stream() - Mithril.js](http://mithril-ja.js.org/stream.html))。
+
+```diff
+-            this.primes = stream([]);
++            this.primes = m.stream([]);
+```
