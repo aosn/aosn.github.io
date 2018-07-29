@@ -202,3 +202,11 @@ curl: (91) No OCSP response received
 -            this.primes = stream([]);
 +            this.primes = m.stream([]);
 ```
+
+### 第10章
+
+* **281** 第2段落4行目「バックアップの署名書が」とあるが、「証明書」の typo と思われる
+
+→ 要 Errata 報告
+
+* **P283** 「Wifi」とあるが、ふつう「Wi-Fi」と書かないか・・・？(再掲)
