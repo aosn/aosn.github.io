@@ -3,6 +3,48 @@ layout: page
 title: 📚実績
 ---
 
+## #13 Real World HTTP
+
+{:refdef: style="float: right;"}
+[![](/images/cover-http.png "Real World HTTP")](/workshop/13-http)
+{: refdef}
+
+* 書籍: [Real World HTTP](/workshop/13-http)
+* 頁数: 360
+* 日程: 2018/01/28 ～ 2018/09/02
+* 回数: 18
+* 人数: 6
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :bulb:提案者 :star:司会進行 :pencil:議事録
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+  * ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617)
+
+[読書ノート](/note/13-http)
+
+## #12 現場で役立つシステム設計の原則
+
+{:refdef: style="float: right;"}
+[![](/images/cover-principles.jpg "現場で役立つシステム設計の原則")](/workshop/12-principles)
+{: refdef}
+
+※ Bパート
+
+* 書籍: [現場で役立つシステム設計の原則](/workshop/12-principles)
+* 頁数: 320
+* 日程: 2017/12/10 ～ 2018/03/11
+* 回数: 11
+* 人数: 6
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star:司会進行 :pencil:議事録
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa) :bulb:提案者
+  * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
+  * ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617)
+
+[読書ノート](/note/12-principles)
+
 ## #11 人月の神話
 
 {:refdef: style="float: right;"}
