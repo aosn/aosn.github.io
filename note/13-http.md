@@ -210,3 +210,33 @@ curl: (91) No OCSP response received
 → 要 Errata 報告
 
 * **P283** 「Wifi」とあるが、ふつう「Wi-Fi」と書かないか・・・？(再掲)
+
+* **P286** 2FA 管理がめんどい、スマホ買い替え時とか・・・
+  * MS ならバックアップできる (参考: [バックアップ機能が有効になった Microsoft Authenticator](http://www.vwnet.jp/windows/Other/2018050201/MicrosoftAuthenticatorBackup.htm))
+  * アンチ Google や MS なあなたには FreeOTP がおすすめ (バックアップはできないみたいだけど): https://freeotp.github.io/ 
+
+* **P290** Google Analytics 強い、ほかあるのか
+  * 忍者ツールズ・・・
+
+### 第11章
+
+* **P295** REST vs. RPC... マイクロサービスアーキテクチャにも言及があったね
+
+* **P296** HATEOAS ってなんて読む？ (全然あてにならない) yomikata.org によると「ヘイトース」: http://yomikata.org/word/hateoas
+
+* **297** GitHub の REST API などは `Accept` ヘッダーでバージョン切り替えられるしとても RESTful: https://developer.github.com/v3/
+
+  * GraphQL も流行りだしている
+  * GitHub GraphQL API の Explorer 楽しい: https://developer.github.com/v4/explorer/
+
+* **P301** 403 か 404 かについて筆者が Twitter で補足している
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">「存在している」という「情報」をログインしていないユーザーに見せない、という意味では404が正しいこともありえますね。 <a href="https://t.co/kKEq3soiXc">https://t.co/kKEq3soiXc</a></p>&mdash; 渋川よしき (@shibu_jp) <a href="https://twitter.com/shibu_jp/status/1023858593462767616?ref_src=twsrc%5Etfw">2018年7月30日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Real World HTTPでは403の代わりに404を返す可能性については一言だけ触れていたけど、あんまりきちんと説明してなかったので、今度改定のチャンスがあったとき用のネタ帳に追記しておこう。 <a href="https://t.co/kKEq3soiXc">https://t.co/kKEq3soiXc</a></p>&mdash; 渋川よしき (@shibu_jp) <a href="https://twitter.com/shibu_jp/status/1023859756824322048?ref_src=twsrc%5Etfw">2018年7月30日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* **P302** 表11-2 の最後に "451 Unavailable For Legal Ressons" とあるが、 "Reasons" の typo と思われる (参考: [Wikipedia](https://ja.wikipedia.org/wiki/HTTP_451))
+
+→ 要 Errata 報告
