@@ -21,7 +21,7 @@ title: 📚実績
   * ![](/images/users/kzt-ysmr_16.png) [kzt-ysmr](https://github.com/kzt-ysmr)
   * ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617)
 
-[読書ノート](/note/13-http)
+[読書ノート](/note/13-http) (正誤表貢献: 13件報告・掲載済)
 
 ## #12 現場で役立つシステム設計の原則
 
@@ -179,7 +179,7 @@ title: 📚実績
   * ![](/images/users/akeboshi_16.png) [akeboshi](https://github.com/akeboshi)
   * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
 
-[読書ノート](/note/6-unix) (正誤表貢献: 4件報告)
+[読書ノート](/note/6-unix) (正誤表貢献: 4件報告・掲載済)
 
 ## #5 入門 React
 
@@ -289,4 +289,4 @@ title: 📚実績
   * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
   * ![](/images/users/s-hosoai_16.png) [s-hosoai](https://github.com/s-hosoai)
 
-[読書ノート](/note/1-java8) (正誤表貢献: 2件報告・掲載)
+[読書ノート](/note/1-java8) (正誤表貢献: 2件報告・掲載済)

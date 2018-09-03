@@ -48,6 +48,7 @@ Bパート (討論会形式)
 
 ### 正誤表貢献実績
 
+* [Real World HTTP](/workshop/13-http) 13件報告 (掲載済)
 * [Unix考古学 Truth of the Legend](/workshop/6-unix) 4件報告 (掲載済)
 * [入門 React](/workshop/5-react) 9件報告
 * [Gradle 徹底入門](/workshop/3-gradle) 10件報告
