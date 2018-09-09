@@ -42,9 +42,9 @@ title: プログラミングRust
 
 | ID                                                                                        | 地域     | 備考             |
 |:------------------------------------------------------------------------------------------|:---------|:----------------|
-| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                         | 神奈川県 | 議事録            |
-| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)                | 愛知県   | 司会進行          |
-| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)       | 東京都   |                  |
+| ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan)                         | 東京都   | 議事録            |
+| ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)                | 東京都   | 司会進行          |
+| ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)       | 茨城県   |                  |
 | ![](/images/users/budougumi0617_16.png) [budougumi0617](https://github.com/budougumi0617) | 神奈川県 | 電子版            |
 
 ## スケジュール
