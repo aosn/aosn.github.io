@@ -51,7 +51,7 @@ title: プログラミングRust
 
 | # | Date & Time (JST) | A | ![](/images/users/mikan_16.png) ![](/images/users/intptr-t_16.png) ![](/images/users/LagunaPresa_16.png) ![](/images/users/budougumi0617_16.png) | Pages | Misc. |
 |---:|:----------------------:|:-:|:------------:|:----------|:-------------------|
-|  1 | 2018-01-28 21:00-23:00 | 4 | :o::o::o::o: |   1 - xxx | 訳者まえがき、まえがき |
+|  1 | 2018-01-28 21:00-23:00 | 4 | :o::o::o::o: |   1 -  16 | 訳者まえがき、まえがき |
 
 
 ## 成果物

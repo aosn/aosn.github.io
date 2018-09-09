@@ -11,5 +11,14 @@ title: 読書ノート - プログラミングRust
 
 ## ノート
 
-### まえがき
+### 第1章
 
+* **P7** Mac での rust の入れ方・・・
+  * rustup.rs (書籍で紹介されているやり方)
+  * brew install rust
+  * brew install rustup-init
+
+### 第2章
+
+* **P15** 文字列テンプレート意味不・・・
+  * ➝ P403, P405
