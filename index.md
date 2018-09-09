@@ -9,6 +9,7 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 
 | #  | パート | 書籍                                            |頁数 | 日程                    |回数|人数| 司会進行 |
 |---:|:----:|:----------------------------------------------|:---:|:------------------------|:--:|:--:|:---------|
+| 15 | A | [プログラミングRust](/workshop/15-rust) | 608 | 2018/09/09 - (実施中) |    |  4 | ![](/images/users/intptr-t_16.png) intptr-t |
 | 14 | B | [ベタープログラマ](/workshop/14-betterprog) | 376 | 2018/03/18 - (実施中)  |    |  6 | ![](/images/users/mikan_16.png) mikan |
 | 13 | A | [Real World HTTP](/workshop/13-http) | 360 | 2018/01/28 - 2018/09/02 | 18 |  6 | ![](/images/users/mikan_16.png) mikan |
 | 12 | B | [現場で役立つシステム設計の原則](/workshop/12-principles) | 320 | 2017/12/10 - 2018/03/11 | 11 |  6 | ![](/images/users/mikan_16.png) mikan |
@@ -26,6 +27,7 @@ AOSN 読書会は、IT 分野の技術書をオンラインで輪読する読書
 
 Aパート (輪読会形式・新書限定)
 
+[![](/images/cover-rust.gif "プログラミングRust")](/workshop/15-rust)
 [![](/images/cover-http.png "Real World HTTP")](/workshop/13-http)
 [![](/images/cover-elixir.jpg "プログラミングElixir")](/workshop/10-elixir)
 [![](/images/cover-blockchain.png "ブロックチェーン 仕組みと理論")](/workshop/9-blockchain)
