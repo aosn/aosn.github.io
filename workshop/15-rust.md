@@ -16,7 +16,7 @@ title: プログラミングRust
 ### 対象書籍
 
 * 書籍: [プログラミングRust](https://www.oreilly.co.jp/books/9784873118550/)
-* 著者: Jim Blandy, Jason Orendorff
+* 著者: Jim Blandy:us:, Jason Orendorff:us:
 * 訳者: 中田 秀基:jp:
 * 出版: オライリージャパン
 * 発売: 2018/08/10
