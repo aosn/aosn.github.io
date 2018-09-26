@@ -3,6 +3,18 @@ layout: page
 title: 🍻イベント
 ---
 
+## [#11 「プログラマーの日」合宿 (2018)](/event/1-0915camp)
+
+![](/photo/20180915-04.jpg "合宿の様子")
+
+* 実施: 2018/09/15 - 2018/09/16
+* 場所: 登別温泉 (北海道)
+* 人数: 4
+  * ![](/images/users/mikan_16.png) [mikan](https://github.com/mikan) :star: 幹事
+  * ![](/images/users/intptr-t_16.png) [intptr-t](https://github.com/intptr-t)
+  * ![](/images/users/LagunaPresa_16.png) [LagunaPresa](https://github.com/LagunaPresa)
+  * ![](/images/users/MrBearing_16.png) [MrBearing](https://github.com/MrBearing)
+
 ## [#10 夏の渋谷OFF (2018)](/event/10-0804off)
 
 ![](/photo/20180804_1921.jpg "渋谷")
