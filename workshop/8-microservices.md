@@ -99,15 +99,3 @@ title: マイクロサービスアーキテクチャ
 | 最大同時参加数 | 7 |
 | 最小同時参加数 | 3 |
 | 平均同時参加数 | 4.60 |
-
-### 参加者推移
-
-<canvas id="timesChart" width="400" height="200"></canvas>
-
-### 参加回数
-
-<canvas id="attendeesChart" width="400" height="200"></canvas>
-
-<script>
-handleEntryCharts("8-microservices");
-</script>

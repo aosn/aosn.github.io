@@ -81,17 +81,3 @@ title: ベタープログラマ
 ### 読書ノート
 
 [読書ノート](/note/14-betterprog)をご覧ください。
-
-## 統計
-
-### 参加者推移
-
-<canvas id="timesChart" width="400" height="200"></canvas>
-
-### 参加回数
-
-<canvas id="attendeesChart" width="400" height="200"></canvas>
-
-<script>
-handleEntryCharts("14-betterprog");
-</script>

@@ -149,15 +149,3 @@ Scala や Clojure といった関数型プログラミングの考え方を取�
 | 最大同時参加数 | 6 |
 | 最小同時参加数 | 4 |
 | 平均同時参加数 | 5.51 |
-
-### 参加者推移
-
-<canvas id="timesChart" width="400" height="200"></canvas>
-
-### 参加回数
-
-<canvas id="attendeesChart" width="400" height="200"></canvas>
-
-<script>
-handleEntryCharts("1-java8");
-</script>

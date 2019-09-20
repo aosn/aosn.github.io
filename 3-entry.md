@@ -30,28 +30,7 @@ AOSN 読書会に参加したい、という方は、以下の参加条件と実
 
 ## エントリー方法
 
-以下のフォームに記入して送信してください。
-
-<form method="POST" action="https://6ai0xdga9k.execute-api.us-east-2.amazonaws.com/prod/aosn-entry">
-<table>
-<tr><th>GitHub ID</th><td><input name="id" size="15" maxlength="40" required /></td></tr>
-<tr><th>名前 (アルファベット)</th><td><input name="name" size="20" maxlength="40" required /></td></tr>
-<tr><th>Email (受信可能なもの)</th><td><input type="email" name="email" size="40" maxlength="40" required /></td>
-</tr>
-<tr><th>参加枠</th><td> 
-<label><input type="radio" name="part" value="ab" checked />Aパート+Bパート</label>
-<label><input type="radio" name="part" value="a" />Aパート</label>
-<label><input type="radio" name="part" value="b" />Bパート</label>
-<label><input type="radio" name="part" value="-" />未定</label>
-</td></tr>
-<tr><th>コメント</th><td><input name="Comment" size="50" maxlength="50" /></td></tr>
-</table>
-<input type="submit" />
-</form>
-
-管理者が申請を確認したら、記入した E-mail アドレス宛に Slack と Discord の招待を送りますので、ご対応ください。
-
-なお、管理・登録作業は [![](/images/users/mikan_16.png "mikan")](https://github.com/mikan) [mikan](Https://github.com/mikan) と [![](/images/users/MrBearing_16.png "MrBearing")](https://github.com/MrBearing) [MrBearing](Https://github.com/MrBearing) が担当しています。
+[![](/images/users/mikan_16.png "mikan")](https://github.com/mikan) [mikan](Https://github.com/mikan) までお知らせください。
 
 ## よくある質問
 

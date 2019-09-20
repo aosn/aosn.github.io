@@ -6,69 +6,6 @@
   <meta name="description" content="{{ site.description }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/main3.css" | prepend: site.baseurl }}">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
-  <script>
-    colors = [
-      'rgba(92, 186, 230, 0.7)', 'rgba(182, 217, 87, 0.7)', 'rgba(250, 195, 100, 0.7)', 'rgba(140, 211, 255, 0.7)',
-      'rgba(217, 152, 203, 0.7)', 'rgba(242, 210, 73, 0.7)', 'rgba(147, 185, 198, 0.7)', 'rgba(204, 197, 168, 0.7)',
-      'rgba(82, 186, 204, 0.7)', 'rgba(219, 219, 70, 0.7)', 'rgba(152, 170, 251, 0.7)'];
-    lineChartOptions = {
-      scales: {
-        yAxes: [{
-          ticks: {
-            beginAtZero:true
-          }
-        }]
-      }
-    };
-    horizontalBarChartOptions = {
-      scales: {
-        xAxes: [{
-          ticks: {
-            beginAtZero:true
-          }
-        }]
-      }
-    }
-    function drawEntryCharts(dataset) {
-      var timesChart = new Chart(document.getElementById("timesChart").getContext('2d'), {
-        type: 'line',
-        data: {
-          labels: dataset.times.labels,
-          datasets: [{
-            label: '参加者数',
-            data: dataset.times.data,
-            backgroundColor: colors
-          }]
-        },
-        options: lineChartOptions
-      });
-      var attendeesChart = new Chart(document.getElementById("attendeesChart").getContext('2d'), {
-        type: 'horizontalBar',
-        data: {
-          labels: dataset.attendees.labels,
-          datasets: [{
-            label: '参加回数',
-            data: dataset.attendees.data,
-            backgroundColor: colors
-          }]
-        },
-        options: horizontalBarChartOptions
-      });
-    }
-    function handleEntryCharts(key) {
-      const request = new XMLHttpRequest();
-      request.open("GET", "https://chart.aosn.ws/" + key);
-      request.addEventListener("load", (event) => {
-        if (event.target.status !== 200) {
-          console.log(`[chartgen] ${event.target.status}: ${event.target.statusText}`);
-          return;
-        }
-        drawEntryCharts(JSON.parse(event.target.responseText));
-      });
-      request.send();
-    }
-  </script>
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106952990-1"></script>
   <script>

@@ -83,17 +83,3 @@ title: Real World HTTP
 ### 読書ノート
 
 [読書ノート](/note/13-http)をご覧ください。
-
-## 統計
-
-### 参加者推移
-
-<canvas id="timesChart" width="400" height="200"></canvas>
-
-### 参加回数
-
-<canvas id="attendeesChart" width="400" height="200"></canvas>
-
-<script>
-handleEntryCharts("13-http");
-</script>

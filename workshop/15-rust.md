@@ -63,17 +63,3 @@ title: プログラミングRust
 ### 読書ノート
 
 [読書ノート](/note/15-rust)をご覧ください。
-
-## 統計
-
-### 参加者推移
-
-<canvas id="timesChart" width="400" height="200"></canvas>
-
-### 参加回数
-
-<canvas id="attendeesChart" width="400" height="200"></canvas>
-
-<script>
-handleEntryCharts("15-rust");
-</script>

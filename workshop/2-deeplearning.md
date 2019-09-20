@@ -66,15 +66,3 @@ title: 深層学習
 | 最大同時参加数 | 8 |
 | 最小同時参加数 | 4 |
 | 平均同時参加数 | 5.90 |
-
-### 参加者推移
-
-<canvas id="timesChart" width="400" height="200"></canvas>
-
-### 参加回数
-
-<canvas id="attendeesChart" width="400" height="200"></canvas>
-
-<script>
-handleEntryCharts("2-deeplearning");
-</script>
