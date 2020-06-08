@@ -6,7 +6,6 @@ description: "AOSN読書会は、IT分野の技術書をオンラインで輪読
 copyright: "2014-2019 Alice on Sunday Nights Workshop"
 baseurl: ""
 url: "https://aosn.github.io"
-twitter_username: aosn_ws
 github_username: aosn
 
 # Build settings
